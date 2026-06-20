@@ -1,0 +1,7906 @@
+{
+  "26190": {
+    "unit_id": 26190,
+    "win_times": 7,
+    "lose_times": 9,
+    "draw_times": 0,
+    "win_rate": 0.4375,
+    "lose_rate": 0.5625
+  },
+  "26196": {
+    "unit_id": 26196,
+    "win_times": 170,
+    "lose_times": 233,
+    "draw_times": 3,
+    "win_rate": 0.4187192,
+    "lose_rate": 0.57389164
+  },
+  "26194": {
+    "unit_id": 26194,
+    "win_times": 185,
+    "lose_times": 232,
+    "draw_times": 4,
+    "win_rate": 0.43942994,
+    "lose_rate": 0.5510689
+  },
+  "26192": {
+    "unit_id": 26192,
+    "win_times": 766,
+    "lose_times": 624,
+    "draw_times": 1,
+    "win_rate": 0.55068296,
+    "lose_rate": 0.44859812
+  },
+  "26178": {
+    "unit_id": 26178,
+    "win_times": 31,
+    "lose_times": 51,
+    "draw_times": 1,
+    "win_rate": 0.37349397,
+    "lose_rate": 0.61445785
+  },
+  "26180": {
+    "unit_id": 26180,
+    "win_times": 233,
+    "lose_times": 325,
+    "draw_times": 3,
+    "win_rate": 0.41532975,
+    "lose_rate": 0.57932264
+  },
+  "26188": {
+    "unit_id": 26188,
+    "win_times": 11,
+    "lose_times": 20,
+    "draw_times": 0,
+    "win_rate": 0.3548387,
+    "lose_rate": 0.6451613
+  },
+  "26185": {
+    "unit_id": 26185,
+    "win_times": 415,
+    "lose_times": 377,
+    "draw_times": 8,
+    "win_rate": 0.51875,
+    "lose_rate": 0.47125
+  },
+  "26175": {
+    "unit_id": 26175,
+    "win_times": 77,
+    "lose_times": 116,
+    "draw_times": 4,
+    "win_rate": 0.39086294,
+    "lose_rate": 0.5888325
+  },
+  "26173": {
+    "unit_id": 26173,
+    "win_times": 7,
+    "lose_times": 14,
+    "draw_times": 0,
+    "win_rate": 0.33333334,
+    "lose_rate": 0.6666667
+  },
+  "26165": {
+    "unit_id": 26165,
+    "win_times": 269,
+    "lose_times": 268,
+    "draw_times": 5,
+    "win_rate": 0.49630997,
+    "lose_rate": 0.49446493
+  },
+  "26163": {
+    "unit_id": 26163,
+    "win_times": 28,
+    "lose_times": 45,
+    "draw_times": 2,
+    "win_rate": 0.37333333,
+    "lose_rate": 0.6
+  },
+  "26169": {
+    "unit_id": 26169,
+    "win_times": 25,
+    "lose_times": 39,
+    "draw_times": 0,
+    "win_rate": 0.390625,
+    "lose_rate": 0.609375
+  },
+  "26167": {
+    "unit_id": 26167,
+    "win_times": 132,
+    "lose_times": 155,
+    "draw_times": 3,
+    "win_rate": 0.45517242,
+    "lose_rate": 0.5344828
+  },
+  "26162": {
+    "unit_id": 26162,
+    "win_times": 32,
+    "lose_times": 58,
+    "draw_times": 0,
+    "win_rate": 0.35555556,
+    "lose_rate": 0.64444447
+  },
+  "26171": {
+    "unit_id": 26171,
+    "win_times": 141,
+    "lose_times": 183,
+    "draw_times": 9,
+    "win_rate": 0.4234234,
+    "lose_rate": 0.5495495
+  },
+  "26160": {
+    "unit_id": 26160,
+    "win_times": 383,
+    "lose_times": 486,
+    "draw_times": 4,
+    "win_rate": 0.43871707,
+    "lose_rate": 0.556701
+  },
+  "26158": {
+    "unit_id": 26158,
+    "win_times": 46,
+    "lose_times": 78,
+    "draw_times": 4,
+    "win_rate": 0.359375,
+    "lose_rate": 0.609375
+  },
+  "26148": {
+    "unit_id": 26148,
+    "win_times": 149,
+    "lose_times": 161,
+    "draw_times": 13,
+    "win_rate": 0.4613003,
+    "lose_rate": 0.498452
+  },
+  "26152": {
+    "unit_id": 26152,
+    "win_times": 66,
+    "lose_times": 74,
+    "draw_times": 2,
+    "win_rate": 0.46478873,
+    "lose_rate": 0.52112675
+  },
+  "26146": {
+    "unit_id": 26146,
+    "win_times": 168,
+    "lose_times": 161,
+    "draw_times": 0,
+    "win_rate": 0.5106383,
+    "lose_rate": 0.4893617
+  },
+  "26142": {
+    "unit_id": 26142,
+    "win_times": 197,
+    "lose_times": 321,
+    "draw_times": 9,
+    "win_rate": 0.37381405,
+    "lose_rate": 0.60910815
+  },
+  "26150": {
+    "unit_id": 26150,
+    "win_times": 61,
+    "lose_times": 65,
+    "draw_times": 0,
+    "win_rate": 0.48412699,
+    "lose_rate": 0.515873
+  },
+  "26144": {
+    "unit_id": 26144,
+    "win_times": 340,
+    "lose_times": 307,
+    "draw_times": 1,
+    "win_rate": 0.52469134,
+    "lose_rate": 0.47376543
+  },
+  "26128": {
+    "unit_id": 26128,
+    "win_times": 41,
+    "lose_times": 52,
+    "draw_times": 1,
+    "win_rate": 0.43617022,
+    "lose_rate": 0.5531915
+  },
+  "26126": {
+    "unit_id": 26126,
+    "win_times": 18,
+    "lose_times": 27,
+    "draw_times": 0,
+    "win_rate": 0.4,
+    "lose_rate": 0.6
+  },
+  "26120": {
+    "unit_id": 26120,
+    "win_times": 395,
+    "lose_times": 330,
+    "draw_times": 1,
+    "win_rate": 0.54407716,
+    "lose_rate": 0.45454547
+  },
+  "26125": {
+    "unit_id": 26125,
+    "win_times": 100,
+    "lose_times": 108,
+    "draw_times": 3,
+    "win_rate": 0.47393364,
+    "lose_rate": 0.51184833
+  },
+  "26123": {
+    "unit_id": 26123,
+    "win_times": 363,
+    "lose_times": 233,
+    "draw_times": 2,
+    "win_rate": 0.6070234,
+    "lose_rate": 0.3896321
+  },
+  "26121": {
+    "unit_id": 26121,
+    "win_times": 141,
+    "lose_times": 172,
+    "draw_times": 0,
+    "win_rate": 0.45047924,
+    "lose_rate": 0.5495208
+  },
+  "26119": {
+    "unit_id": 26119,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "26107": {
+    "unit_id": 26107,
+    "win_times": 135,
+    "lose_times": 172,
+    "draw_times": 2,
+    "win_rate": 0.4368932,
+    "lose_rate": 0.5566343
+  },
+  "26104": {
+    "unit_id": 26104,
+    "win_times": 13,
+    "lose_times": 27,
+    "draw_times": 1,
+    "win_rate": 0.31707317,
+    "lose_rate": 0.6585366
+  },
+  "26098": {
+    "unit_id": 26098,
+    "win_times": 152,
+    "lose_times": 252,
+    "draw_times": 4,
+    "win_rate": 0.37254903,
+    "lose_rate": 0.61764705
+  },
+  "26102": {
+    "unit_id": 26102,
+    "win_times": 100,
+    "lose_times": 135,
+    "draw_times": 0,
+    "win_rate": 0.42553192,
+    "lose_rate": 0.5744681
+  },
+  "26099": {
+    "unit_id": 26099,
+    "win_times": 142,
+    "lose_times": 227,
+    "draw_times": 1,
+    "win_rate": 0.3837838,
+    "lose_rate": 0.6135135
+  },
+  "26097": {
+    "unit_id": 26097,
+    "win_times": 4,
+    "lose_times": 8,
+    "draw_times": 0,
+    "win_rate": 0.33333334,
+    "lose_rate": 0.6666667
+  },
+  "26094": {
+    "unit_id": 26094,
+    "win_times": 9,
+    "lose_times": 13,
+    "draw_times": 0,
+    "win_rate": 0.4090909,
+    "lose_rate": 0.59090906
+  },
+  "26092": {
+    "unit_id": 26092,
+    "win_times": 76,
+    "lose_times": 118,
+    "draw_times": 0,
+    "win_rate": 0.39175257,
+    "lose_rate": 0.6082474
+  },
+  "26096": {
+    "unit_id": 26096,
+    "win_times": 707,
+    "lose_times": 759,
+    "draw_times": 6,
+    "win_rate": 0.4802989,
+    "lose_rate": 0.515625
+  },
+  "26090": {
+    "unit_id": 26090,
+    "win_times": 370,
+    "lose_times": 403,
+    "draw_times": 7,
+    "win_rate": 0.47435898,
+    "lose_rate": 0.51666665
+  },
+  "26087": {
+    "unit_id": 26087,
+    "win_times": 120,
+    "lose_times": 152,
+    "draw_times": 0,
+    "win_rate": 0.44117647,
+    "lose_rate": 0.5588235
+  },
+  "26084": {
+    "unit_id": 26084,
+    "win_times": 77,
+    "lose_times": 109,
+    "draw_times": 1,
+    "win_rate": 0.4117647,
+    "lose_rate": 0.5828877
+  },
+  "26082": {
+    "unit_id": 26082,
+    "win_times": 82,
+    "lose_times": 122,
+    "draw_times": 0,
+    "win_rate": 0.4019608,
+    "lose_rate": 0.5980392
+  },
+  "25067": {
+    "unit_id": 25067,
+    "win_times": 107,
+    "lose_times": 129,
+    "draw_times": 1,
+    "win_rate": 0.45147678,
+    "lose_rate": 0.5443038
+  },
+  "26077": {
+    "unit_id": 26077,
+    "win_times": 599,
+    "lose_times": 850,
+    "draw_times": 14,
+    "win_rate": 0.40943268,
+    "lose_rate": 0.58099794
+  },
+  "25066": {
+    "unit_id": 25066,
+    "win_times": 38,
+    "lose_times": 94,
+    "draw_times": 4,
+    "win_rate": 0.27941176,
+    "lose_rate": 0.6911765
+  },
+  "25065": {
+    "unit_id": 25065,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "26047": {
+    "unit_id": 26047,
+    "win_times": 13,
+    "lose_times": 58,
+    "draw_times": 0,
+    "win_rate": 0.18309858,
+    "lose_rate": 0.8169014
+  },
+  "24843": {
+    "unit_id": 24843,
+    "win_times": 96,
+    "lose_times": 102,
+    "draw_times": 4,
+    "win_rate": 0.47524753,
+    "lose_rate": 0.5049505
+  },
+  "25005": {
+    "unit_id": 25005,
+    "win_times": 369,
+    "lose_times": 405,
+    "draw_times": 3,
+    "win_rate": 0.47490346,
+    "lose_rate": 0.5212355
+  },
+  "25063": {
+    "unit_id": 25063,
+    "win_times": 116,
+    "lose_times": 127,
+    "draw_times": 0,
+    "win_rate": 0.47736627,
+    "lose_rate": 0.52263373
+  },
+  "25011": {
+    "unit_id": 25011,
+    "win_times": 34,
+    "lose_times": 34,
+    "draw_times": 3,
+    "win_rate": 0.47887325,
+    "lose_rate": 0.47887325
+  },
+  "24793": {
+    "unit_id": 24793,
+    "win_times": 78,
+    "lose_times": 65,
+    "draw_times": 0,
+    "win_rate": 0.54545456,
+    "lose_rate": 0.45454547
+  },
+  "24736": {
+    "unit_id": 24736,
+    "win_times": 71,
+    "lose_times": 81,
+    "draw_times": 2,
+    "win_rate": 0.46103895,
+    "lose_rate": 0.52597404
+  },
+  "24748": {
+    "unit_id": 24748,
+    "win_times": 46,
+    "lose_times": 52,
+    "draw_times": 0,
+    "win_rate": 0.46938777,
+    "lose_rate": 0.53061223
+  },
+  "24753": {
+    "unit_id": 24753,
+    "win_times": 4,
+    "lose_times": 8,
+    "draw_times": 0,
+    "win_rate": 0.33333334,
+    "lose_rate": 0.6666667
+  },
+  "24732": {
+    "unit_id": 24732,
+    "win_times": 320,
+    "lose_times": 397,
+    "draw_times": 0,
+    "win_rate": 0.44630405,
+    "lose_rate": 0.553696
+  },
+  "24733": {
+    "unit_id": 24733,
+    "win_times": 470,
+    "lose_times": 547,
+    "draw_times": 6,
+    "win_rate": 0.45943305,
+    "lose_rate": 0.5347019
+  },
+  "24730": {
+    "unit_id": 24730,
+    "win_times": 679,
+    "lose_times": 711,
+    "draw_times": 6,
+    "win_rate": 0.4863897,
+    "lose_rate": 0.50931233
+  },
+  "24725": {
+    "unit_id": 24725,
+    "win_times": 196,
+    "lose_times": 251,
+    "draw_times": 1,
+    "win_rate": 0.4375,
+    "lose_rate": 0.56026787
+  },
+  "24720": {
+    "unit_id": 24720,
+    "win_times": 27,
+    "lose_times": 27,
+    "draw_times": 1,
+    "win_rate": 0.4909091,
+    "lose_rate": 0.4909091
+  },
+  "24728": {
+    "unit_id": 24728,
+    "win_times": 374,
+    "lose_times": 403,
+    "draw_times": 10,
+    "win_rate": 0.47522235,
+    "lose_rate": 0.51207113
+  },
+  "24726": {
+    "unit_id": 24726,
+    "win_times": 148,
+    "lose_times": 142,
+    "draw_times": 0,
+    "win_rate": 0.5103448,
+    "lose_rate": 0.48965517
+  },
+  "24722": {
+    "unit_id": 24722,
+    "win_times": 16,
+    "lose_times": 13,
+    "draw_times": 0,
+    "win_rate": 0.55172414,
+    "lose_rate": 0.44827586
+  },
+  "24718": {
+    "unit_id": 24718,
+    "win_times": 124,
+    "lose_times": 130,
+    "draw_times": 0,
+    "win_rate": 0.48818898,
+    "lose_rate": 0.511811
+  },
+  "24716": {
+    "unit_id": 24716,
+    "win_times": 113,
+    "lose_times": 161,
+    "draw_times": 2,
+    "win_rate": 0.40942028,
+    "lose_rate": 0.5833333
+  },
+  "24714": {
+    "unit_id": 24714,
+    "win_times": 328,
+    "lose_times": 395,
+    "draw_times": 8,
+    "win_rate": 0.4487004,
+    "lose_rate": 0.5403557
+  },
+  "24709": {
+    "unit_id": 24709,
+    "win_times": 224,
+    "lose_times": 136,
+    "draw_times": 0,
+    "win_rate": 0.62222224,
+    "lose_rate": 0.37777779
+  },
+  "24712": {
+    "unit_id": 24712,
+    "win_times": 73,
+    "lose_times": 58,
+    "draw_times": 2,
+    "win_rate": 0.5488722,
+    "lose_rate": 0.43609023
+  },
+  "24713": {
+    "unit_id": 24713,
+    "win_times": 217,
+    "lose_times": 170,
+    "draw_times": 6,
+    "win_rate": 0.5521628,
+    "lose_rate": 0.43256998
+  },
+  "24703": {
+    "unit_id": 24703,
+    "win_times": 11,
+    "lose_times": 9,
+    "draw_times": 0,
+    "win_rate": 0.55,
+    "lose_rate": 0.45
+  },
+  "24705": {
+    "unit_id": 24705,
+    "win_times": 57,
+    "lose_times": 75,
+    "draw_times": 0,
+    "win_rate": 0.4318182,
+    "lose_rate": 0.5681818
+  },
+  "24702": {
+    "unit_id": 24702,
+    "win_times": 630,
+    "lose_times": 460,
+    "draw_times": 2,
+    "win_rate": 0.5769231,
+    "lose_rate": 0.42124543
+  },
+  "24700": {
+    "unit_id": 24700,
+    "win_times": 58,
+    "lose_times": 58,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "24607": {
+    "unit_id": 24607,
+    "win_times": 254,
+    "lose_times": 348,
+    "draw_times": 5,
+    "win_rate": 0.4184514,
+    "lose_rate": 0.5733114
+  },
+  "24603": {
+    "unit_id": 24603,
+    "win_times": 110,
+    "lose_times": 137,
+    "draw_times": 2,
+    "win_rate": 0.44176707,
+    "lose_rate": 0.5502008
+  },
+  "24601": {
+    "unit_id": 24601,
+    "win_times": 115,
+    "lose_times": 110,
+    "draw_times": 1,
+    "win_rate": 0.50884956,
+    "lose_rate": 0.48672566
+  },
+  "24605": {
+    "unit_id": 24605,
+    "win_times": 45,
+    "lose_times": 49,
+    "draw_times": 0,
+    "win_rate": 0.4787234,
+    "lose_rate": 0.5212766
+  },
+  "24429": {
+    "unit_id": 24429,
+    "win_times": 288,
+    "lose_times": 350,
+    "draw_times": 3,
+    "win_rate": 0.44929796,
+    "lose_rate": 0.5460218
+  },
+  "24428": {
+    "unit_id": 24428,
+    "win_times": 381,
+    "lose_times": 497,
+    "draw_times": 1,
+    "win_rate": 0.4334471,
+    "lose_rate": 0.56541526
+  },
+  "24426": {
+    "unit_id": 24426,
+    "win_times": 488,
+    "lose_times": 428,
+    "draw_times": 4,
+    "win_rate": 0.5304348,
+    "lose_rate": 0.46521738
+  },
+  "24425": {
+    "unit_id": 24425,
+    "win_times": 47,
+    "lose_times": 47,
+    "draw_times": 1,
+    "win_rate": 0.49473685,
+    "lose_rate": 0.49473685
+  },
+  "24423": {
+    "unit_id": 24423,
+    "win_times": 45,
+    "lose_times": 56,
+    "draw_times": 1,
+    "win_rate": 0.44117647,
+    "lose_rate": 0.54901963
+  },
+  "24419": {
+    "unit_id": 24419,
+    "win_times": 128,
+    "lose_times": 215,
+    "draw_times": 0,
+    "win_rate": 0.37317786,
+    "lose_rate": 0.6268222
+  },
+  "24416": {
+    "unit_id": 24416,
+    "win_times": 39,
+    "lose_times": 48,
+    "draw_times": 0,
+    "win_rate": 0.44827586,
+    "lose_rate": 0.55172414
+  },
+  "24417": {
+    "unit_id": 24417,
+    "win_times": 540,
+    "lose_times": 592,
+    "draw_times": 2,
+    "win_rate": 0.47619048,
+    "lose_rate": 0.52204585
+  },
+  "24422": {
+    "unit_id": 24422,
+    "win_times": 35,
+    "lose_times": 44,
+    "draw_times": 0,
+    "win_rate": 0.443038,
+    "lose_rate": 0.556962
+  },
+  "24414": {
+    "unit_id": 24414,
+    "win_times": 494,
+    "lose_times": 545,
+    "draw_times": 3,
+    "win_rate": 0.47408828,
+    "lose_rate": 0.5230326
+  },
+  "24421": {
+    "unit_id": 24421,
+    "win_times": 113,
+    "lose_times": 130,
+    "draw_times": 0,
+    "win_rate": 0.46502057,
+    "lose_rate": 0.5349794
+  },
+  "24413": {
+    "unit_id": 24413,
+    "win_times": 341,
+    "lose_times": 345,
+    "draw_times": 2,
+    "win_rate": 0.49563953,
+    "lose_rate": 0.50145346
+  },
+  "24411": {
+    "unit_id": 24411,
+    "win_times": 133,
+    "lose_times": 160,
+    "draw_times": 1,
+    "win_rate": 0.45238096,
+    "lose_rate": 0.5442177
+  },
+  "24409": {
+    "unit_id": 24409,
+    "win_times": 321,
+    "lose_times": 445,
+    "draw_times": 5,
+    "win_rate": 0.4163424,
+    "lose_rate": 0.5771725
+  },
+  "24407": {
+    "unit_id": 24407,
+    "win_times": 1747,
+    "lose_times": 1510,
+    "draw_times": 11,
+    "win_rate": 0.5345777,
+    "lose_rate": 0.4620563
+  },
+  "24403": {
+    "unit_id": 24403,
+    "win_times": 41,
+    "lose_times": 75,
+    "draw_times": 0,
+    "win_rate": 0.35344827,
+    "lose_rate": 0.6465517
+  },
+  "24405": {
+    "unit_id": 24405,
+    "win_times": 553,
+    "lose_times": 617,
+    "draw_times": 1,
+    "win_rate": 0.47224593,
+    "lose_rate": 0.5269001
+  },
+  "24402": {
+    "unit_id": 24402,
+    "win_times": 40,
+    "lose_times": 50,
+    "draw_times": 1,
+    "win_rate": 0.43956044,
+    "lose_rate": 0.5494506
+  },
+  "24401": {
+    "unit_id": 24401,
+    "win_times": 371,
+    "lose_times": 312,
+    "draw_times": 1,
+    "win_rate": 0.5423977,
+    "lose_rate": 0.45614034
+  },
+  "24404": {
+    "unit_id": 24404,
+    "win_times": 34,
+    "lose_times": 59,
+    "draw_times": 0,
+    "win_rate": 0.3655914,
+    "lose_rate": 0.6344086
+  },
+  "24210": {
+    "unit_id": 24210,
+    "win_times": 135,
+    "lose_times": 143,
+    "draw_times": 0,
+    "win_rate": 0.4856115,
+    "lose_rate": 0.5143885
+  },
+  "24209": {
+    "unit_id": 24209,
+    "win_times": 90,
+    "lose_times": 74,
+    "draw_times": 1,
+    "win_rate": 0.54545456,
+    "lose_rate": 0.44848484
+  },
+  "24207": {
+    "unit_id": 24207,
+    "win_times": 459,
+    "lose_times": 506,
+    "draw_times": 1,
+    "win_rate": 0.4751553,
+    "lose_rate": 0.52380955
+  },
+  "24204": {
+    "unit_id": 24204,
+    "win_times": 23,
+    "lose_times": 37,
+    "draw_times": 0,
+    "win_rate": 0.38333333,
+    "lose_rate": 0.6166667
+  },
+  "24201": {
+    "unit_id": 24201,
+    "win_times": 374,
+    "lose_times": 407,
+    "draw_times": 3,
+    "win_rate": 0.47704083,
+    "lose_rate": 0.5191327
+  },
+  "24205": {
+    "unit_id": 24205,
+    "win_times": 156,
+    "lose_times": 173,
+    "draw_times": 0,
+    "win_rate": 0.47416413,
+    "lose_rate": 0.5258359
+  },
+  "24033": {
+    "unit_id": 24033,
+    "win_times": 117,
+    "lose_times": 129,
+    "draw_times": 1,
+    "win_rate": 0.47368422,
+    "lose_rate": 0.5222672
+  },
+  "24203": {
+    "unit_id": 24203,
+    "win_times": 150,
+    "lose_times": 131,
+    "draw_times": 0,
+    "win_rate": 0.5338078,
+    "lose_rate": 0.46619216
+  },
+  "24027": {
+    "unit_id": 24027,
+    "win_times": 100,
+    "lose_times": 139,
+    "draw_times": 1,
+    "win_rate": 0.41666666,
+    "lose_rate": 0.57916665
+  },
+  "24020": {
+    "unit_id": 24020,
+    "win_times": 159,
+    "lose_times": 162,
+    "draw_times": 3,
+    "win_rate": 0.49074075,
+    "lose_rate": 0.5
+  },
+  "24018": {
+    "unit_id": 24018,
+    "win_times": 162,
+    "lose_times": 177,
+    "draw_times": 0,
+    "win_rate": 0.4778761,
+    "lose_rate": 0.5221239
+  },
+  "24017": {
+    "unit_id": 24017,
+    "win_times": 277,
+    "lose_times": 256,
+    "draw_times": 1,
+    "win_rate": 0.5187266,
+    "lose_rate": 0.47940075
+  },
+  "24013": {
+    "unit_id": 24013,
+    "win_times": 104,
+    "lose_times": 76,
+    "draw_times": 0,
+    "win_rate": 0.5777778,
+    "lose_rate": 0.42222223
+  },
+  "24015": {
+    "unit_id": 24015,
+    "win_times": 172,
+    "lose_times": 109,
+    "draw_times": 0,
+    "win_rate": 0.61209965,
+    "lose_rate": 0.38790035
+  },
+  "24008": {
+    "unit_id": 24008,
+    "win_times": 96,
+    "lose_times": 136,
+    "draw_times": 1,
+    "win_rate": 0.41201717,
+    "lose_rate": 0.583691
+  },
+  "24011": {
+    "unit_id": 24011,
+    "win_times": 805,
+    "lose_times": 935,
+    "draw_times": 1,
+    "win_rate": 0.46237794,
+    "lose_rate": 0.5370477
+  },
+  "24009": {
+    "unit_id": 24009,
+    "win_times": 138,
+    "lose_times": 128,
+    "draw_times": 2,
+    "win_rate": 0.51492536,
+    "lose_rate": 0.47761193
+  },
+  "24006": {
+    "unit_id": 24006,
+    "win_times": 132,
+    "lose_times": 197,
+    "draw_times": 1,
+    "win_rate": 0.4,
+    "lose_rate": 0.5969697
+  },
+  "24005": {
+    "unit_id": 24005,
+    "win_times": 80,
+    "lose_times": 118,
+    "draw_times": 1,
+    "win_rate": 0.40201005,
+    "lose_rate": 0.5929648
+  },
+  "24004": {
+    "unit_id": 24004,
+    "win_times": 2,
+    "lose_times": 2,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "24003": {
+    "unit_id": 24003,
+    "win_times": 561,
+    "lose_times": 600,
+    "draw_times": 11,
+    "win_rate": 0.47866893,
+    "lose_rate": 0.51194537
+  },
+  "23026": {
+    "unit_id": 23026,
+    "win_times": 148,
+    "lose_times": 222,
+    "draw_times": 6,
+    "win_rate": 0.39361703,
+    "lose_rate": 0.59042555
+  },
+  "23022": {
+    "unit_id": 23022,
+    "win_times": 102,
+    "lose_times": 98,
+    "draw_times": 0,
+    "win_rate": 0.51,
+    "lose_rate": 0.49
+  },
+  "24001": {
+    "unit_id": 24001,
+    "win_times": 220,
+    "lose_times": 201,
+    "draw_times": 4,
+    "win_rate": 0.5176471,
+    "lose_rate": 0.4729412
+  },
+  "23020": {
+    "unit_id": 23020,
+    "win_times": 77,
+    "lose_times": 73,
+    "draw_times": 0,
+    "win_rate": 0.5133333,
+    "lose_rate": 0.48666668
+  },
+  "23024": {
+    "unit_id": 23024,
+    "win_times": 104,
+    "lose_times": 159,
+    "draw_times": 1,
+    "win_rate": 0.3939394,
+    "lose_rate": 0.60227275
+  },
+  "23018": {
+    "unit_id": 23018,
+    "win_times": 64,
+    "lose_times": 92,
+    "draw_times": 1,
+    "win_rate": 0.40764332,
+    "lose_rate": 0.58598727
+  },
+  "23016": {
+    "unit_id": 23016,
+    "win_times": 88,
+    "lose_times": 102,
+    "draw_times": 0,
+    "win_rate": 0.4631579,
+    "lose_rate": 0.5368421
+  },
+  "23012": {
+    "unit_id": 23012,
+    "win_times": 451,
+    "lose_times": 346,
+    "draw_times": 1,
+    "win_rate": 0.5651629,
+    "lose_rate": 0.43358395
+  },
+  "23014": {
+    "unit_id": 23014,
+    "win_times": 165,
+    "lose_times": 147,
+    "draw_times": 1,
+    "win_rate": 0.52715653,
+    "lose_rate": 0.46964857
+  },
+  "23007": {
+    "unit_id": 23007,
+    "win_times": 152,
+    "lose_times": 129,
+    "draw_times": 0,
+    "win_rate": 0.54092526,
+    "lose_rate": 0.45907474
+  },
+  "23010": {
+    "unit_id": 23010,
+    "win_times": 300,
+    "lose_times": 317,
+    "draw_times": 5,
+    "win_rate": 0.48231512,
+    "lose_rate": 0.5096463
+  },
+  "23006": {
+    "unit_id": 23006,
+    "win_times": 22,
+    "lose_times": 26,
+    "draw_times": 0,
+    "win_rate": 0.45833334,
+    "lose_rate": 0.5416667
+  },
+  "23004": {
+    "unit_id": 23004,
+    "win_times": 836,
+    "lose_times": 690,
+    "draw_times": 4,
+    "win_rate": 0.54640526,
+    "lose_rate": 0.4509804
+  },
+  "23002": {
+    "unit_id": 23002,
+    "win_times": 200,
+    "lose_times": 284,
+    "draw_times": 3,
+    "win_rate": 0.4106776,
+    "lose_rate": 0.5831622
+  },
+  "22146": {
+    "unit_id": 22146,
+    "win_times": 9,
+    "lose_times": 19,
+    "draw_times": 0,
+    "win_rate": 0.32142857,
+    "lose_rate": 0.6785714
+  },
+  "23001": {
+    "unit_id": 23001,
+    "win_times": 177,
+    "lose_times": 276,
+    "draw_times": 1,
+    "win_rate": 0.38986784,
+    "lose_rate": 0.6079295
+  },
+  "22150": {
+    "unit_id": 22150,
+    "win_times": 183,
+    "lose_times": 252,
+    "draw_times": 3,
+    "win_rate": 0.4178082,
+    "lose_rate": 0.5753425
+  },
+  "22141": {
+    "unit_id": 22141,
+    "win_times": 700,
+    "lose_times": 974,
+    "draw_times": 10,
+    "win_rate": 0.41567695,
+    "lose_rate": 0.5783848
+  },
+  "22143": {
+    "unit_id": 22143,
+    "win_times": 226,
+    "lose_times": 171,
+    "draw_times": 0,
+    "win_rate": 0.56926954,
+    "lose_rate": 0.4307305
+  },
+  "22144": {
+    "unit_id": 22144,
+    "win_times": 71,
+    "lose_times": 109,
+    "draw_times": 0,
+    "win_rate": 0.39444444,
+    "lose_rate": 0.60555553
+  },
+  "22139": {
+    "unit_id": 22139,
+    "win_times": 495,
+    "lose_times": 645,
+    "draw_times": 4,
+    "win_rate": 0.43269232,
+    "lose_rate": 0.5638112
+  },
+  "22135": {
+    "unit_id": 22135,
+    "win_times": 920,
+    "lose_times": 794,
+    "draw_times": 5,
+    "win_rate": 0.5351949,
+    "lose_rate": 0.46189645
+  },
+  "22134": {
+    "unit_id": 22134,
+    "win_times": 49,
+    "lose_times": 41,
+    "draw_times": 2,
+    "win_rate": 0.5326087,
+    "lose_rate": 0.4456522
+  },
+  "22137": {
+    "unit_id": 22137,
+    "win_times": 118,
+    "lose_times": 106,
+    "draw_times": 1,
+    "win_rate": 0.52444446,
+    "lose_rate": 0.47111112
+  },
+  "22129": {
+    "unit_id": 22129,
+    "win_times": 619,
+    "lose_times": 684,
+    "draw_times": 4,
+    "win_rate": 0.47360367,
+    "lose_rate": 0.5233359
+  },
+  "22132": {
+    "unit_id": 22132,
+    "win_times": 138,
+    "lose_times": 160,
+    "draw_times": 2,
+    "win_rate": 0.46,
+    "lose_rate": 0.53333336
+  },
+  "22127": {
+    "unit_id": 22127,
+    "win_times": 162,
+    "lose_times": 125,
+    "draw_times": 1,
+    "win_rate": 0.5625,
+    "lose_rate": 0.4340278
+  },
+  "22131": {
+    "unit_id": 22131,
+    "win_times": 29,
+    "lose_times": 19,
+    "draw_times": 0,
+    "win_rate": 0.6041667,
+    "lose_rate": 0.39583334
+  },
+  "22126": {
+    "unit_id": 22126,
+    "win_times": 320,
+    "lose_times": 190,
+    "draw_times": 3,
+    "win_rate": 0.6237817,
+    "lose_rate": 0.37037036
+  },
+  "22122": {
+    "unit_id": 22122,
+    "win_times": 56,
+    "lose_times": 88,
+    "draw_times": 2,
+    "win_rate": 0.38356164,
+    "lose_rate": 0.60273975
+  },
+  "22124": {
+    "unit_id": 22124,
+    "win_times": 188,
+    "lose_times": 191,
+    "draw_times": 0,
+    "win_rate": 0.49604222,
+    "lose_rate": 0.5039578
+  },
+  "22121": {
+    "unit_id": 22121,
+    "win_times": 63,
+    "lose_times": 55,
+    "draw_times": 0,
+    "win_rate": 0.5338983,
+    "lose_rate": 0.4661017
+  },
+  "22119": {
+    "unit_id": 22119,
+    "win_times": 1639,
+    "lose_times": 1400,
+    "draw_times": 8,
+    "win_rate": 0.5379061,
+    "lose_rate": 0.45946833
+  },
+  "22118": {
+    "unit_id": 22118,
+    "win_times": 425,
+    "lose_times": 547,
+    "draw_times": 2,
+    "win_rate": 0.43634498,
+    "lose_rate": 0.56160164
+  },
+  "22113": {
+    "unit_id": 22113,
+    "win_times": 962,
+    "lose_times": 761,
+    "draw_times": 3,
+    "win_rate": 0.557358,
+    "lose_rate": 0.4409038
+  },
+  "22116": {
+    "unit_id": 22116,
+    "win_times": 245,
+    "lose_times": 246,
+    "draw_times": 7,
+    "win_rate": 0.49196786,
+    "lose_rate": 0.4939759
+  },
+  "22115": {
+    "unit_id": 22115,
+    "win_times": 571,
+    "lose_times": 536,
+    "draw_times": 2,
+    "win_rate": 0.5148783,
+    "lose_rate": 0.4833183
+  },
+  "22107": {
+    "unit_id": 22107,
+    "win_times": 178,
+    "lose_times": 255,
+    "draw_times": 4,
+    "win_rate": 0.40732265,
+    "lose_rate": 0.58352405
+  },
+  "22109": {
+    "unit_id": 22109,
+    "win_times": 1610,
+    "lose_times": 1346,
+    "draw_times": 4,
+    "win_rate": 0.5439189,
+    "lose_rate": 0.45472974
+  },
+  "22111": {
+    "unit_id": 22111,
+    "win_times": 46,
+    "lose_times": 88,
+    "draw_times": 1,
+    "win_rate": 0.34074074,
+    "lose_rate": 0.65185183
+  },
+  "22105": {
+    "unit_id": 22105,
+    "win_times": 271,
+    "lose_times": 199,
+    "draw_times": 1,
+    "win_rate": 0.57537156,
+    "lose_rate": 0.42250532
+  },
+  "22106": {
+    "unit_id": 22106,
+    "win_times": 138,
+    "lose_times": 96,
+    "draw_times": 1,
+    "win_rate": 0.587234,
+    "lose_rate": 0.40851063
+  },
+  "22101": {
+    "unit_id": 22101,
+    "win_times": 365,
+    "lose_times": 316,
+    "draw_times": 3,
+    "win_rate": 0.5336257,
+    "lose_rate": 0.4619883
+  },
+  "22103": {
+    "unit_id": 22103,
+    "win_times": 388,
+    "lose_times": 360,
+    "draw_times": 2,
+    "win_rate": 0.5173333,
+    "lose_rate": 0.48
+  },
+  "22100": {
+    "unit_id": 22100,
+    "win_times": 160,
+    "lose_times": 106,
+    "draw_times": 0,
+    "win_rate": 0.60150373,
+    "lose_rate": 0.39849624
+  },
+  "22095": {
+    "unit_id": 22095,
+    "win_times": 236,
+    "lose_times": 255,
+    "draw_times": 2,
+    "win_rate": 0.47870183,
+    "lose_rate": 0.51724136
+  },
+  "22098": {
+    "unit_id": 22098,
+    "win_times": 72,
+    "lose_times": 96,
+    "draw_times": 0,
+    "win_rate": 0.42857143,
+    "lose_rate": 0.5714286
+  },
+  "22092": {
+    "unit_id": 22092,
+    "win_times": 856,
+    "lose_times": 606,
+    "draw_times": 4,
+    "win_rate": 0.58390176,
+    "lose_rate": 0.41336972
+  },
+  "22097": {
+    "unit_id": 22097,
+    "win_times": 22,
+    "lose_times": 16,
+    "draw_times": 0,
+    "win_rate": 0.57894737,
+    "lose_rate": 0.42105263
+  },
+  "22093": {
+    "unit_id": 22093,
+    "win_times": 147,
+    "lose_times": 204,
+    "draw_times": 1,
+    "win_rate": 0.41761363,
+    "lose_rate": 0.57954544
+  },
+  "22090": {
+    "unit_id": 22090,
+    "win_times": 537,
+    "lose_times": 660,
+    "draw_times": 4,
+    "win_rate": 0.4471274,
+    "lose_rate": 0.54954207
+  },
+  "22088": {
+    "unit_id": 22088,
+    "win_times": 149,
+    "lose_times": 212,
+    "draw_times": 2,
+    "win_rate": 0.4104683,
+    "lose_rate": 0.58402205
+  },
+  "22089": {
+    "unit_id": 22089,
+    "win_times": 237,
+    "lose_times": 240,
+    "draw_times": 1,
+    "win_rate": 0.4958159,
+    "lose_rate": 0.50209206
+  },
+  "22084": {
+    "unit_id": 22084,
+    "win_times": 1531,
+    "lose_times": 1171,
+    "draw_times": 10,
+    "win_rate": 0.56452805,
+    "lose_rate": 0.43178466
+  },
+  "22086": {
+    "unit_id": 22086,
+    "win_times": 537,
+    "lose_times": 644,
+    "draw_times": 2,
+    "win_rate": 0.45393068,
+    "lose_rate": 0.5443787
+  },
+  "22079": {
+    "unit_id": 22079,
+    "win_times": 174,
+    "lose_times": 145,
+    "draw_times": 1,
+    "win_rate": 0.54375,
+    "lose_rate": 0.453125
+  },
+  "22080": {
+    "unit_id": 22080,
+    "win_times": 918,
+    "lose_times": 1143,
+    "draw_times": 6,
+    "win_rate": 0.44412193,
+    "lose_rate": 0.5529753
+  },
+  "22082": {
+    "unit_id": 22082,
+    "win_times": 762,
+    "lose_times": 780,
+    "draw_times": 8,
+    "win_rate": 0.4916129,
+    "lose_rate": 0.5032258
+  },
+  "22078": {
+    "unit_id": 22078,
+    "win_times": 670,
+    "lose_times": 676,
+    "draw_times": 4,
+    "win_rate": 0.4962963,
+    "lose_rate": 0.50074077
+  },
+  "22077": {
+    "unit_id": 22077,
+    "win_times": 75,
+    "lose_times": 63,
+    "draw_times": 0,
+    "win_rate": 0.54347825,
+    "lose_rate": 0.45652175
+  },
+  "22075": {
+    "unit_id": 22075,
+    "win_times": 608,
+    "lose_times": 576,
+    "draw_times": 9,
+    "win_rate": 0.50963956,
+    "lose_rate": 0.48281643
+  },
+  "22071": {
+    "unit_id": 22071,
+    "win_times": 1209,
+    "lose_times": 854,
+    "draw_times": 0,
+    "win_rate": 0.5860397,
+    "lose_rate": 0.41396025
+  },
+  "22068": {
+    "unit_id": 22068,
+    "win_times": 156,
+    "lose_times": 172,
+    "draw_times": 4,
+    "win_rate": 0.4698795,
+    "lose_rate": 0.5180723
+  },
+  "22072": {
+    "unit_id": 22072,
+    "win_times": 113,
+    "lose_times": 190,
+    "draw_times": 2,
+    "win_rate": 0.3704918,
+    "lose_rate": 0.6229508
+  },
+  "22073": {
+    "unit_id": 22073,
+    "win_times": 771,
+    "lose_times": 1016,
+    "draw_times": 11,
+    "win_rate": 0.4288098,
+    "lose_rate": 0.5650723
+  },
+  "22069": {
+    "unit_id": 22069,
+    "win_times": 996,
+    "lose_times": 1204,
+    "draw_times": 10,
+    "win_rate": 0.45067874,
+    "lose_rate": 0.5447964
+  },
+  "22067": {
+    "unit_id": 22067,
+    "win_times": 166,
+    "lose_times": 152,
+    "draw_times": 0,
+    "win_rate": 0.5220126,
+    "lose_rate": 0.4779874
+  },
+  "22063": {
+    "unit_id": 22063,
+    "win_times": 387,
+    "lose_times": 518,
+    "draw_times": 3,
+    "win_rate": 0.42621145,
+    "lose_rate": 0.5704846
+  },
+  "22065": {
+    "unit_id": 22065,
+    "win_times": 59,
+    "lose_times": 65,
+    "draw_times": 1,
+    "win_rate": 0.472,
+    "lose_rate": 0.52
+  },
+  "22057": {
+    "unit_id": 22057,
+    "win_times": 103,
+    "lose_times": 155,
+    "draw_times": 0,
+    "win_rate": 0.39922482,
+    "lose_rate": 0.6007752
+  },
+  "22059": {
+    "unit_id": 22059,
+    "win_times": 868,
+    "lose_times": 894,
+    "draw_times": 7,
+    "win_rate": 0.4906727,
+    "lose_rate": 0.50537026
+  },
+  "22062": {
+    "unit_id": 22062,
+    "win_times": 20,
+    "lose_times": 28,
+    "draw_times": 0,
+    "win_rate": 0.41666666,
+    "lose_rate": 0.5833333
+  },
+  "22061": {
+    "unit_id": 22061,
+    "win_times": 60,
+    "lose_times": 97,
+    "draw_times": 1,
+    "win_rate": 0.37974682,
+    "lose_rate": 0.613924
+  },
+  "22058": {
+    "unit_id": 22058,
+    "win_times": 4,
+    "lose_times": 10,
+    "draw_times": 0,
+    "win_rate": 0.2857143,
+    "lose_rate": 0.71428573
+  },
+  "22054": {
+    "unit_id": 22054,
+    "win_times": 416,
+    "lose_times": 428,
+    "draw_times": 3,
+    "win_rate": 0.49114522,
+    "lose_rate": 0.50531286
+  },
+  "22055": {
+    "unit_id": 22055,
+    "win_times": 176,
+    "lose_times": 167,
+    "draw_times": 2,
+    "win_rate": 0.51014495,
+    "lose_rate": 0.48405796
+  },
+  "22053": {
+    "unit_id": 22053,
+    "win_times": 33,
+    "lose_times": 50,
+    "draw_times": 0,
+    "win_rate": 0.39759037,
+    "lose_rate": 0.60240966
+  },
+  "22051": {
+    "unit_id": 22051,
+    "win_times": 20,
+    "lose_times": 41,
+    "draw_times": 0,
+    "win_rate": 0.32786885,
+    "lose_rate": 0.6721311
+  },
+  "22050": {
+    "unit_id": 22050,
+    "win_times": 413,
+    "lose_times": 373,
+    "draw_times": 2,
+    "win_rate": 0.5241117,
+    "lose_rate": 0.47335026
+  },
+  "22048": {
+    "unit_id": 22048,
+    "win_times": 314,
+    "lose_times": 301,
+    "draw_times": 5,
+    "win_rate": 0.5064516,
+    "lose_rate": 0.48548388
+  },
+  "22047": {
+    "unit_id": 22047,
+    "win_times": 1,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 1,
+    "lose_rate": 0
+  },
+  "22052": {
+    "unit_id": 22052,
+    "win_times": 14,
+    "lose_times": 14,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "22043": {
+    "unit_id": 22043,
+    "win_times": 550,
+    "lose_times": 603,
+    "draw_times": 1,
+    "win_rate": 0.47660312,
+    "lose_rate": 0.5225303
+  },
+  "22045": {
+    "unit_id": 22045,
+    "win_times": 415,
+    "lose_times": 566,
+    "draw_times": 6,
+    "win_rate": 0.42046607,
+    "lose_rate": 0.5734549
+  },
+  "22042": {
+    "unit_id": 22042,
+    "win_times": 36,
+    "lose_times": 48,
+    "draw_times": 0,
+    "win_rate": 0.42857143,
+    "lose_rate": 0.5714286
+  },
+  "22041": {
+    "unit_id": 22041,
+    "win_times": 93,
+    "lose_times": 118,
+    "draw_times": 0,
+    "win_rate": 0.4407583,
+    "lose_rate": 0.5592417
+  },
+  "22040": {
+    "unit_id": 22040,
+    "win_times": 33,
+    "lose_times": 28,
+    "draw_times": 1,
+    "win_rate": 0.5322581,
+    "lose_rate": 0.4516129
+  },
+  "22039": {
+    "unit_id": 22039,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "22037": {
+    "unit_id": 22037,
+    "win_times": 258,
+    "lose_times": 255,
+    "draw_times": 0,
+    "win_rate": 0.50292397,
+    "lose_rate": 0.49707603
+  },
+  "22038": {
+    "unit_id": 22038,
+    "win_times": 163,
+    "lose_times": 181,
+    "draw_times": 1,
+    "win_rate": 0.47246376,
+    "lose_rate": 0.5246377
+  },
+  "22036": {
+    "unit_id": 22036,
+    "win_times": 152,
+    "lose_times": 191,
+    "draw_times": 1,
+    "win_rate": 0.44186047,
+    "lose_rate": 0.5552326
+  },
+  "22035": {
+    "unit_id": 22035,
+    "win_times": 113,
+    "lose_times": 150,
+    "draw_times": 2,
+    "win_rate": 0.4264151,
+    "lose_rate": 0.5660377
+  },
+  "22032": {
+    "unit_id": 22032,
+    "win_times": 290,
+    "lose_times": 266,
+    "draw_times": 6,
+    "win_rate": 0.5160142,
+    "lose_rate": 0.4733096
+  },
+  "22030": {
+    "unit_id": 22030,
+    "win_times": 171,
+    "lose_times": 167,
+    "draw_times": 1,
+    "win_rate": 0.50442475,
+    "lose_rate": 0.49262536
+  },
+  "22029": {
+    "unit_id": 22029,
+    "win_times": 169,
+    "lose_times": 156,
+    "draw_times": 0,
+    "win_rate": 0.52,
+    "lose_rate": 0.48
+  },
+  "22028": {
+    "unit_id": 22028,
+    "win_times": 15,
+    "lose_times": 12,
+    "draw_times": 0,
+    "win_rate": 0.5555556,
+    "lose_rate": 0.44444445
+  },
+  "22027": {
+    "unit_id": 22027,
+    "win_times": 73,
+    "lose_times": 84,
+    "draw_times": 0,
+    "win_rate": 0.46496814,
+    "lose_rate": 0.53503186
+  },
+  "22026": {
+    "unit_id": 22026,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "22024": {
+    "unit_id": 22024,
+    "win_times": 786,
+    "lose_times": 907,
+    "draw_times": 6,
+    "win_rate": 0.4626251,
+    "lose_rate": 0.53384346
+  },
+  "22023": {
+    "unit_id": 22023,
+    "win_times": 1,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "22022": {
+    "unit_id": 22022,
+    "win_times": 2,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 1,
+    "lose_rate": 0
+  },
+  "22018": {
+    "unit_id": 22018,
+    "win_times": 0,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "22017": {
+    "unit_id": 22017,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "22019": {
+    "unit_id": 22019,
+    "win_times": 21,
+    "lose_times": 20,
+    "draw_times": 1,
+    "win_rate": 0.5,
+    "lose_rate": 0.47619048
+  },
+  "22016": {
+    "unit_id": 22016,
+    "win_times": 14,
+    "lose_times": 30,
+    "draw_times": 0,
+    "win_rate": 0.3181818,
+    "lose_rate": 0.6818182
+  },
+  "22021": {
+    "unit_id": 22021,
+    "win_times": 11,
+    "lose_times": 18,
+    "draw_times": 0,
+    "win_rate": 0.37931034,
+    "lose_rate": 0.62068963
+  },
+  "22013": {
+    "unit_id": 22013,
+    "win_times": 344,
+    "lose_times": 416,
+    "draw_times": 2,
+    "win_rate": 0.45144358,
+    "lose_rate": 0.54593176
+  },
+  "22015": {
+    "unit_id": 22015,
+    "win_times": 8,
+    "lose_times": 11,
+    "draw_times": 0,
+    "win_rate": 0.42105263,
+    "lose_rate": 0.57894737
+  },
+  "22010": {
+    "unit_id": 22010,
+    "win_times": 495,
+    "lose_times": 562,
+    "draw_times": 3,
+    "win_rate": 0.46698114,
+    "lose_rate": 0.5301887
+  },
+  "22011": {
+    "unit_id": 22011,
+    "win_times": 498,
+    "lose_times": 580,
+    "draw_times": 8,
+    "win_rate": 0.45856354,
+    "lose_rate": 0.53406996
+  },
+  "22009": {
+    "unit_id": 22009,
+    "win_times": 321,
+    "lose_times": 392,
+    "draw_times": 5,
+    "win_rate": 0.44707522,
+    "lose_rate": 0.545961
+  },
+  "22007": {
+    "unit_id": 22007,
+    "win_times": 441,
+    "lose_times": 667,
+    "draw_times": 6,
+    "win_rate": 0.39587075,
+    "lose_rate": 0.59874326
+  },
+  "22005": {
+    "unit_id": 22005,
+    "win_times": 97,
+    "lose_times": 184,
+    "draw_times": 2,
+    "win_rate": 0.34275618,
+    "lose_rate": 0.6501767
+  },
+  "22002": {
+    "unit_id": 22002,
+    "win_times": 1697,
+    "lose_times": 1704,
+    "draw_times": 8,
+    "win_rate": 0.49779993,
+    "lose_rate": 0.49985334
+  },
+  "22004": {
+    "unit_id": 22004,
+    "win_times": 52,
+    "lose_times": 85,
+    "draw_times": 1,
+    "win_rate": 0.3768116,
+    "lose_rate": 0.615942
+  },
+  "21034": {
+    "unit_id": 21034,
+    "win_times": 68,
+    "lose_times": 77,
+    "draw_times": 1,
+    "win_rate": 0.46575344,
+    "lose_rate": 0.5273973
+  },
+  "22001": {
+    "unit_id": 22001,
+    "win_times": 64,
+    "lose_times": 151,
+    "draw_times": 5,
+    "win_rate": 0.29090908,
+    "lose_rate": 0.68636364
+  },
+  "21031": {
+    "unit_id": 21031,
+    "win_times": 208,
+    "lose_times": 137,
+    "draw_times": 0,
+    "win_rate": 0.60289854,
+    "lose_rate": 0.39710146
+  },
+  "21032": {
+    "unit_id": 21032,
+    "win_times": 103,
+    "lose_times": 156,
+    "draw_times": 6,
+    "win_rate": 0.38867924,
+    "lose_rate": 0.58867925
+  },
+  "21025": {
+    "unit_id": 21025,
+    "win_times": 932,
+    "lose_times": 883,
+    "draw_times": 2,
+    "win_rate": 0.51293343,
+    "lose_rate": 0.48596588
+  },
+  "21027": {
+    "unit_id": 21027,
+    "win_times": 235,
+    "lose_times": 242,
+    "draw_times": 1,
+    "win_rate": 0.4916318,
+    "lose_rate": 0.50627613
+  },
+  "21029": {
+    "unit_id": 21029,
+    "win_times": 106,
+    "lose_times": 133,
+    "draw_times": 2,
+    "win_rate": 0.43983403,
+    "lose_rate": 0.55186725
+  },
+  "21023": {
+    "unit_id": 21023,
+    "win_times": 78,
+    "lose_times": 83,
+    "draw_times": 0,
+    "win_rate": 0.48447204,
+    "lose_rate": 0.51552796
+  },
+  "21021": {
+    "unit_id": 21021,
+    "win_times": 112,
+    "lose_times": 108,
+    "draw_times": 3,
+    "win_rate": 0.50224215,
+    "lose_rate": 0.48430493
+  },
+  "21019": {
+    "unit_id": 21019,
+    "win_times": 139,
+    "lose_times": 128,
+    "draw_times": 0,
+    "win_rate": 0.52059925,
+    "lose_rate": 0.47940075
+  },
+  "21018": {
+    "unit_id": 21018,
+    "win_times": 1,
+    "lose_times": 2,
+    "draw_times": 0,
+    "win_rate": 0.33333334,
+    "lose_rate": 0.6666667
+  },
+  "21017": {
+    "unit_id": 21017,
+    "win_times": 13,
+    "lose_times": 14,
+    "draw_times": 0,
+    "win_rate": 0.4814815,
+    "lose_rate": 0.5185185
+  },
+  "21013": {
+    "unit_id": 21013,
+    "win_times": 376,
+    "lose_times": 474,
+    "draw_times": 6,
+    "win_rate": 0.43925235,
+    "lose_rate": 0.5537383
+  },
+  "21016": {
+    "unit_id": 21016,
+    "win_times": 151,
+    "lose_times": 162,
+    "draw_times": 0,
+    "win_rate": 0.4824281,
+    "lose_rate": 0.51757187
+  },
+  "21012": {
+    "unit_id": 21012,
+    "win_times": 0,
+    "lose_times": 2,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "21015": {
+    "unit_id": 21015,
+    "win_times": 55,
+    "lose_times": 51,
+    "draw_times": 0,
+    "win_rate": 0.5188679,
+    "lose_rate": 0.4811321
+  },
+  "21011": {
+    "unit_id": 21011,
+    "win_times": 23,
+    "lose_times": 43,
+    "draw_times": 1,
+    "win_rate": 0.3432836,
+    "lose_rate": 0.64179105
+  },
+  "21004": {
+    "unit_id": 21004,
+    "win_times": 853,
+    "lose_times": 709,
+    "draw_times": 7,
+    "win_rate": 0.5436584,
+    "lose_rate": 0.4518802
+  },
+  "20038": {
+    "unit_id": 20038,
+    "win_times": 101,
+    "lose_times": 79,
+    "draw_times": 0,
+    "win_rate": 0.5611111,
+    "lose_rate": 0.43888888
+  },
+  "21009": {
+    "unit_id": 21009,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "21001": {
+    "unit_id": 21001,
+    "win_times": 328,
+    "lose_times": 412,
+    "draw_times": 7,
+    "win_rate": 0.4390897,
+    "lose_rate": 0.5515395
+  },
+  "20034": {
+    "unit_id": 20034,
+    "win_times": 103,
+    "lose_times": 129,
+    "draw_times": 1,
+    "win_rate": 0.44206008,
+    "lose_rate": 0.55364805
+  },
+  "20036": {
+    "unit_id": 20036,
+    "win_times": 120,
+    "lose_times": 224,
+    "draw_times": 1,
+    "win_rate": 0.3478261,
+    "lose_rate": 0.64927536
+  },
+  "20032": {
+    "unit_id": 20032,
+    "win_times": 232,
+    "lose_times": 277,
+    "draw_times": 0,
+    "win_rate": 0.45579568,
+    "lose_rate": 0.5442043
+  },
+  "20030": {
+    "unit_id": 20030,
+    "win_times": 547,
+    "lose_times": 443,
+    "draw_times": 1,
+    "win_rate": 0.5519677,
+    "lose_rate": 0.4470232
+  },
+  "20028": {
+    "unit_id": 20028,
+    "win_times": 827,
+    "lose_times": 815,
+    "draw_times": 7,
+    "win_rate": 0.50151604,
+    "lose_rate": 0.49423894
+  },
+  "20026": {
+    "unit_id": 20026,
+    "win_times": 212,
+    "lose_times": 172,
+    "draw_times": 0,
+    "win_rate": 0.5520833,
+    "lose_rate": 0.44791666
+  },
+  "20022": {
+    "unit_id": 20022,
+    "win_times": 428,
+    "lose_times": 437,
+    "draw_times": 5,
+    "win_rate": 0.49195403,
+    "lose_rate": 0.50229883
+  },
+  "20011": {
+    "unit_id": 20011,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "20024": {
+    "unit_id": 20024,
+    "win_times": 113,
+    "lose_times": 124,
+    "draw_times": 2,
+    "win_rate": 0.47280335,
+    "lose_rate": 0.51882845
+  },
+  "20021": {
+    "unit_id": 20021,
+    "win_times": 193,
+    "lose_times": 174,
+    "draw_times": 0,
+    "win_rate": 0.5258856,
+    "lose_rate": 0.47411445
+  },
+  "20012": {
+    "unit_id": 20012,
+    "win_times": 1542,
+    "lose_times": 1864,
+    "draw_times": 11,
+    "win_rate": 0.45127305,
+    "lose_rate": 0.5455077
+  },
+  "20010": {
+    "unit_id": 20010,
+    "win_times": 6,
+    "lose_times": 6,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "20006": {
+    "unit_id": 20006,
+    "win_times": 178,
+    "lose_times": 205,
+    "draw_times": 2,
+    "win_rate": 0.46233767,
+    "lose_rate": 0.53246754
+  },
+  "20008": {
+    "unit_id": 20008,
+    "win_times": 200,
+    "lose_times": 247,
+    "draw_times": 3,
+    "win_rate": 0.44444445,
+    "lose_rate": 0.54888886
+  },
+  "20005": {
+    "unit_id": 20005,
+    "win_times": 33,
+    "lose_times": 50,
+    "draw_times": 0,
+    "win_rate": 0.39759037,
+    "lose_rate": 0.60240966
+  },
+  "20002": {
+    "unit_id": 20002,
+    "win_times": 16,
+    "lose_times": 17,
+    "draw_times": 0,
+    "win_rate": 0.4848485,
+    "lose_rate": 0.5151515
+  },
+  "20004": {
+    "unit_id": 20004,
+    "win_times": 53,
+    "lose_times": 67,
+    "draw_times": 0,
+    "win_rate": 0.44166666,
+    "lose_rate": 0.55833334
+  },
+  "20001": {
+    "unit_id": 20001,
+    "win_times": 1,
+    "lose_times": 3,
+    "draw_times": 0,
+    "win_rate": 0.25,
+    "lose_rate": 0.75
+  },
+  "18028": {
+    "unit_id": 18028,
+    "win_times": 687,
+    "lose_times": 417,
+    "draw_times": 1,
+    "win_rate": 0.6217195,
+    "lose_rate": 0.37737557
+  },
+  "18027": {
+    "unit_id": 18027,
+    "win_times": 399,
+    "lose_times": 303,
+    "draw_times": 1,
+    "win_rate": 0.5675676,
+    "lose_rate": 0.43100995
+  },
+  "18025": {
+    "unit_id": 18025,
+    "win_times": 112,
+    "lose_times": 114,
+    "draw_times": 0,
+    "win_rate": 0.49557522,
+    "lose_rate": 0.50442475
+  },
+  "18024": {
+    "unit_id": 18024,
+    "win_times": 177,
+    "lose_times": 207,
+    "draw_times": 1,
+    "win_rate": 0.45974025,
+    "lose_rate": 0.5376623
+  },
+  "18023": {
+    "unit_id": 18023,
+    "win_times": 332,
+    "lose_times": 282,
+    "draw_times": 4,
+    "win_rate": 0.53721684,
+    "lose_rate": 0.4563107
+  },
+  "18020": {
+    "unit_id": 18020,
+    "win_times": 141,
+    "lose_times": 178,
+    "draw_times": 2,
+    "win_rate": 0.43925235,
+    "lose_rate": 0.55451715
+  },
+  "18022": {
+    "unit_id": 18022,
+    "win_times": 253,
+    "lose_times": 178,
+    "draw_times": 1,
+    "win_rate": 0.5856481,
+    "lose_rate": 0.41203704
+  },
+  "18019": {
+    "unit_id": 18019,
+    "win_times": 44,
+    "lose_times": 54,
+    "draw_times": 0,
+    "win_rate": 0.4489796,
+    "lose_rate": 0.5510204
+  },
+  "18016": {
+    "unit_id": 18016,
+    "win_times": 42,
+    "lose_times": 53,
+    "draw_times": 1,
+    "win_rate": 0.4375,
+    "lose_rate": 0.5520833
+  },
+  "18018": {
+    "unit_id": 18018,
+    "win_times": 123,
+    "lose_times": 102,
+    "draw_times": 0,
+    "win_rate": 0.5466667,
+    "lose_rate": 0.45333335
+  },
+  "18015": {
+    "unit_id": 18015,
+    "win_times": 85,
+    "lose_times": 78,
+    "draw_times": 0,
+    "win_rate": 0.5214724,
+    "lose_rate": 0.4785276
+  },
+  "18013": {
+    "unit_id": 18013,
+    "win_times": 21,
+    "lose_times": 31,
+    "draw_times": 0,
+    "win_rate": 0.40384614,
+    "lose_rate": 0.59615386
+  },
+  "18011": {
+    "unit_id": 18011,
+    "win_times": 124,
+    "lose_times": 122,
+    "draw_times": 1,
+    "win_rate": 0.5020243,
+    "lose_rate": 0.49392712
+  },
+  "18012": {
+    "unit_id": 18012,
+    "win_times": 89,
+    "lose_times": 82,
+    "draw_times": 1,
+    "win_rate": 0.51744187,
+    "lose_rate": 0.47674417
+  },
+  "18009": {
+    "unit_id": 18009,
+    "win_times": 500,
+    "lose_times": 692,
+    "draw_times": 2,
+    "win_rate": 0.41876048,
+    "lose_rate": 0.5795645
+  },
+  "18007": {
+    "unit_id": 18007,
+    "win_times": 43,
+    "lose_times": 34,
+    "draw_times": 0,
+    "win_rate": 0.5584416,
+    "lose_rate": 0.44155845
+  },
+  "18008": {
+    "unit_id": 18008,
+    "win_times": 9,
+    "lose_times": 12,
+    "draw_times": 0,
+    "win_rate": 0.42857143,
+    "lose_rate": 0.5714286
+  },
+  "18010": {
+    "unit_id": 18010,
+    "win_times": 475,
+    "lose_times": 293,
+    "draw_times": 1,
+    "win_rate": 0.6176853,
+    "lose_rate": 0.38101432
+  },
+  "18006": {
+    "unit_id": 18006,
+    "win_times": 18,
+    "lose_times": 15,
+    "draw_times": 0,
+    "win_rate": 0.54545456,
+    "lose_rate": 0.45454547
+  },
+  "18005": {
+    "unit_id": 18005,
+    "win_times": 66,
+    "lose_times": 63,
+    "draw_times": 1,
+    "win_rate": 0.50769234,
+    "lose_rate": 0.4846154
+  },
+  "18004": {
+    "unit_id": 18004,
+    "win_times": 180,
+    "lose_times": 222,
+    "draw_times": 1,
+    "win_rate": 0.44665012,
+    "lose_rate": 0.5508685
+  },
+  "18003": {
+    "unit_id": 18003,
+    "win_times": 10,
+    "lose_times": 11,
+    "draw_times": 0,
+    "win_rate": 0.47619048,
+    "lose_rate": 0.52380955
+  },
+  "18002": {
+    "unit_id": 18002,
+    "win_times": 27,
+    "lose_times": 13,
+    "draw_times": 0,
+    "win_rate": 0.675,
+    "lose_rate": 0.325
+  },
+  "17086": {
+    "unit_id": 17086,
+    "win_times": 31,
+    "lose_times": 27,
+    "draw_times": 0,
+    "win_rate": 0.5344828,
+    "lose_rate": 0.46551725
+  },
+  "17085": {
+    "unit_id": 17085,
+    "win_times": 30,
+    "lose_times": 40,
+    "draw_times": 1,
+    "win_rate": 0.4225352,
+    "lose_rate": 0.5633803
+  },
+  "18001": {
+    "unit_id": 18001,
+    "win_times": 15,
+    "lose_times": 22,
+    "draw_times": 0,
+    "win_rate": 0.4054054,
+    "lose_rate": 0.5945946
+  },
+  "17083": {
+    "unit_id": 17083,
+    "win_times": 386,
+    "lose_times": 359,
+    "draw_times": 4,
+    "win_rate": 0.5153538,
+    "lose_rate": 0.47930574
+  },
+  "17081": {
+    "unit_id": 17081,
+    "win_times": 315,
+    "lose_times": 333,
+    "draw_times": 2,
+    "win_rate": 0.4846154,
+    "lose_rate": 0.5123077
+  },
+  "17076": {
+    "unit_id": 17076,
+    "win_times": 45,
+    "lose_times": 68,
+    "draw_times": 1,
+    "win_rate": 0.39473686,
+    "lose_rate": 0.5964912
+  },
+  "17080": {
+    "unit_id": 17080,
+    "win_times": 456,
+    "lose_times": 362,
+    "draw_times": 1,
+    "win_rate": 0.5567766,
+    "lose_rate": 0.44200245
+  },
+  "17078": {
+    "unit_id": 17078,
+    "win_times": 96,
+    "lose_times": 128,
+    "draw_times": 1,
+    "win_rate": 0.42666668,
+    "lose_rate": 0.5688889
+  },
+  "17074": {
+    "unit_id": 17074,
+    "win_times": 173,
+    "lose_times": 125,
+    "draw_times": 1,
+    "win_rate": 0.57859534,
+    "lose_rate": 0.4180602
+  },
+  "17071": {
+    "unit_id": 17071,
+    "win_times": 32,
+    "lose_times": 62,
+    "draw_times": 0,
+    "win_rate": 0.34042552,
+    "lose_rate": 0.65957445
+  },
+  "17072": {
+    "unit_id": 17072,
+    "win_times": 450,
+    "lose_times": 337,
+    "draw_times": 2,
+    "win_rate": 0.5703422,
+    "lose_rate": 0.42712295
+  },
+  "17070": {
+    "unit_id": 17070,
+    "win_times": 28,
+    "lose_times": 35,
+    "draw_times": 2,
+    "win_rate": 0.43076923,
+    "lose_rate": 0.53846157
+  },
+  "17068": {
+    "unit_id": 17068,
+    "win_times": 88,
+    "lose_times": 98,
+    "draw_times": 1,
+    "win_rate": 0.47058824,
+    "lose_rate": 0.5240642
+  },
+  "17063": {
+    "unit_id": 17063,
+    "win_times": 109,
+    "lose_times": 89,
+    "draw_times": 5,
+    "win_rate": 0.5369458,
+    "lose_rate": 0.43842363
+  },
+  "17066": {
+    "unit_id": 17066,
+    "win_times": 105,
+    "lose_times": 84,
+    "draw_times": 5,
+    "win_rate": 0.5412371,
+    "lose_rate": 0.4329897
+  },
+  "17065": {
+    "unit_id": 17065,
+    "win_times": 383,
+    "lose_times": 388,
+    "draw_times": 4,
+    "win_rate": 0.49419355,
+    "lose_rate": 0.50064516
+  },
+  "17061": {
+    "unit_id": 17061,
+    "win_times": 173,
+    "lose_times": 194,
+    "draw_times": 0,
+    "win_rate": 0.47138965,
+    "lose_rate": 0.52861035
+  },
+  "17060": {
+    "unit_id": 17060,
+    "win_times": 513,
+    "lose_times": 570,
+    "draw_times": 2,
+    "win_rate": 0.47281107,
+    "lose_rate": 0.5253456
+  },
+  "17058": {
+    "unit_id": 17058,
+    "win_times": 111,
+    "lose_times": 153,
+    "draw_times": 3,
+    "win_rate": 0.41573033,
+    "lose_rate": 0.5730337
+  },
+  "17057": {
+    "unit_id": 17057,
+    "win_times": 52,
+    "lose_times": 59,
+    "draw_times": 1,
+    "win_rate": 0.4642857,
+    "lose_rate": 0.52678573
+  },
+  "17056": {
+    "unit_id": 17056,
+    "win_times": 18,
+    "lose_times": 34,
+    "draw_times": 0,
+    "win_rate": 0.34615386,
+    "lose_rate": 0.65384614
+  },
+  "17055": {
+    "unit_id": 17055,
+    "win_times": 12,
+    "lose_times": 16,
+    "draw_times": 5,
+    "win_rate": 0.36363637,
+    "lose_rate": 0.4848485
+  },
+  "17054": {
+    "unit_id": 17054,
+    "win_times": 11,
+    "lose_times": 5,
+    "draw_times": 0,
+    "win_rate": 0.6875,
+    "lose_rate": 0.3125
+  },
+  "17051": {
+    "unit_id": 17051,
+    "win_times": 8,
+    "lose_times": 13,
+    "draw_times": 0,
+    "win_rate": 0.3809524,
+    "lose_rate": 0.61904764
+  },
+  "17052": {
+    "unit_id": 17052,
+    "win_times": 25,
+    "lose_times": 34,
+    "draw_times": 1,
+    "win_rate": 0.41666666,
+    "lose_rate": 0.56666666
+  },
+  "17048": {
+    "unit_id": 17048,
+    "win_times": 55,
+    "lose_times": 79,
+    "draw_times": 0,
+    "win_rate": 0.41044775,
+    "lose_rate": 0.5895522
+  },
+  "17045": {
+    "unit_id": 17045,
+    "win_times": 147,
+    "lose_times": 118,
+    "draw_times": 1,
+    "win_rate": 0.55263156,
+    "lose_rate": 0.44360903
+  },
+  "17050": {
+    "unit_id": 17050,
+    "win_times": 95,
+    "lose_times": 109,
+    "draw_times": 0,
+    "win_rate": 0.46568626,
+    "lose_rate": 0.53431374
+  },
+  "17044": {
+    "unit_id": 17044,
+    "win_times": 79,
+    "lose_times": 85,
+    "draw_times": 2,
+    "win_rate": 0.4759036,
+    "lose_rate": 0.5120482
+  },
+  "17043": {
+    "unit_id": 17043,
+    "win_times": 41,
+    "lose_times": 45,
+    "draw_times": 1,
+    "win_rate": 0.47126436,
+    "lose_rate": 0.51724136
+  },
+  "17042": {
+    "unit_id": 17042,
+    "win_times": 54,
+    "lose_times": 77,
+    "draw_times": 2,
+    "win_rate": 0.40601504,
+    "lose_rate": 0.57894737
+  },
+  "17041": {
+    "unit_id": 17041,
+    "win_times": 342,
+    "lose_times": 416,
+    "draw_times": 6,
+    "win_rate": 0.44764397,
+    "lose_rate": 0.5445026
+  },
+  "17039": {
+    "unit_id": 17039,
+    "win_times": 559,
+    "lose_times": 741,
+    "draw_times": 9,
+    "win_rate": 0.42704356,
+    "lose_rate": 0.566081
+  },
+  "17038": {
+    "unit_id": 17038,
+    "win_times": 136,
+    "lose_times": 99,
+    "draw_times": 1,
+    "win_rate": 0.5762712,
+    "lose_rate": 0.41949153
+  },
+  "17036": {
+    "unit_id": 17036,
+    "win_times": 52,
+    "lose_times": 68,
+    "draw_times": 1,
+    "win_rate": 0.42975205,
+    "lose_rate": 0.56198347
+  },
+  "17032": {
+    "unit_id": 17032,
+    "win_times": 798,
+    "lose_times": 752,
+    "draw_times": 7,
+    "win_rate": 0.51252407,
+    "lose_rate": 0.4829801
+  },
+  "17030": {
+    "unit_id": 17030,
+    "win_times": 151,
+    "lose_times": 166,
+    "draw_times": 0,
+    "win_rate": 0.47634068,
+    "lose_rate": 0.5236593
+  },
+  "17028": {
+    "unit_id": 17028,
+    "win_times": 128,
+    "lose_times": 174,
+    "draw_times": 3,
+    "win_rate": 0.41967213,
+    "lose_rate": 0.5704918
+  },
+  "17027": {
+    "unit_id": 17027,
+    "win_times": 1369,
+    "lose_times": 1030,
+    "draw_times": 6,
+    "win_rate": 0.5692308,
+    "lose_rate": 0.42827442
+  },
+  "17025": {
+    "unit_id": 17025,
+    "win_times": 3222,
+    "lose_times": 3096,
+    "draw_times": 20,
+    "win_rate": 0.50836223,
+    "lose_rate": 0.48848218
+  },
+  "17026": {
+    "unit_id": 17026,
+    "win_times": 763,
+    "lose_times": 1003,
+    "draw_times": 7,
+    "win_rate": 0.43034405,
+    "lose_rate": 0.56570786
+  },
+  "17023": {
+    "unit_id": 17023,
+    "win_times": 36,
+    "lose_times": 48,
+    "draw_times": 0,
+    "win_rate": 0.42857143,
+    "lose_rate": 0.5714286
+  },
+  "17020": {
+    "unit_id": 17020,
+    "win_times": 268,
+    "lose_times": 347,
+    "draw_times": 2,
+    "win_rate": 0.43435982,
+    "lose_rate": 0.56239873
+  },
+  "17022": {
+    "unit_id": 17022,
+    "win_times": 3,
+    "lose_times": 3,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "17024": {
+    "unit_id": 17024,
+    "win_times": 563,
+    "lose_times": 572,
+    "draw_times": 2,
+    "win_rate": 0.4951627,
+    "lose_rate": 0.5030783
+  },
+  "17017": {
+    "unit_id": 17017,
+    "win_times": 538,
+    "lose_times": 602,
+    "draw_times": 2,
+    "win_rate": 0.47110334,
+    "lose_rate": 0.5271454
+  },
+  "17019": {
+    "unit_id": 17019,
+    "win_times": 286,
+    "lose_times": 293,
+    "draw_times": 4,
+    "win_rate": 0.49056605,
+    "lose_rate": 0.5025729
+  },
+  "17016": {
+    "unit_id": 17016,
+    "win_times": 20,
+    "lose_times": 20,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "17014": {
+    "unit_id": 17014,
+    "win_times": 1,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 1,
+    "lose_rate": 0
+  },
+  "17013": {
+    "unit_id": 17013,
+    "win_times": 23,
+    "lose_times": 29,
+    "draw_times": 0,
+    "win_rate": 0.44230768,
+    "lose_rate": 0.5576923
+  },
+  "17015": {
+    "unit_id": 17015,
+    "win_times": 32,
+    "lose_times": 37,
+    "draw_times": 1,
+    "win_rate": 0.45714286,
+    "lose_rate": 0.5285714
+  },
+  "17012": {
+    "unit_id": 17012,
+    "win_times": 3,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 1,
+    "lose_rate": 0
+  },
+  "17011": {
+    "unit_id": 17011,
+    "win_times": 188,
+    "lose_times": 257,
+    "draw_times": 2,
+    "win_rate": 0.42058167,
+    "lose_rate": 0.5749441
+  },
+  "17010": {
+    "unit_id": 17010,
+    "win_times": 106,
+    "lose_times": 132,
+    "draw_times": 2,
+    "win_rate": 0.44166666,
+    "lose_rate": 0.55
+  },
+  "17009": {
+    "unit_id": 17009,
+    "win_times": 196,
+    "lose_times": 221,
+    "draw_times": 5,
+    "win_rate": 0.46445498,
+    "lose_rate": 0.52369666
+  },
+  "17007": {
+    "unit_id": 17007,
+    "win_times": 80,
+    "lose_times": 83,
+    "draw_times": 0,
+    "win_rate": 0.49079755,
+    "lose_rate": 0.5092025
+  },
+  "17006": {
+    "unit_id": 17006,
+    "win_times": 37,
+    "lose_times": 28,
+    "draw_times": 0,
+    "win_rate": 0.5692308,
+    "lose_rate": 0.43076923
+  },
+  "17008": {
+    "unit_id": 17008,
+    "win_times": 256,
+    "lose_times": 273,
+    "draw_times": 5,
+    "win_rate": 0.47940075,
+    "lose_rate": 0.51123595
+  },
+  "17005": {
+    "unit_id": 17005,
+    "win_times": 66,
+    "lose_times": 79,
+    "draw_times": 2,
+    "win_rate": 0.4489796,
+    "lose_rate": 0.53741497
+  },
+  "17003": {
+    "unit_id": 17003,
+    "win_times": 9,
+    "lose_times": 25,
+    "draw_times": 0,
+    "win_rate": 0.2647059,
+    "lose_rate": 0.7352941
+  },
+  "17004": {
+    "unit_id": 17004,
+    "win_times": 125,
+    "lose_times": 197,
+    "draw_times": 1,
+    "win_rate": 0.3869969,
+    "lose_rate": 0.60990715
+  },
+  "17002": {
+    "unit_id": 17002,
+    "win_times": 32,
+    "lose_times": 31,
+    "draw_times": 0,
+    "win_rate": 0.50793654,
+    "lose_rate": 0.4920635
+  },
+  "17001": {
+    "unit_id": 17001,
+    "win_times": 98,
+    "lose_times": 111,
+    "draw_times": 0,
+    "win_rate": 0.46889952,
+    "lose_rate": 0.53110045
+  },
+  "16062": {
+    "unit_id": 16062,
+    "win_times": 20,
+    "lose_times": 38,
+    "draw_times": 0,
+    "win_rate": 0.3448276,
+    "lose_rate": 0.6551724
+  },
+  "16059": {
+    "unit_id": 16059,
+    "win_times": 65,
+    "lose_times": 59,
+    "draw_times": 0,
+    "win_rate": 0.5241935,
+    "lose_rate": 0.47580644
+  },
+  "16060": {
+    "unit_id": 16060,
+    "win_times": 23,
+    "lose_times": 30,
+    "draw_times": 1,
+    "win_rate": 0.42592594,
+    "lose_rate": 0.5555556
+  },
+  "16057": {
+    "unit_id": 16057,
+    "win_times": 25,
+    "lose_times": 23,
+    "draw_times": 0,
+    "win_rate": 0.5208333,
+    "lose_rate": 0.47916666
+  },
+  "16058": {
+    "unit_id": 16058,
+    "win_times": 187,
+    "lose_times": 135,
+    "draw_times": 1,
+    "win_rate": 0.57894737,
+    "lose_rate": 0.41795665
+  },
+  "16061": {
+    "unit_id": 16061,
+    "win_times": 37,
+    "lose_times": 44,
+    "draw_times": 0,
+    "win_rate": 0.45679012,
+    "lose_rate": 0.54320985
+  },
+  "16054": {
+    "unit_id": 16054,
+    "win_times": 297,
+    "lose_times": 243,
+    "draw_times": 0,
+    "win_rate": 0.55,
+    "lose_rate": 0.45
+  },
+  "16055": {
+    "unit_id": 16055,
+    "win_times": 118,
+    "lose_times": 135,
+    "draw_times": 3,
+    "win_rate": 0.4609375,
+    "lose_rate": 0.52734375
+  },
+  "16052": {
+    "unit_id": 16052,
+    "win_times": 16,
+    "lose_times": 17,
+    "draw_times": 0,
+    "win_rate": 0.4848485,
+    "lose_rate": 0.5151515
+  },
+  "16053": {
+    "unit_id": 16053,
+    "win_times": 44,
+    "lose_times": 29,
+    "draw_times": 0,
+    "win_rate": 0.60273975,
+    "lose_rate": 0.39726028
+  },
+  "16049": {
+    "unit_id": 16049,
+    "win_times": 524,
+    "lose_times": 498,
+    "draw_times": 1,
+    "win_rate": 0.51221895,
+    "lose_rate": 0.48680353
+  },
+  "16050": {
+    "unit_id": 16050,
+    "win_times": 177,
+    "lose_times": 166,
+    "draw_times": 4,
+    "win_rate": 0.5100865,
+    "lose_rate": 0.47838616
+  },
+  "16047": {
+    "unit_id": 16047,
+    "win_times": 292,
+    "lose_times": 343,
+    "draw_times": 1,
+    "win_rate": 0.4591195,
+    "lose_rate": 0.5393082
+  },
+  "16045": {
+    "unit_id": 16045,
+    "win_times": 150,
+    "lose_times": 145,
+    "draw_times": 1,
+    "win_rate": 0.5067568,
+    "lose_rate": 0.48986486
+  },
+  "16044": {
+    "unit_id": 16044,
+    "win_times": 2,
+    "lose_times": 4,
+    "draw_times": 0,
+    "win_rate": 0.33333334,
+    "lose_rate": 0.6666667
+  },
+  "16046": {
+    "unit_id": 16046,
+    "win_times": 22,
+    "lose_times": 31,
+    "draw_times": 0,
+    "win_rate": 0.41509435,
+    "lose_rate": 0.5849057
+  },
+  "16042": {
+    "unit_id": 16042,
+    "win_times": 241,
+    "lose_times": 290,
+    "draw_times": 7,
+    "win_rate": 0.4479554,
+    "lose_rate": 0.5390335
+  },
+  "16043": {
+    "unit_id": 16043,
+    "win_times": 43,
+    "lose_times": 39,
+    "draw_times": 0,
+    "win_rate": 0.5243902,
+    "lose_rate": 0.47560975
+  },
+  "16039": {
+    "unit_id": 16039,
+    "win_times": 4,
+    "lose_times": 12,
+    "draw_times": 0,
+    "win_rate": 0.25,
+    "lose_rate": 0.75
+  },
+  "16040": {
+    "unit_id": 16040,
+    "win_times": 27,
+    "lose_times": 39,
+    "draw_times": 1,
+    "win_rate": 0.40298507,
+    "lose_rate": 0.58208954
+  },
+  "16041": {
+    "unit_id": 16041,
+    "win_times": 1,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 1,
+    "lose_rate": 0
+  },
+  "16036": {
+    "unit_id": 16036,
+    "win_times": 63,
+    "lose_times": 89,
+    "draw_times": 2,
+    "win_rate": 0.4090909,
+    "lose_rate": 0.5779221
+  },
+  "16038": {
+    "unit_id": 16038,
+    "win_times": 9,
+    "lose_times": 13,
+    "draw_times": 0,
+    "win_rate": 0.4090909,
+    "lose_rate": 0.59090906
+  },
+  "16037": {
+    "unit_id": 16037,
+    "win_times": 1,
+    "lose_times": 8,
+    "draw_times": 0,
+    "win_rate": 0.11111111,
+    "lose_rate": 0.8888889
+  },
+  "16033": {
+    "unit_id": 16033,
+    "win_times": 1,
+    "lose_times": 9,
+    "draw_times": 0,
+    "win_rate": 0.1,
+    "lose_rate": 0.9
+  },
+  "16034": {
+    "unit_id": 16034,
+    "win_times": 846,
+    "lose_times": 947,
+    "draw_times": 3,
+    "win_rate": 0.47104678,
+    "lose_rate": 0.52728283
+  },
+  "16030": {
+    "unit_id": 16030,
+    "win_times": 11,
+    "lose_times": 19,
+    "draw_times": 0,
+    "win_rate": 0.36666667,
+    "lose_rate": 0.6333333
+  },
+  "16031": {
+    "unit_id": 16031,
+    "win_times": 626,
+    "lose_times": 627,
+    "draw_times": 7,
+    "win_rate": 0.4968254,
+    "lose_rate": 0.49761903
+  },
+  "16032": {
+    "unit_id": 16032,
+    "win_times": 464,
+    "lose_times": 520,
+    "draw_times": 3,
+    "win_rate": 0.47011146,
+    "lose_rate": 0.52684903
+  },
+  "16029": {
+    "unit_id": 16029,
+    "win_times": 78,
+    "lose_times": 125,
+    "draw_times": 1,
+    "win_rate": 0.38235295,
+    "lose_rate": 0.6127451
+  },
+  "16027": {
+    "unit_id": 16027,
+    "win_times": 421,
+    "lose_times": 488,
+    "draw_times": 6,
+    "win_rate": 0.4601093,
+    "lose_rate": 0.53333336
+  },
+  "16025": {
+    "unit_id": 16025,
+    "win_times": 422,
+    "lose_times": 435,
+    "draw_times": 1,
+    "win_rate": 0.4918415,
+    "lose_rate": 0.506993
+  },
+  "16024": {
+    "unit_id": 16024,
+    "win_times": 186,
+    "lose_times": 200,
+    "draw_times": 1,
+    "win_rate": 0.48062015,
+    "lose_rate": 0.5167959
+  },
+  "16023": {
+    "unit_id": 16023,
+    "win_times": 13,
+    "lose_times": 14,
+    "draw_times": 0,
+    "win_rate": 0.4814815,
+    "lose_rate": 0.5185185
+  },
+  "16021": {
+    "unit_id": 16021,
+    "win_times": 5,
+    "lose_times": 2,
+    "draw_times": 0,
+    "win_rate": 0.71428573,
+    "lose_rate": 0.2857143
+  },
+  "16019": {
+    "unit_id": 16019,
+    "win_times": 6,
+    "lose_times": 6,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "16022": {
+    "unit_id": 16022,
+    "win_times": 1118,
+    "lose_times": 1205,
+    "draw_times": 6,
+    "win_rate": 0.48003435,
+    "lose_rate": 0.5173894
+  },
+  "16017": {
+    "unit_id": 16017,
+    "win_times": 0,
+    "lose_times": 2,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "16020": {
+    "unit_id": 16020,
+    "win_times": 39,
+    "lose_times": 53,
+    "draw_times": 1,
+    "win_rate": 0.41935483,
+    "lose_rate": 0.56989247
+  },
+  "16018": {
+    "unit_id": 16018,
+    "win_times": 96,
+    "lose_times": 168,
+    "draw_times": 0,
+    "win_rate": 0.36363637,
+    "lose_rate": 0.6363636
+  },
+  "16016": {
+    "unit_id": 16016,
+    "win_times": 101,
+    "lose_times": 116,
+    "draw_times": 4,
+    "win_rate": 0.45701358,
+    "lose_rate": 0.5248869
+  },
+  "16015": {
+    "unit_id": 16015,
+    "win_times": 8,
+    "lose_times": 5,
+    "draw_times": 0,
+    "win_rate": 0.61538464,
+    "lose_rate": 0.3846154
+  },
+  "16013": {
+    "unit_id": 16013,
+    "win_times": 522,
+    "lose_times": 503,
+    "draw_times": 3,
+    "win_rate": 0.5077821,
+    "lose_rate": 0.48929963
+  },
+  "16014": {
+    "unit_id": 16014,
+    "win_times": 10,
+    "lose_times": 9,
+    "draw_times": 0,
+    "win_rate": 0.5263158,
+    "lose_rate": 0.47368422
+  },
+  "16008": {
+    "unit_id": 16008,
+    "win_times": 809,
+    "lose_times": 729,
+    "draw_times": 5,
+    "win_rate": 0.5243033,
+    "lose_rate": 0.47245625
+  },
+  "16012": {
+    "unit_id": 16012,
+    "win_times": 108,
+    "lose_times": 102,
+    "draw_times": 2,
+    "win_rate": 0.509434,
+    "lose_rate": 0.4811321
+  },
+  "16011": {
+    "unit_id": 16011,
+    "win_times": 253,
+    "lose_times": 286,
+    "draw_times": 5,
+    "win_rate": 0.46507353,
+    "lose_rate": 0.5257353
+  },
+  "16010": {
+    "unit_id": 16010,
+    "win_times": 17,
+    "lose_times": 30,
+    "draw_times": 0,
+    "win_rate": 0.3617021,
+    "lose_rate": 0.63829786
+  },
+  "16007": {
+    "unit_id": 16007,
+    "win_times": 64,
+    "lose_times": 75,
+    "draw_times": 0,
+    "win_rate": 0.46043167,
+    "lose_rate": 0.53956836
+  },
+  "16006": {
+    "unit_id": 16006,
+    "win_times": 10,
+    "lose_times": 10,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "16005": {
+    "unit_id": 16005,
+    "win_times": 141,
+    "lose_times": 152,
+    "draw_times": 1,
+    "win_rate": 0.47959185,
+    "lose_rate": 0.5170068
+  },
+  "16004": {
+    "unit_id": 16004,
+    "win_times": 3,
+    "lose_times": 4,
+    "draw_times": 0,
+    "win_rate": 0.42857143,
+    "lose_rate": 0.5714286
+  },
+  "16002": {
+    "unit_id": 16002,
+    "win_times": 2,
+    "lose_times": 4,
+    "draw_times": 0,
+    "win_rate": 0.33333334,
+    "lose_rate": 0.6666667
+  },
+  "16001": {
+    "unit_id": 16001,
+    "win_times": 37,
+    "lose_times": 38,
+    "draw_times": 1,
+    "win_rate": 0.4868421,
+    "lose_rate": 0.5
+  },
+  "16003": {
+    "unit_id": 16003,
+    "win_times": 43,
+    "lose_times": 70,
+    "draw_times": 1,
+    "win_rate": 0.37719297,
+    "lose_rate": 0.61403507
+  },
+  "15435": {
+    "unit_id": 15435,
+    "win_times": 912,
+    "lose_times": 968,
+    "draw_times": 5,
+    "win_rate": 0.48381963,
+    "lose_rate": 0.51352787
+  },
+  "15430": {
+    "unit_id": 15430,
+    "win_times": 1237,
+    "lose_times": 1553,
+    "draw_times": 6,
+    "win_rate": 0.44241774,
+    "lose_rate": 0.5554363
+  },
+  "15427": {
+    "unit_id": 15427,
+    "win_times": 1519,
+    "lose_times": 1399,
+    "draw_times": 15,
+    "win_rate": 0.51789975,
+    "lose_rate": 0.47698602
+  },
+  "15425": {
+    "unit_id": 15425,
+    "win_times": 1589,
+    "lose_times": 1708,
+    "draw_times": 12,
+    "win_rate": 0.4802055,
+    "lose_rate": 0.516168
+  },
+  "15421": {
+    "unit_id": 15421,
+    "win_times": 6100,
+    "lose_times": 5376,
+    "draw_times": 23,
+    "win_rate": 0.5304809,
+    "lose_rate": 0.46751893
+  },
+  "15417": {
+    "unit_id": 15417,
+    "win_times": 157,
+    "lose_times": 217,
+    "draw_times": 2,
+    "win_rate": 0.4175532,
+    "lose_rate": 0.57712764
+  },
+  "15416": {
+    "unit_id": 15416,
+    "win_times": 1163,
+    "lose_times": 1066,
+    "draw_times": 4,
+    "win_rate": 0.520824,
+    "lose_rate": 0.4773847
+  },
+  "15419": {
+    "unit_id": 15419,
+    "win_times": 1537,
+    "lose_times": 1686,
+    "draw_times": 14,
+    "win_rate": 0.47482237,
+    "lose_rate": 0.5208526
+  },
+  "15423": {
+    "unit_id": 15423,
+    "win_times": 14160,
+    "lose_times": 12929,
+    "draw_times": 103,
+    "win_rate": 0.5207414,
+    "lose_rate": 0.47547072
+  },
+  "15415": {
+    "unit_id": 15415,
+    "win_times": 1652,
+    "lose_times": 1145,
+    "draw_times": 8,
+    "win_rate": 0.5889483,
+    "lose_rate": 0.40819964
+  },
+  "15413": {
+    "unit_id": 15413,
+    "win_times": 423,
+    "lose_times": 422,
+    "draw_times": 1,
+    "win_rate": 0.5,
+    "lose_rate": 0.49881798
+  },
+  "15411": {
+    "unit_id": 15411,
+    "win_times": 1748,
+    "lose_times": 1689,
+    "draw_times": 7,
+    "win_rate": 0.50754935,
+    "lose_rate": 0.4904181
+  },
+  "15409": {
+    "unit_id": 15409,
+    "win_times": 5045,
+    "lose_times": 4428,
+    "draw_times": 22,
+    "win_rate": 0.53133225,
+    "lose_rate": 0.4663507
+  },
+  "15404": {
+    "unit_id": 15404,
+    "win_times": 24,
+    "lose_times": 32,
+    "draw_times": 0,
+    "win_rate": 0.42857143,
+    "lose_rate": 0.5714286
+  },
+  "15405": {
+    "unit_id": 15405,
+    "win_times": 7076,
+    "lose_times": 6887,
+    "draw_times": 49,
+    "win_rate": 0.5049957,
+    "lose_rate": 0.4915073
+  },
+  "15402": {
+    "unit_id": 15402,
+    "win_times": 212,
+    "lose_times": 201,
+    "draw_times": 2,
+    "win_rate": 0.5108434,
+    "lose_rate": 0.48433736
+  },
+  "15400": {
+    "unit_id": 15400,
+    "win_times": 7169,
+    "lose_times": 4806,
+    "draw_times": 20,
+    "win_rate": 0.59766567,
+    "lose_rate": 0.40066695
+  },
+  "15394": {
+    "unit_id": 15394,
+    "win_times": 520,
+    "lose_times": 488,
+    "draw_times": 1,
+    "win_rate": 0.5153617,
+    "lose_rate": 0.48364717
+  },
+  "15407": {
+    "unit_id": 15407,
+    "win_times": 3154,
+    "lose_times": 3051,
+    "draw_times": 15,
+    "win_rate": 0.50707394,
+    "lose_rate": 0.49051446
+  },
+  "15392": {
+    "unit_id": 15392,
+    "win_times": 43,
+    "lose_times": 71,
+    "draw_times": 1,
+    "win_rate": 0.37391305,
+    "lose_rate": 0.6173913
+  },
+  "15390": {
+    "unit_id": 15390,
+    "win_times": 2365,
+    "lose_times": 2523,
+    "draw_times": 16,
+    "win_rate": 0.4822594,
+    "lose_rate": 0.51447797
+  },
+  "15387": {
+    "unit_id": 15387,
+    "win_times": 2219,
+    "lose_times": 2085,
+    "draw_times": 13,
+    "win_rate": 0.51401436,
+    "lose_rate": 0.4829743
+  },
+  "15383": {
+    "unit_id": 15383,
+    "win_times": 3261,
+    "lose_times": 3181,
+    "draw_times": 11,
+    "win_rate": 0.50534636,
+    "lose_rate": 0.492949
+  },
+  "15389": {
+    "unit_id": 15389,
+    "win_times": 89,
+    "lose_times": 96,
+    "draw_times": 2,
+    "win_rate": 0.47593582,
+    "lose_rate": 0.51336896
+  },
+  "15379": {
+    "unit_id": 15379,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "15385": {
+    "unit_id": 15385,
+    "win_times": 326,
+    "lose_times": 212,
+    "draw_times": 1,
+    "win_rate": 0.60482377,
+    "lose_rate": 0.39332098
+  },
+  "15381": {
+    "unit_id": 15381,
+    "win_times": 824,
+    "lose_times": 850,
+    "draw_times": 8,
+    "win_rate": 0.489893,
+    "lose_rate": 0.50535077
+  },
+  "15377": {
+    "unit_id": 15377,
+    "win_times": 334,
+    "lose_times": 281,
+    "draw_times": 1,
+    "win_rate": 0.5422078,
+    "lose_rate": 0.45616883
+  },
+  "15370": {
+    "unit_id": 15370,
+    "win_times": 29,
+    "lose_times": 55,
+    "draw_times": 0,
+    "win_rate": 0.3452381,
+    "lose_rate": 0.6547619
+  },
+  "15365": {
+    "unit_id": 15365,
+    "win_times": 74,
+    "lose_times": 85,
+    "draw_times": 0,
+    "win_rate": 0.4654088,
+    "lose_rate": 0.5345912
+  },
+  "15367": {
+    "unit_id": 15367,
+    "win_times": 254,
+    "lose_times": 276,
+    "draw_times": 6,
+    "win_rate": 0.4738806,
+    "lose_rate": 0.51492536
+  },
+  "15361": {
+    "unit_id": 15361,
+    "win_times": 281,
+    "lose_times": 277,
+    "draw_times": 3,
+    "win_rate": 0.50089127,
+    "lose_rate": 0.49376115
+  },
+  "15369": {
+    "unit_id": 15369,
+    "win_times": 128,
+    "lose_times": 102,
+    "draw_times": 3,
+    "win_rate": 0.5493562,
+    "lose_rate": 0.43776825
+  },
+  "15359": {
+    "unit_id": 15359,
+    "win_times": 110,
+    "lose_times": 102,
+    "draw_times": 0,
+    "win_rate": 0.5188679,
+    "lose_rate": 0.4811321
+  },
+  "15357": {
+    "unit_id": 15357,
+    "win_times": 699,
+    "lose_times": 530,
+    "draw_times": 3,
+    "win_rate": 0.5673701,
+    "lose_rate": 0.4301948
+  },
+  "15355": {
+    "unit_id": 15355,
+    "win_times": 789,
+    "lose_times": 643,
+    "draw_times": 3,
+    "win_rate": 0.5498258,
+    "lose_rate": 0.4480836
+  },
+  "15354": {
+    "unit_id": 15354,
+    "win_times": 13,
+    "lose_times": 20,
+    "draw_times": 0,
+    "win_rate": 0.3939394,
+    "lose_rate": 0.6060606
+  },
+  "15352": {
+    "unit_id": 15352,
+    "win_times": 1743,
+    "lose_times": 1881,
+    "draw_times": 16,
+    "win_rate": 0.47884616,
+    "lose_rate": 0.51675826
+  },
+  "15351": {
+    "unit_id": 15351,
+    "win_times": 118,
+    "lose_times": 101,
+    "draw_times": 0,
+    "win_rate": 0.53881276,
+    "lose_rate": 0.4611872
+  },
+  "15347": {
+    "unit_id": 15347,
+    "win_times": 173,
+    "lose_times": 162,
+    "draw_times": 0,
+    "win_rate": 0.5164179,
+    "lose_rate": 0.48358208
+  },
+  "15349": {
+    "unit_id": 15349,
+    "win_times": 164,
+    "lose_times": 137,
+    "draw_times": 0,
+    "win_rate": 0.54485047,
+    "lose_rate": 0.4551495
+  },
+  "15344": {
+    "unit_id": 15344,
+    "win_times": 6,
+    "lose_times": 9,
+    "draw_times": 0,
+    "win_rate": 0.4,
+    "lose_rate": 0.6
+  },
+  "15345": {
+    "unit_id": 15345,
+    "win_times": 4562,
+    "lose_times": 4224,
+    "draw_times": 18,
+    "win_rate": 0.5181736,
+    "lose_rate": 0.47978193
+  },
+  "15343": {
+    "unit_id": 15343,
+    "win_times": 6,
+    "lose_times": 18,
+    "draw_times": 0,
+    "win_rate": 0.25,
+    "lose_rate": 0.75
+  },
+  "15340": {
+    "unit_id": 15340,
+    "win_times": 2401,
+    "lose_times": 2089,
+    "draw_times": 14,
+    "win_rate": 0.5330817,
+    "lose_rate": 0.46380994
+  },
+  "15334": {
+    "unit_id": 15334,
+    "win_times": 890,
+    "lose_times": 845,
+    "draw_times": 2,
+    "win_rate": 0.5123777,
+    "lose_rate": 0.48647094
+  },
+  "15333": {
+    "unit_id": 15333,
+    "win_times": 102,
+    "lose_times": 120,
+    "draw_times": 0,
+    "win_rate": 0.45945945,
+    "lose_rate": 0.5405405
+  },
+  "15332": {
+    "unit_id": 15332,
+    "win_times": 34,
+    "lose_times": 63,
+    "draw_times": 0,
+    "win_rate": 0.35051546,
+    "lose_rate": 0.6494845
+  },
+  "15331": {
+    "unit_id": 15331,
+    "win_times": 65,
+    "lose_times": 86,
+    "draw_times": 0,
+    "win_rate": 0.43046358,
+    "lose_rate": 0.56953645
+  },
+  "15326": {
+    "unit_id": 15326,
+    "win_times": 35,
+    "lose_times": 27,
+    "draw_times": 0,
+    "win_rate": 0.5645161,
+    "lose_rate": 0.43548387
+  },
+  "15324": {
+    "unit_id": 15324,
+    "win_times": 939,
+    "lose_times": 932,
+    "draw_times": 5,
+    "win_rate": 0.50053304,
+    "lose_rate": 0.4968017
+  },
+  "15327": {
+    "unit_id": 15327,
+    "win_times": 291,
+    "lose_times": 415,
+    "draw_times": 2,
+    "win_rate": 0.41101694,
+    "lose_rate": 0.5861582
+  },
+  "15322": {
+    "unit_id": 15322,
+    "win_times": 1550,
+    "lose_times": 1301,
+    "draw_times": 6,
+    "win_rate": 0.54252714,
+    "lose_rate": 0.45537278
+  },
+  "15318": {
+    "unit_id": 15318,
+    "win_times": 189,
+    "lose_times": 148,
+    "draw_times": 2,
+    "win_rate": 0.5575221,
+    "lose_rate": 0.43657818
+  },
+  "15316": {
+    "unit_id": 15316,
+    "win_times": 189,
+    "lose_times": 192,
+    "draw_times": 1,
+    "win_rate": 0.4947644,
+    "lose_rate": 0.5026178
+  },
+  "15312": {
+    "unit_id": 15312,
+    "win_times": 598,
+    "lose_times": 469,
+    "draw_times": 1,
+    "win_rate": 0.5599251,
+    "lose_rate": 0.4391386
+  },
+  "15310": {
+    "unit_id": 15310,
+    "win_times": 3173,
+    "lose_times": 2774,
+    "draw_times": 40,
+    "win_rate": 0.5299816,
+    "lose_rate": 0.46333724
+  },
+  "15320": {
+    "unit_id": 15320,
+    "win_times": 498,
+    "lose_times": 336,
+    "draw_times": 1,
+    "win_rate": 0.5964072,
+    "lose_rate": 0.40239522
+  },
+  "15314": {
+    "unit_id": 15314,
+    "win_times": 1763,
+    "lose_times": 1578,
+    "draw_times": 7,
+    "win_rate": 0.526583,
+    "lose_rate": 0.47132617
+  },
+  "15308": {
+    "unit_id": 15308,
+    "win_times": 777,
+    "lose_times": 780,
+    "draw_times": 4,
+    "win_rate": 0.49775785,
+    "lose_rate": 0.49967968
+  },
+  "15306": {
+    "unit_id": 15306,
+    "win_times": 108,
+    "lose_times": 143,
+    "draw_times": 2,
+    "win_rate": 0.42687747,
+    "lose_rate": 0.5652174
+  },
+  "15302": {
+    "unit_id": 15302,
+    "win_times": 702,
+    "lose_times": 623,
+    "draw_times": 1,
+    "win_rate": 0.5294118,
+    "lose_rate": 0.4698341
+  },
+  "15304": {
+    "unit_id": 15304,
+    "win_times": 70,
+    "lose_times": 84,
+    "draw_times": 0,
+    "win_rate": 0.45454547,
+    "lose_rate": 0.54545456
+  },
+  "15296": {
+    "unit_id": 15296,
+    "win_times": 32,
+    "lose_times": 36,
+    "draw_times": 0,
+    "win_rate": 0.47058824,
+    "lose_rate": 0.5294118
+  },
+  "15298": {
+    "unit_id": 15298,
+    "win_times": 5162,
+    "lose_times": 4899,
+    "draw_times": 33,
+    "win_rate": 0.5113929,
+    "lose_rate": 0.48533782
+  },
+  "15294": {
+    "unit_id": 15294,
+    "win_times": 789,
+    "lose_times": 1041,
+    "draw_times": 8,
+    "win_rate": 0.42927095,
+    "lose_rate": 0.5663765
+  },
+  "15292": {
+    "unit_id": 15292,
+    "win_times": 235,
+    "lose_times": 212,
+    "draw_times": 2,
+    "win_rate": 0.5233853,
+    "lose_rate": 0.47216037
+  },
+  "15300": {
+    "unit_id": 15300,
+    "win_times": 5300,
+    "lose_times": 3959,
+    "draw_times": 31,
+    "win_rate": 0.5705059,
+    "lose_rate": 0.42615715
+  },
+  "15286": {
+    "unit_id": 15286,
+    "win_times": 788,
+    "lose_times": 950,
+    "draw_times": 8,
+    "win_rate": 0.4513173,
+    "lose_rate": 0.5441008
+  },
+  "15284": {
+    "unit_id": 15284,
+    "win_times": 515,
+    "lose_times": 487,
+    "draw_times": 7,
+    "win_rate": 0.5104063,
+    "lose_rate": 0.4826561
+  },
+  "15283": {
+    "unit_id": 15283,
+    "win_times": 844,
+    "lose_times": 961,
+    "draw_times": 6,
+    "win_rate": 0.46604085,
+    "lose_rate": 0.530646
+  },
+  "15281": {
+    "unit_id": 15281,
+    "win_times": 48,
+    "lose_times": 49,
+    "draw_times": 0,
+    "win_rate": 0.49484536,
+    "lose_rate": 0.5051546
+  },
+  "15277": {
+    "unit_id": 15277,
+    "win_times": 191,
+    "lose_times": 224,
+    "draw_times": 1,
+    "win_rate": 0.4591346,
+    "lose_rate": 0.53846157
+  },
+  "15275": {
+    "unit_id": 15275,
+    "win_times": 41,
+    "lose_times": 41,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "15268": {
+    "unit_id": 15268,
+    "win_times": 400,
+    "lose_times": 508,
+    "draw_times": 4,
+    "win_rate": 0.4385965,
+    "lose_rate": 0.55701756
+  },
+  "15266": {
+    "unit_id": 15266,
+    "win_times": 225,
+    "lose_times": 239,
+    "draw_times": 3,
+    "win_rate": 0.4817987,
+    "lose_rate": 0.5117773
+  },
+  "15270": {
+    "unit_id": 15270,
+    "win_times": 730,
+    "lose_times": 891,
+    "draw_times": 6,
+    "win_rate": 0.44867855,
+    "lose_rate": 0.5476337
+  },
+  "15264": {
+    "unit_id": 15264,
+    "win_times": 1593,
+    "lose_times": 1496,
+    "draw_times": 12,
+    "win_rate": 0.51370525,
+    "lose_rate": 0.48242503
+  },
+  "15263": {
+    "unit_id": 15263,
+    "win_times": 215,
+    "lose_times": 222,
+    "draw_times": 2,
+    "win_rate": 0.48974943,
+    "lose_rate": 0.50569475
+  },
+  "15261": {
+    "unit_id": 15261,
+    "win_times": 64,
+    "lose_times": 54,
+    "draw_times": 1,
+    "win_rate": 0.53781515,
+    "lose_rate": 0.45378152
+  },
+  "15259": {
+    "unit_id": 15259,
+    "win_times": 121,
+    "lose_times": 108,
+    "draw_times": 0,
+    "win_rate": 0.52838427,
+    "lose_rate": 0.47161573
+  },
+  "15257": {
+    "unit_id": 15257,
+    "win_times": 669,
+    "lose_times": 567,
+    "draw_times": 6,
+    "win_rate": 0.53864735,
+    "lose_rate": 0.45652175
+  },
+  "15255": {
+    "unit_id": 15255,
+    "win_times": 90,
+    "lose_times": 121,
+    "draw_times": 2,
+    "win_rate": 0.4225352,
+    "lose_rate": 0.5680751
+  },
+  "15251": {
+    "unit_id": 15251,
+    "win_times": 63,
+    "lose_times": 69,
+    "draw_times": 0,
+    "win_rate": 0.47727272,
+    "lose_rate": 0.52272725
+  },
+  "15249": {
+    "unit_id": 15249,
+    "win_times": 2103,
+    "lose_times": 2171,
+    "draw_times": 11,
+    "win_rate": 0.49078178,
+    "lose_rate": 0.5066511
+  },
+  "15247": {
+    "unit_id": 15247,
+    "win_times": 2177,
+    "lose_times": 1901,
+    "draw_times": 10,
+    "win_rate": 0.53253424,
+    "lose_rate": 0.46501958
+  },
+  "15253": {
+    "unit_id": 15253,
+    "win_times": 42,
+    "lose_times": 55,
+    "draw_times": 1,
+    "win_rate": 0.42857143,
+    "lose_rate": 0.56122446
+  },
+  "15245": {
+    "unit_id": 15245,
+    "win_times": 67,
+    "lose_times": 87,
+    "draw_times": 0,
+    "win_rate": 0.43506494,
+    "lose_rate": 0.5649351
+  },
+  "15239": {
+    "unit_id": 15239,
+    "win_times": 438,
+    "lose_times": 423,
+    "draw_times": 3,
+    "win_rate": 0.5069444,
+    "lose_rate": 0.48958334
+  },
+  "15242": {
+    "unit_id": 15242,
+    "win_times": 151,
+    "lose_times": 209,
+    "draw_times": 1,
+    "win_rate": 0.41828254,
+    "lose_rate": 0.57894737
+  },
+  "15237": {
+    "unit_id": 15237,
+    "win_times": 2175,
+    "lose_times": 2134,
+    "draw_times": 11,
+    "win_rate": 0.5034722,
+    "lose_rate": 0.49398148
+  },
+  "15235": {
+    "unit_id": 15235,
+    "win_times": 35,
+    "lose_times": 19,
+    "draw_times": 0,
+    "win_rate": 0.6481481,
+    "lose_rate": 0.35185185
+  },
+  "15231": {
+    "unit_id": 15231,
+    "win_times": 1718,
+    "lose_times": 1615,
+    "draw_times": 9,
+    "win_rate": 0.5140634,
+    "lose_rate": 0.48324355
+  },
+  "15234": {
+    "unit_id": 15234,
+    "win_times": 185,
+    "lose_times": 187,
+    "draw_times": 2,
+    "win_rate": 0.49465242,
+    "lose_rate": 0.5
+  },
+  "15229": {
+    "unit_id": 15229,
+    "win_times": 375,
+    "lose_times": 476,
+    "draw_times": 2,
+    "win_rate": 0.43962485,
+    "lose_rate": 0.5580305
+  },
+  "15228": {
+    "unit_id": 15228,
+    "win_times": 208,
+    "lose_times": 206,
+    "draw_times": 0,
+    "win_rate": 0.5024155,
+    "lose_rate": 0.49758455
+  },
+  "15223": {
+    "unit_id": 15223,
+    "win_times": 1119,
+    "lose_times": 821,
+    "draw_times": 5,
+    "win_rate": 0.5753213,
+    "lose_rate": 0.42210796
+  },
+  "15221": {
+    "unit_id": 15221,
+    "win_times": 15,
+    "lose_times": 22,
+    "draw_times": 3,
+    "win_rate": 0.375,
+    "lose_rate": 0.55
+  },
+  "15219": {
+    "unit_id": 15219,
+    "win_times": 766,
+    "lose_times": 694,
+    "draw_times": 2,
+    "win_rate": 0.5239398,
+    "lose_rate": 0.4746922
+  },
+  "15217": {
+    "unit_id": 15217,
+    "win_times": 174,
+    "lose_times": 174,
+    "draw_times": 2,
+    "win_rate": 0.49714285,
+    "lose_rate": 0.49714285
+  },
+  "15216": {
+    "unit_id": 15216,
+    "win_times": 33,
+    "lose_times": 14,
+    "draw_times": 0,
+    "win_rate": 0.70212764,
+    "lose_rate": 0.29787233
+  },
+  "15210": {
+    "unit_id": 15210,
+    "win_times": 1790,
+    "lose_times": 1631,
+    "draw_times": 6,
+    "win_rate": 0.5223227,
+    "lose_rate": 0.47592646
+  },
+  "15208": {
+    "unit_id": 15208,
+    "win_times": 411,
+    "lose_times": 360,
+    "draw_times": 1,
+    "win_rate": 0.53238344,
+    "lose_rate": 0.46632123
+  },
+  "15205": {
+    "unit_id": 15205,
+    "win_times": 951,
+    "lose_times": 958,
+    "draw_times": 2,
+    "win_rate": 0.4976452,
+    "lose_rate": 0.5013082
+  },
+  "15203": {
+    "unit_id": 15203,
+    "win_times": 1665,
+    "lose_times": 1751,
+    "draw_times": 11,
+    "win_rate": 0.48584768,
+    "lose_rate": 0.5109425
+  },
+  "15201": {
+    "unit_id": 15201,
+    "win_times": 253,
+    "lose_times": 371,
+    "draw_times": 5,
+    "win_rate": 0.40222576,
+    "lose_rate": 0.5898251
+  },
+  "15200": {
+    "unit_id": 15200,
+    "win_times": 99,
+    "lose_times": 85,
+    "draw_times": 0,
+    "win_rate": 0.5380435,
+    "lose_rate": 0.46195653
+  },
+  "15188": {
+    "unit_id": 15188,
+    "win_times": 551,
+    "lose_times": 520,
+    "draw_times": 5,
+    "win_rate": 0.5120818,
+    "lose_rate": 0.4832714
+  },
+  "15192": {
+    "unit_id": 15192,
+    "win_times": 246,
+    "lose_times": 240,
+    "draw_times": 2,
+    "win_rate": 0.50409836,
+    "lose_rate": 0.4918033
+  },
+  "15182": {
+    "unit_id": 15182,
+    "win_times": 162,
+    "lose_times": 122,
+    "draw_times": 0,
+    "win_rate": 0.57042253,
+    "lose_rate": 0.42957747
+  },
+  "15184": {
+    "unit_id": 15184,
+    "win_times": 128,
+    "lose_times": 117,
+    "draw_times": 1,
+    "win_rate": 0.5203252,
+    "lose_rate": 0.47560975
+  },
+  "15181": {
+    "unit_id": 15181,
+    "win_times": 114,
+    "lose_times": 112,
+    "draw_times": 1,
+    "win_rate": 0.50220263,
+    "lose_rate": 0.49339208
+  },
+  "15179": {
+    "unit_id": 15179,
+    "win_times": 101,
+    "lose_times": 70,
+    "draw_times": 0,
+    "win_rate": 0.5906433,
+    "lose_rate": 0.4093567
+  },
+  "15174": {
+    "unit_id": 15174,
+    "win_times": 784,
+    "lose_times": 898,
+    "draw_times": 4,
+    "win_rate": 0.46500593,
+    "lose_rate": 0.53262156
+  },
+  "15172": {
+    "unit_id": 15172,
+    "win_times": 185,
+    "lose_times": 69,
+    "draw_times": 0,
+    "win_rate": 0.72834647,
+    "lose_rate": 0.27165353
+  },
+  "15173": {
+    "unit_id": 15173,
+    "win_times": 25,
+    "lose_times": 42,
+    "draw_times": 0,
+    "win_rate": 0.37313432,
+    "lose_rate": 0.6268657
+  },
+  "15176": {
+    "unit_id": 15176,
+    "win_times": 199,
+    "lose_times": 244,
+    "draw_times": 1,
+    "win_rate": 0.4481982,
+    "lose_rate": 0.5495495
+  },
+  "15171": {
+    "unit_id": 15171,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "15170": {
+    "unit_id": 15170,
+    "win_times": 206,
+    "lose_times": 170,
+    "draw_times": 2,
+    "win_rate": 0.54497355,
+    "lose_rate": 0.44973546
+  },
+  "15178": {
+    "unit_id": 15178,
+    "win_times": 288,
+    "lose_times": 278,
+    "draw_times": 0,
+    "win_rate": 0.50883394,
+    "lose_rate": 0.49116609
+  },
+  "15166": {
+    "unit_id": 15166,
+    "win_times": 8,
+    "lose_times": 10,
+    "draw_times": 0,
+    "win_rate": 0.44444445,
+    "lose_rate": 0.5555556
+  },
+  "15169": {
+    "unit_id": 15169,
+    "win_times": 247,
+    "lose_times": 245,
+    "draw_times": 1,
+    "win_rate": 0.5010142,
+    "lose_rate": 0.4969574
+  },
+  "15164": {
+    "unit_id": 15164,
+    "win_times": 163,
+    "lose_times": 224,
+    "draw_times": 1,
+    "win_rate": 0.4201031,
+    "lose_rate": 0.57731956
+  },
+  "15161": {
+    "unit_id": 15161,
+    "win_times": 133,
+    "lose_times": 105,
+    "draw_times": 1,
+    "win_rate": 0.55648535,
+    "lose_rate": 0.43933055
+  },
+  "15159": {
+    "unit_id": 15159,
+    "win_times": 2,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0.6666667,
+    "lose_rate": 0.33333334
+  },
+  "15160": {
+    "unit_id": 15160,
+    "win_times": 35,
+    "lose_times": 53,
+    "draw_times": 0,
+    "win_rate": 0.39772728,
+    "lose_rate": 0.60227275
+  },
+  "15156": {
+    "unit_id": 15156,
+    "win_times": 326,
+    "lose_times": 315,
+    "draw_times": 5,
+    "win_rate": 0.504644,
+    "lose_rate": 0.4876161
+  },
+  "15153": {
+    "unit_id": 15153,
+    "win_times": 352,
+    "lose_times": 428,
+    "draw_times": 5,
+    "win_rate": 0.44840765,
+    "lose_rate": 0.54522294
+  },
+  "15152": {
+    "unit_id": 15152,
+    "win_times": 2,
+    "lose_times": 11,
+    "draw_times": 1,
+    "win_rate": 0.14285715,
+    "lose_rate": 0.78571427
+  },
+  "15150": {
+    "unit_id": 15150,
+    "win_times": 154,
+    "lose_times": 134,
+    "draw_times": 1,
+    "win_rate": 0.53287196,
+    "lose_rate": 0.4636678
+  },
+  "15147": {
+    "unit_id": 15147,
+    "win_times": 145,
+    "lose_times": 120,
+    "draw_times": 3,
+    "win_rate": 0.5410448,
+    "lose_rate": 0.4477612
+  },
+  "15117": {
+    "unit_id": 15117,
+    "win_times": 13,
+    "lose_times": 33,
+    "draw_times": 0,
+    "win_rate": 0.2826087,
+    "lose_rate": 0.7173913
+  },
+  "15142": {
+    "unit_id": 15142,
+    "win_times": 72,
+    "lose_times": 88,
+    "draw_times": 3,
+    "win_rate": 0.4417178,
+    "lose_rate": 0.5398773
+  },
+  "15121": {
+    "unit_id": 15121,
+    "win_times": 478,
+    "lose_times": 439,
+    "draw_times": 2,
+    "win_rate": 0.5201306,
+    "lose_rate": 0.47769314
+  },
+  "15115": {
+    "unit_id": 15115,
+    "win_times": 277,
+    "lose_times": 307,
+    "draw_times": 3,
+    "win_rate": 0.47189096,
+    "lose_rate": 0.5229983
+  },
+  "15114": {
+    "unit_id": 15114,
+    "win_times": 108,
+    "lose_times": 62,
+    "draw_times": 0,
+    "win_rate": 0.63529414,
+    "lose_rate": 0.3647059
+  },
+  "15112": {
+    "unit_id": 15112,
+    "win_times": 83,
+    "lose_times": 89,
+    "draw_times": 0,
+    "win_rate": 0.48255813,
+    "lose_rate": 0.51744187
+  },
+  "15110": {
+    "unit_id": 15110,
+    "win_times": 930,
+    "lose_times": 1099,
+    "draw_times": 7,
+    "win_rate": 0.456778,
+    "lose_rate": 0.5397839
+  },
+  "15109": {
+    "unit_id": 15109,
+    "win_times": 66,
+    "lose_times": 82,
+    "draw_times": 1,
+    "win_rate": 0.44295302,
+    "lose_rate": 0.5503356
+  },
+  "15104": {
+    "unit_id": 15104,
+    "win_times": 45,
+    "lose_times": 66,
+    "draw_times": 3,
+    "win_rate": 0.39473686,
+    "lose_rate": 0.57894737
+  },
+  "15103": {
+    "unit_id": 15103,
+    "win_times": 90,
+    "lose_times": 144,
+    "draw_times": 0,
+    "win_rate": 0.3846154,
+    "lose_rate": 0.61538464
+  },
+  "15102": {
+    "unit_id": 15102,
+    "win_times": 128,
+    "lose_times": 106,
+    "draw_times": 0,
+    "win_rate": 0.5470086,
+    "lose_rate": 0.45299146
+  },
+  "15100": {
+    "unit_id": 15100,
+    "win_times": 475,
+    "lose_times": 429,
+    "draw_times": 2,
+    "win_rate": 0.5242826,
+    "lose_rate": 0.47350994
+  },
+  "15098": {
+    "unit_id": 15098,
+    "win_times": 148,
+    "lose_times": 150,
+    "draw_times": 2,
+    "win_rate": 0.49333334,
+    "lose_rate": 0.5
+  },
+  "15097": {
+    "unit_id": 15097,
+    "win_times": 9,
+    "lose_times": 11,
+    "draw_times": 0,
+    "win_rate": 0.45,
+    "lose_rate": 0.55
+  },
+  "15094": {
+    "unit_id": 15094,
+    "win_times": 612,
+    "lose_times": 564,
+    "draw_times": 3,
+    "win_rate": 0.519084,
+    "lose_rate": 0.4783715
+  },
+  "15096": {
+    "unit_id": 15096,
+    "win_times": 34,
+    "lose_times": 47,
+    "draw_times": 0,
+    "win_rate": 0.41975307,
+    "lose_rate": 0.5802469
+  },
+  "15092": {
+    "unit_id": 15092,
+    "win_times": 1216,
+    "lose_times": 682,
+    "draw_times": 2,
+    "win_rate": 0.64,
+    "lose_rate": 0.35894737
+  },
+  "15090": {
+    "unit_id": 15090,
+    "win_times": 520,
+    "lose_times": 419,
+    "draw_times": 3,
+    "win_rate": 0.552017,
+    "lose_rate": 0.4447983
+  },
+  "15089": {
+    "unit_id": 15089,
+    "win_times": 188,
+    "lose_times": 125,
+    "draw_times": 0,
+    "win_rate": 0.600639,
+    "lose_rate": 0.399361
+  },
+  "15086": {
+    "unit_id": 15086,
+    "win_times": 39,
+    "lose_times": 38,
+    "draw_times": 0,
+    "win_rate": 0.5064935,
+    "lose_rate": 0.4935065
+  },
+  "15085": {
+    "unit_id": 15085,
+    "win_times": 48,
+    "lose_times": 43,
+    "draw_times": 0,
+    "win_rate": 0.52747256,
+    "lose_rate": 0.47252747
+  },
+  "15087": {
+    "unit_id": 15087,
+    "win_times": 538,
+    "lose_times": 702,
+    "draw_times": 6,
+    "win_rate": 0.4317817,
+    "lose_rate": 0.5634029
+  },
+  "15084": {
+    "unit_id": 15084,
+    "win_times": 16,
+    "lose_times": 20,
+    "draw_times": 0,
+    "win_rate": 0.44444445,
+    "lose_rate": 0.5555556
+  },
+  "15081": {
+    "unit_id": 15081,
+    "win_times": 610,
+    "lose_times": 532,
+    "draw_times": 3,
+    "win_rate": 0.5327511,
+    "lose_rate": 0.46462882
+  },
+  "15225": {
+    "unit_id": 15225,
+    "win_times": 395,
+    "lose_times": 358,
+    "draw_times": 0,
+    "win_rate": 0.5245684,
+    "lose_rate": 0.47543162
+  },
+  "15079": {
+    "unit_id": 15079,
+    "win_times": 463,
+    "lose_times": 408,
+    "draw_times": 3,
+    "win_rate": 0.52974826,
+    "lose_rate": 0.46681923
+  },
+  "15078": {
+    "unit_id": 15078,
+    "win_times": 46,
+    "lose_times": 44,
+    "draw_times": 0,
+    "win_rate": 0.51111114,
+    "lose_rate": 0.4888889
+  },
+  "15077": {
+    "unit_id": 15077,
+    "win_times": 641,
+    "lose_times": 652,
+    "draw_times": 4,
+    "win_rate": 0.49421743,
+    "lose_rate": 0.50269854
+  },
+  "15074": {
+    "unit_id": 15074,
+    "win_times": 134,
+    "lose_times": 108,
+    "draw_times": 1,
+    "win_rate": 0.55144036,
+    "lose_rate": 0.44444445
+  },
+  "15076": {
+    "unit_id": 15076,
+    "win_times": 21,
+    "lose_times": 20,
+    "draw_times": 0,
+    "win_rate": 0.5121951,
+    "lose_rate": 0.4878049
+  },
+  "15067": {
+    "unit_id": 15067,
+    "win_times": 346,
+    "lose_times": 346,
+    "draw_times": 3,
+    "win_rate": 0.49784172,
+    "lose_rate": 0.49784172
+  },
+  "15066": {
+    "unit_id": 15066,
+    "win_times": 166,
+    "lose_times": 135,
+    "draw_times": 1,
+    "win_rate": 0.54966885,
+    "lose_rate": 0.44701988
+  },
+  "15069": {
+    "unit_id": 15069,
+    "win_times": 55,
+    "lose_times": 59,
+    "draw_times": 0,
+    "win_rate": 0.48245615,
+    "lose_rate": 0.51754385
+  },
+  "15070": {
+    "unit_id": 15070,
+    "win_times": 944,
+    "lose_times": 831,
+    "draw_times": 7,
+    "win_rate": 0.5297419,
+    "lose_rate": 0.46632996
+  },
+  "15064": {
+    "unit_id": 15064,
+    "win_times": 115,
+    "lose_times": 131,
+    "draw_times": 0,
+    "win_rate": 0.46747968,
+    "lose_rate": 0.53252035
+  },
+  "15061": {
+    "unit_id": 15061,
+    "win_times": 19,
+    "lose_times": 32,
+    "draw_times": 0,
+    "win_rate": 0.37254903,
+    "lose_rate": 0.627451
+  },
+  "15062": {
+    "unit_id": 15062,
+    "win_times": 44,
+    "lose_times": 71,
+    "draw_times": 3,
+    "win_rate": 0.37288135,
+    "lose_rate": 0.60169494
+  },
+  "15063": {
+    "unit_id": 15063,
+    "win_times": 185,
+    "lose_times": 249,
+    "draw_times": 3,
+    "win_rate": 0.42334095,
+    "lose_rate": 0.56979406
+  },
+  "15058": {
+    "unit_id": 15058,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "15057": {
+    "unit_id": 15057,
+    "win_times": 14,
+    "lose_times": 14,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "15056": {
+    "unit_id": 15056,
+    "win_times": 211,
+    "lose_times": 146,
+    "draw_times": 1,
+    "win_rate": 0.58938545,
+    "lose_rate": 0.40782124
+  },
+  "15059": {
+    "unit_id": 15059,
+    "win_times": 468,
+    "lose_times": 501,
+    "draw_times": 5,
+    "win_rate": 0.4804928,
+    "lose_rate": 0.5143737
+  },
+  "15055": {
+    "unit_id": 15055,
+    "win_times": 172,
+    "lose_times": 186,
+    "draw_times": 1,
+    "win_rate": 0.47910863,
+    "lose_rate": 0.51810586
+  },
+  "15054": {
+    "unit_id": 15054,
+    "win_times": 48,
+    "lose_times": 72,
+    "draw_times": 1,
+    "win_rate": 0.3966942,
+    "lose_rate": 0.59504133
+  },
+  "15053": {
+    "unit_id": 15053,
+    "win_times": 720,
+    "lose_times": 839,
+    "draw_times": 6,
+    "win_rate": 0.4600639,
+    "lose_rate": 0.53610224
+  },
+  "15052": {
+    "unit_id": 15052,
+    "win_times": 132,
+    "lose_times": 187,
+    "draw_times": 2,
+    "win_rate": 0.41121495,
+    "lose_rate": 0.5825545
+  },
+  "15051": {
+    "unit_id": 15051,
+    "win_times": 20,
+    "lose_times": 47,
+    "draw_times": 0,
+    "win_rate": 0.29850745,
+    "lose_rate": 0.70149255
+  },
+  "15050": {
+    "unit_id": 15050,
+    "win_times": 464,
+    "lose_times": 496,
+    "draw_times": 2,
+    "win_rate": 0.48232847,
+    "lose_rate": 0.5155925
+  },
+  "15048": {
+    "unit_id": 15048,
+    "win_times": 14,
+    "lose_times": 20,
+    "draw_times": 1,
+    "win_rate": 0.4,
+    "lose_rate": 0.5714286
+  },
+  "15047": {
+    "unit_id": 15047,
+    "win_times": 736,
+    "lose_times": 944,
+    "draw_times": 7,
+    "win_rate": 0.43627742,
+    "lose_rate": 0.55957323
+  },
+  "15045": {
+    "unit_id": 15045,
+    "win_times": 821,
+    "lose_times": 941,
+    "draw_times": 5,
+    "win_rate": 0.46462932,
+    "lose_rate": 0.53254104
+  },
+  "15043": {
+    "unit_id": 15043,
+    "win_times": 1038,
+    "lose_times": 1185,
+    "draw_times": 2,
+    "win_rate": 0.46651685,
+    "lose_rate": 0.53258425
+  },
+  "15041": {
+    "unit_id": 15041,
+    "win_times": 639,
+    "lose_times": 562,
+    "draw_times": 4,
+    "win_rate": 0.5302905,
+    "lose_rate": 0.46639004
+  },
+  "15042": {
+    "unit_id": 15042,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "15039": {
+    "unit_id": 15039,
+    "win_times": 493,
+    "lose_times": 434,
+    "draw_times": 0,
+    "win_rate": 0.5318231,
+    "lose_rate": 0.4681769
+  },
+  "15040": {
+    "unit_id": 15040,
+    "win_times": 240,
+    "lose_times": 246,
+    "draw_times": 3,
+    "win_rate": 0.49079755,
+    "lose_rate": 0.5030675
+  },
+  "15038": {
+    "unit_id": 15038,
+    "win_times": 849,
+    "lose_times": 883,
+    "draw_times": 5,
+    "win_rate": 0.48877373,
+    "lose_rate": 0.50834775
+  },
+  "15037": {
+    "unit_id": 15037,
+    "win_times": 495,
+    "lose_times": 387,
+    "draw_times": 1,
+    "win_rate": 0.5605889,
+    "lose_rate": 0.4382786
+  },
+  "15036": {
+    "unit_id": 15036,
+    "win_times": 32,
+    "lose_times": 46,
+    "draw_times": 0,
+    "win_rate": 0.41025642,
+    "lose_rate": 0.5897436
+  },
+  "15035": {
+    "unit_id": 15035,
+    "win_times": 4,
+    "lose_times": 13,
+    "draw_times": 0,
+    "win_rate": 0.23529412,
+    "lose_rate": 0.7647059
+  },
+  "15034": {
+    "unit_id": 15034,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "15031": {
+    "unit_id": 15031,
+    "win_times": 614,
+    "lose_times": 522,
+    "draw_times": 2,
+    "win_rate": 0.53954303,
+    "lose_rate": 0.45869946
+  },
+  "15029": {
+    "unit_id": 15029,
+    "win_times": 55,
+    "lose_times": 69,
+    "draw_times": 1,
+    "win_rate": 0.44,
+    "lose_rate": 0.552
+  },
+  "15032": {
+    "unit_id": 15032,
+    "win_times": 446,
+    "lose_times": 503,
+    "draw_times": 5,
+    "win_rate": 0.46750525,
+    "lose_rate": 0.5272537
+  },
+  "15028": {
+    "unit_id": 15028,
+    "win_times": 114,
+    "lose_times": 93,
+    "draw_times": 0,
+    "win_rate": 0.5507246,
+    "lose_rate": 0.44927537
+  },
+  "15026": {
+    "unit_id": 15026,
+    "win_times": 5,
+    "lose_times": 8,
+    "draw_times": 0,
+    "win_rate": 0.3846154,
+    "lose_rate": 0.61538464
+  },
+  "15025": {
+    "unit_id": 15025,
+    "win_times": 579,
+    "lose_times": 603,
+    "draw_times": 6,
+    "win_rate": 0.48737374,
+    "lose_rate": 0.50757575
+  },
+  "15024": {
+    "unit_id": 15024,
+    "win_times": 56,
+    "lose_times": 61,
+    "draw_times": 1,
+    "win_rate": 0.47457626,
+    "lose_rate": 0.5169492
+  },
+  "15021": {
+    "unit_id": 15021,
+    "win_times": 184,
+    "lose_times": 185,
+    "draw_times": 0,
+    "win_rate": 0.49864498,
+    "lose_rate": 0.501355
+  },
+  "15022": {
+    "unit_id": 15022,
+    "win_times": 249,
+    "lose_times": 250,
+    "draw_times": 0,
+    "win_rate": 0.498998,
+    "lose_rate": 0.501002
+  },
+  "15020": {
+    "unit_id": 15020,
+    "win_times": 557,
+    "lose_times": 828,
+    "draw_times": 3,
+    "win_rate": 0.40129682,
+    "lose_rate": 0.59654176
+  },
+  "15019": {
+    "unit_id": 15019,
+    "win_times": 222,
+    "lose_times": 360,
+    "draw_times": 4,
+    "win_rate": 0.37883958,
+    "lose_rate": 0.61433446
+  },
+  "15017": {
+    "unit_id": 15017,
+    "win_times": 567,
+    "lose_times": 620,
+    "draw_times": 5,
+    "win_rate": 0.47567114,
+    "lose_rate": 0.5201342
+  },
+  "15014": {
+    "unit_id": 15014,
+    "win_times": 21,
+    "lose_times": 33,
+    "draw_times": 0,
+    "win_rate": 0.3888889,
+    "lose_rate": 0.6111111
+  },
+  "15016": {
+    "unit_id": 15016,
+    "win_times": 56,
+    "lose_times": 91,
+    "draw_times": 1,
+    "win_rate": 0.3783784,
+    "lose_rate": 0.6148649
+  },
+  "15013": {
+    "unit_id": 15013,
+    "win_times": 442,
+    "lose_times": 512,
+    "draw_times": 3,
+    "win_rate": 0.46185997,
+    "lose_rate": 0.5350052
+  },
+  "15015": {
+    "unit_id": 15015,
+    "win_times": 47,
+    "lose_times": 61,
+    "draw_times": 1,
+    "win_rate": 0.43119267,
+    "lose_rate": 0.559633
+  },
+  "15012": {
+    "unit_id": 15012,
+    "win_times": 393,
+    "lose_times": 409,
+    "draw_times": 3,
+    "win_rate": 0.48819876,
+    "lose_rate": 0.5080745
+  },
+  "15011": {
+    "unit_id": 15011,
+    "win_times": 90,
+    "lose_times": 149,
+    "draw_times": 0,
+    "win_rate": 0.37656903,
+    "lose_rate": 0.62343097
+  },
+  "15010": {
+    "unit_id": 15010,
+    "win_times": 150,
+    "lose_times": 168,
+    "draw_times": 0,
+    "win_rate": 0.4716981,
+    "lose_rate": 0.5283019
+  },
+  "15009": {
+    "unit_id": 15009,
+    "win_times": 10,
+    "lose_times": 16,
+    "draw_times": 0,
+    "win_rate": 0.3846154,
+    "lose_rate": 0.61538464
+  },
+  "15008": {
+    "unit_id": 15008,
+    "win_times": 40,
+    "lose_times": 68,
+    "draw_times": 0,
+    "win_rate": 0.37037036,
+    "lose_rate": 0.6296296
+  },
+  "15005": {
+    "unit_id": 15005,
+    "win_times": 0,
+    "lose_times": 7,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "15006": {
+    "unit_id": 15006,
+    "win_times": 29,
+    "lose_times": 29,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "15007": {
+    "unit_id": 15007,
+    "win_times": 35,
+    "lose_times": 37,
+    "draw_times": 0,
+    "win_rate": 0.4861111,
+    "lose_rate": 0.5138889
+  },
+  "15004": {
+    "unit_id": 15004,
+    "win_times": 1,
+    "lose_times": 2,
+    "draw_times": 0,
+    "win_rate": 0.33333334,
+    "lose_rate": 0.6666667
+  },
+  "15003": {
+    "unit_id": 15003,
+    "win_times": 120,
+    "lose_times": 119,
+    "draw_times": 1,
+    "win_rate": 0.5,
+    "lose_rate": 0.49583334
+  },
+  "15002": {
+    "unit_id": 15002,
+    "win_times": 136,
+    "lose_times": 213,
+    "draw_times": 0,
+    "win_rate": 0.38968483,
+    "lose_rate": 0.6103152
+  },
+  "15001": {
+    "unit_id": 15001,
+    "win_times": 459,
+    "lose_times": 497,
+    "draw_times": 3,
+    "win_rate": 0.47862357,
+    "lose_rate": 0.5182482
+  },
+  "14031": {
+    "unit_id": 14031,
+    "win_times": 303,
+    "lose_times": 257,
+    "draw_times": 5,
+    "win_rate": 0.5362832,
+    "lose_rate": 0.45486724
+  },
+  "14033": {
+    "unit_id": 14033,
+    "win_times": 79,
+    "lose_times": 71,
+    "draw_times": 2,
+    "win_rate": 0.5197368,
+    "lose_rate": 0.46710527
+  },
+  "14027": {
+    "unit_id": 14027,
+    "win_times": 730,
+    "lose_times": 804,
+    "draw_times": 3,
+    "win_rate": 0.4749512,
+    "lose_rate": 0.5230969
+  },
+  "14029": {
+    "unit_id": 14029,
+    "win_times": 142,
+    "lose_times": 186,
+    "draw_times": 1,
+    "win_rate": 0.43161094,
+    "lose_rate": 0.5653495
+  },
+  "14026": {
+    "unit_id": 14026,
+    "win_times": 6,
+    "lose_times": 19,
+    "draw_times": 0,
+    "win_rate": 0.24,
+    "lose_rate": 0.76
+  },
+  "14023": {
+    "unit_id": 14023,
+    "win_times": 191,
+    "lose_times": 200,
+    "draw_times": 0,
+    "win_rate": 0.48849106,
+    "lose_rate": 0.51150894
+  },
+  "14024": {
+    "unit_id": 14024,
+    "win_times": 72,
+    "lose_times": 67,
+    "draw_times": 0,
+    "win_rate": 0.5179856,
+    "lose_rate": 0.4820144
+  },
+  "14020": {
+    "unit_id": 14020,
+    "win_times": 150,
+    "lose_times": 97,
+    "draw_times": 2,
+    "win_rate": 0.60240966,
+    "lose_rate": 0.38955823
+  },
+  "14022": {
+    "unit_id": 14022,
+    "win_times": 60,
+    "lose_times": 45,
+    "draw_times": 1,
+    "win_rate": 0.5660377,
+    "lose_rate": 0.4245283
+  },
+  "14018": {
+    "unit_id": 14018,
+    "win_times": 237,
+    "lose_times": 337,
+    "draw_times": 1,
+    "win_rate": 0.41217393,
+    "lose_rate": 0.5860869
+  },
+  "14016": {
+    "unit_id": 14016,
+    "win_times": 141,
+    "lose_times": 161,
+    "draw_times": 0,
+    "win_rate": 0.4668874,
+    "lose_rate": 0.5331126
+  },
+  "14015": {
+    "unit_id": 14015,
+    "win_times": 23,
+    "lose_times": 39,
+    "draw_times": 1,
+    "win_rate": 0.36507937,
+    "lose_rate": 0.61904764
+  },
+  "14013": {
+    "unit_id": 14013,
+    "win_times": 81,
+    "lose_times": 82,
+    "draw_times": 1,
+    "win_rate": 0.49390244,
+    "lose_rate": 0.5
+  },
+  "14014": {
+    "unit_id": 14014,
+    "win_times": 45,
+    "lose_times": 56,
+    "draw_times": 0,
+    "win_rate": 0.44554454,
+    "lose_rate": 0.55445546
+  },
+  "14011": {
+    "unit_id": 14011,
+    "win_times": 24,
+    "lose_times": 40,
+    "draw_times": 1,
+    "win_rate": 0.36923078,
+    "lose_rate": 0.61538464
+  },
+  "14012": {
+    "unit_id": 14012,
+    "win_times": 337,
+    "lose_times": 386,
+    "draw_times": 2,
+    "win_rate": 0.4648276,
+    "lose_rate": 0.5324138
+  },
+  "14010": {
+    "unit_id": 14010,
+    "win_times": 54,
+    "lose_times": 67,
+    "draw_times": 0,
+    "win_rate": 0.446281,
+    "lose_rate": 0.553719
+  },
+  "14009": {
+    "unit_id": 14009,
+    "win_times": 15,
+    "lose_times": 18,
+    "draw_times": 0,
+    "win_rate": 0.45454547,
+    "lose_rate": 0.54545456
+  },
+  "15049": {
+    "unit_id": 15049,
+    "win_times": 17,
+    "lose_times": 18,
+    "draw_times": 0,
+    "win_rate": 0.4857143,
+    "lose_rate": 0.51428574
+  },
+  "14008": {
+    "unit_id": 14008,
+    "win_times": 252,
+    "lose_times": 364,
+    "draw_times": 2,
+    "win_rate": 0.407767,
+    "lose_rate": 0.58899677
+  },
+  "14007": {
+    "unit_id": 14007,
+    "win_times": 10,
+    "lose_times": 29,
+    "draw_times": 0,
+    "win_rate": 0.25641027,
+    "lose_rate": 0.74358976
+  },
+  "14006": {
+    "unit_id": 14006,
+    "win_times": 290,
+    "lose_times": 214,
+    "draw_times": 2,
+    "win_rate": 0.5731225,
+    "lose_rate": 0.4229249
+  },
+  "14005": {
+    "unit_id": 14005,
+    "win_times": 15,
+    "lose_times": 18,
+    "draw_times": 0,
+    "win_rate": 0.45454547,
+    "lose_rate": 0.54545456
+  },
+  "14003": {
+    "unit_id": 14003,
+    "win_times": 273,
+    "lose_times": 211,
+    "draw_times": 0,
+    "win_rate": 0.5640496,
+    "lose_rate": 0.4359504
+  },
+  "14004": {
+    "unit_id": 14004,
+    "win_times": 226,
+    "lose_times": 242,
+    "draw_times": 4,
+    "win_rate": 0.47881356,
+    "lose_rate": 0.5127119
+  },
+  "14001": {
+    "unit_id": 14001,
+    "win_times": 5,
+    "lose_times": 9,
+    "draw_times": 0,
+    "win_rate": 0.35714287,
+    "lose_rate": 0.64285713
+  },
+  "14002": {
+    "unit_id": 14002,
+    "win_times": 14,
+    "lose_times": 20,
+    "draw_times": 0,
+    "win_rate": 0.4117647,
+    "lose_rate": 0.5882353
+  },
+  "13048": {
+    "unit_id": 13048,
+    "win_times": 83,
+    "lose_times": 68,
+    "draw_times": 0,
+    "win_rate": 0.54966885,
+    "lose_rate": 0.45033112
+  },
+  "13046": {
+    "unit_id": 13046,
+    "win_times": 251,
+    "lose_times": 219,
+    "draw_times": 0,
+    "win_rate": 0.53404254,
+    "lose_rate": 0.46595743
+  },
+  "13042": {
+    "unit_id": 13042,
+    "win_times": 194,
+    "lose_times": 185,
+    "draw_times": 3,
+    "win_rate": 0.5078534,
+    "lose_rate": 0.4842932
+  },
+  "13044": {
+    "unit_id": 13044,
+    "win_times": 97,
+    "lose_times": 92,
+    "draw_times": 2,
+    "win_rate": 0.5078534,
+    "lose_rate": 0.4816754
+  },
+  "13039": {
+    "unit_id": 13039,
+    "win_times": 42,
+    "lose_times": 44,
+    "draw_times": 0,
+    "win_rate": 0.4883721,
+    "lose_rate": 0.5116279
+  },
+  "13040": {
+    "unit_id": 13040,
+    "win_times": 63,
+    "lose_times": 49,
+    "draw_times": 0,
+    "win_rate": 0.5625,
+    "lose_rate": 0.4375
+  },
+  "13038": {
+    "unit_id": 13038,
+    "win_times": 281,
+    "lose_times": 258,
+    "draw_times": 0,
+    "win_rate": 0.5213358,
+    "lose_rate": 0.4786642
+  },
+  "13036": {
+    "unit_id": 13036,
+    "win_times": 42,
+    "lose_times": 43,
+    "draw_times": 1,
+    "win_rate": 0.4883721,
+    "lose_rate": 0.5
+  },
+  "13037": {
+    "unit_id": 13037,
+    "win_times": 67,
+    "lose_times": 64,
+    "draw_times": 0,
+    "win_rate": 0.5114504,
+    "lose_rate": 0.48854962
+  },
+  "13032": {
+    "unit_id": 13032,
+    "win_times": 4,
+    "lose_times": 8,
+    "draw_times": 0,
+    "win_rate": 0.33333334,
+    "lose_rate": 0.6666667
+  },
+  "13033": {
+    "unit_id": 13033,
+    "win_times": 6,
+    "lose_times": 6,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "13031": {
+    "unit_id": 13031,
+    "win_times": 2,
+    "lose_times": 5,
+    "draw_times": 0,
+    "win_rate": 0.2857143,
+    "lose_rate": 0.71428573
+  },
+  "13034": {
+    "unit_id": 13034,
+    "win_times": 1389,
+    "lose_times": 1503,
+    "draw_times": 10,
+    "win_rate": 0.47863543,
+    "lose_rate": 0.5179187
+  },
+  "13030": {
+    "unit_id": 13030,
+    "win_times": 1,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "13029": {
+    "unit_id": 13029,
+    "win_times": 4,
+    "lose_times": 7,
+    "draw_times": 0,
+    "win_rate": 0.36363637,
+    "lose_rate": 0.6363636
+  },
+  "13028": {
+    "unit_id": 13028,
+    "win_times": 89,
+    "lose_times": 74,
+    "draw_times": 0,
+    "win_rate": 0.5460123,
+    "lose_rate": 0.45398772
+  },
+  "13027": {
+    "unit_id": 13027,
+    "win_times": 1816,
+    "lose_times": 1792,
+    "draw_times": 12,
+    "win_rate": 0.5016575,
+    "lose_rate": 0.49502763
+  },
+  "13024": {
+    "unit_id": 13024,
+    "win_times": 23,
+    "lose_times": 41,
+    "draw_times": 0,
+    "win_rate": 0.359375,
+    "lose_rate": 0.640625
+  },
+  "13026": {
+    "unit_id": 13026,
+    "win_times": 70,
+    "lose_times": 74,
+    "draw_times": 2,
+    "win_rate": 0.47945204,
+    "lose_rate": 0.5068493
+  },
+  "13019": {
+    "unit_id": 13019,
+    "win_times": 99,
+    "lose_times": 129,
+    "draw_times": 4,
+    "win_rate": 0.42672414,
+    "lose_rate": 0.5560345
+  },
+  "13020": {
+    "unit_id": 13020,
+    "win_times": 44,
+    "lose_times": 73,
+    "draw_times": 1,
+    "win_rate": 0.37288135,
+    "lose_rate": 0.61864406
+  },
+  "13022": {
+    "unit_id": 13022,
+    "win_times": 112,
+    "lose_times": 129,
+    "draw_times": 0,
+    "win_rate": 0.4647303,
+    "lose_rate": 0.53526974
+  },
+  "13018": {
+    "unit_id": 13018,
+    "win_times": 0,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "13017": {
+    "unit_id": 13017,
+    "win_times": 28,
+    "lose_times": 39,
+    "draw_times": 0,
+    "win_rate": 0.41791046,
+    "lose_rate": 0.58208954
+  },
+  "13015": {
+    "unit_id": 13015,
+    "win_times": 402,
+    "lose_times": 319,
+    "draw_times": 7,
+    "win_rate": 0.5521978,
+    "lose_rate": 0.43818682
+  },
+  "13013": {
+    "unit_id": 13013,
+    "win_times": 264,
+    "lose_times": 337,
+    "draw_times": 1,
+    "win_rate": 0.4385382,
+    "lose_rate": 0.5598007
+  },
+  "13014": {
+    "unit_id": 13014,
+    "win_times": 6,
+    "lose_times": 7,
+    "draw_times": 0,
+    "win_rate": 0.46153846,
+    "lose_rate": 0.53846157
+  },
+  "13011": {
+    "unit_id": 13011,
+    "win_times": 17,
+    "lose_times": 21,
+    "draw_times": 0,
+    "win_rate": 0.4473684,
+    "lose_rate": 0.55263156
+  },
+  "13009": {
+    "unit_id": 13009,
+    "win_times": 110,
+    "lose_times": 67,
+    "draw_times": 0,
+    "win_rate": 0.6214689,
+    "lose_rate": 0.37853107
+  },
+  "13007": {
+    "unit_id": 13007,
+    "win_times": 1,
+    "lose_times": 2,
+    "draw_times": 0,
+    "win_rate": 0.33333334,
+    "lose_rate": 0.6666667
+  },
+  "13006": {
+    "unit_id": 13006,
+    "win_times": 58,
+    "lose_times": 63,
+    "draw_times": 0,
+    "win_rate": 0.47933885,
+    "lose_rate": 0.5206612
+  },
+  "13008": {
+    "unit_id": 13008,
+    "win_times": 6,
+    "lose_times": 14,
+    "draw_times": 1,
+    "win_rate": 0.2857143,
+    "lose_rate": 0.6666667
+  },
+  "13005": {
+    "unit_id": 13005,
+    "win_times": 6,
+    "lose_times": 3,
+    "draw_times": 0,
+    "win_rate": 0.6666667,
+    "lose_rate": 0.33333334
+  },
+  "13003": {
+    "unit_id": 13003,
+    "win_times": 1,
+    "lose_times": 3,
+    "draw_times": 0,
+    "win_rate": 0.25,
+    "lose_rate": 0.75
+  },
+  "13004": {
+    "unit_id": 13004,
+    "win_times": 0,
+    "lose_times": 4,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "13001": {
+    "unit_id": 13001,
+    "win_times": 183,
+    "lose_times": 153,
+    "draw_times": 3,
+    "win_rate": 0.539823,
+    "lose_rate": 0.45132744
+  },
+  "12043": {
+    "unit_id": 12043,
+    "win_times": 193,
+    "lose_times": 267,
+    "draw_times": 1,
+    "win_rate": 0.4186551,
+    "lose_rate": 0.5791757
+  },
+  "12045": {
+    "unit_id": 12045,
+    "win_times": 28,
+    "lose_times": 30,
+    "draw_times": 0,
+    "win_rate": 0.4827586,
+    "lose_rate": 0.51724136
+  },
+  "12041": {
+    "unit_id": 12041,
+    "win_times": 193,
+    "lose_times": 250,
+    "draw_times": 6,
+    "win_rate": 0.4298441,
+    "lose_rate": 0.55679286
+  },
+  "12039": {
+    "unit_id": 12039,
+    "win_times": 414,
+    "lose_times": 249,
+    "draw_times": 0,
+    "win_rate": 0.6244344,
+    "lose_rate": 0.37556562
+  },
+  "12038": {
+    "unit_id": 12038,
+    "win_times": 102,
+    "lose_times": 129,
+    "draw_times": 1,
+    "win_rate": 0.43965518,
+    "lose_rate": 0.5560345
+  },
+  "12035": {
+    "unit_id": 12035,
+    "win_times": 53,
+    "lose_times": 76,
+    "draw_times": 0,
+    "win_rate": 0.4108527,
+    "lose_rate": 0.58914727
+  },
+  "12033": {
+    "unit_id": 12033,
+    "win_times": 529,
+    "lose_times": 588,
+    "draw_times": 11,
+    "win_rate": 0.46897164,
+    "lose_rate": 0.5212766
+  },
+  "12036": {
+    "unit_id": 12036,
+    "win_times": 212,
+    "lose_times": 237,
+    "draw_times": 6,
+    "win_rate": 0.46593407,
+    "lose_rate": 0.52087915
+  },
+  "12030": {
+    "unit_id": 12030,
+    "win_times": 0,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "12031": {
+    "unit_id": 12031,
+    "win_times": 1708,
+    "lose_times": 1943,
+    "draw_times": 16,
+    "win_rate": 0.46577585,
+    "lose_rate": 0.5298609
+  },
+  "12029": {
+    "unit_id": 12029,
+    "win_times": 2,
+    "lose_times": 7,
+    "draw_times": 0,
+    "win_rate": 0.22222222,
+    "lose_rate": 0.7777778
+  },
+  "12026": {
+    "unit_id": 12026,
+    "win_times": 48,
+    "lose_times": 44,
+    "draw_times": 0,
+    "win_rate": 0.5217391,
+    "lose_rate": 0.47826087
+  },
+  "12025": {
+    "unit_id": 12025,
+    "win_times": 107,
+    "lose_times": 115,
+    "draw_times": 4,
+    "win_rate": 0.47345132,
+    "lose_rate": 0.50884956
+  },
+  "12021": {
+    "unit_id": 12021,
+    "win_times": 1,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 1,
+    "lose_rate": 0
+  },
+  "12022": {
+    "unit_id": 12022,
+    "win_times": 958,
+    "lose_times": 1191,
+    "draw_times": 7,
+    "win_rate": 0.44434136,
+    "lose_rate": 0.55241185
+  },
+  "12019": {
+    "unit_id": 12019,
+    "win_times": 2,
+    "lose_times": 2,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "12020": {
+    "unit_id": 12020,
+    "win_times": 16,
+    "lose_times": 28,
+    "draw_times": 0,
+    "win_rate": 0.36363637,
+    "lose_rate": 0.6363636
+  },
+  "12018": {
+    "unit_id": 12018,
+    "win_times": 1713,
+    "lose_times": 2121,
+    "draw_times": 19,
+    "win_rate": 0.44458863,
+    "lose_rate": 0.5504801
+  },
+  "12015": {
+    "unit_id": 12015,
+    "win_times": 290,
+    "lose_times": 321,
+    "draw_times": 2,
+    "win_rate": 0.4730832,
+    "lose_rate": 0.52365416
+  },
+  "12016": {
+    "unit_id": 12016,
+    "win_times": 160,
+    "lose_times": 208,
+    "draw_times": 1,
+    "win_rate": 0.43360433,
+    "lose_rate": 0.56368566
+  },
+  "12013": {
+    "unit_id": 12013,
+    "win_times": 1361,
+    "lose_times": 1289,
+    "draw_times": 142,
+    "win_rate": 0.4874642,
+    "lose_rate": 0.4616762
+  },
+  "12010": {
+    "unit_id": 12010,
+    "win_times": 156,
+    "lose_times": 128,
+    "draw_times": 1,
+    "win_rate": 0.5473684,
+    "lose_rate": 0.44912282
+  },
+  "12009": {
+    "unit_id": 12009,
+    "win_times": 120,
+    "lose_times": 109,
+    "draw_times": 1,
+    "win_rate": 0.5217391,
+    "lose_rate": 0.47391304
+  },
+  "12007": {
+    "unit_id": 12007,
+    "win_times": 14,
+    "lose_times": 17,
+    "draw_times": 0,
+    "win_rate": 0.4516129,
+    "lose_rate": 0.5483871
+  },
+  "12006": {
+    "unit_id": 12006,
+    "win_times": 161,
+    "lose_times": 190,
+    "draw_times": 2,
+    "win_rate": 0.45609066,
+    "lose_rate": 0.53824365
+  },
+  "12008": {
+    "unit_id": 12008,
+    "win_times": 51,
+    "lose_times": 39,
+    "draw_times": 0,
+    "win_rate": 0.56666666,
+    "lose_rate": 0.43333334
+  },
+  "12011": {
+    "unit_id": 12011,
+    "win_times": 65,
+    "lose_times": 61,
+    "draw_times": 0,
+    "win_rate": 0.515873,
+    "lose_rate": 0.48412699
+  },
+  "12005": {
+    "unit_id": 12005,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "12004": {
+    "unit_id": 12004,
+    "win_times": 12,
+    "lose_times": 14,
+    "draw_times": 0,
+    "win_rate": 0.46153846,
+    "lose_rate": 0.53846157
+  },
+  "12001": {
+    "unit_id": 12001,
+    "win_times": 121,
+    "lose_times": 173,
+    "draw_times": 1,
+    "win_rate": 0.41016948,
+    "lose_rate": 0.5864407
+  },
+  "11323": {
+    "unit_id": 11323,
+    "win_times": 36,
+    "lose_times": 28,
+    "draw_times": 0,
+    "win_rate": 0.5625,
+    "lose_rate": 0.4375
+  },
+  "12003": {
+    "unit_id": 12003,
+    "win_times": 7,
+    "lose_times": 11,
+    "draw_times": 0,
+    "win_rate": 0.3888889,
+    "lose_rate": 0.6111111
+  },
+  "11321": {
+    "unit_id": 11321,
+    "win_times": 256,
+    "lose_times": 263,
+    "draw_times": 3,
+    "win_rate": 0.49042144,
+    "lose_rate": 0.50383145
+  },
+  "11315": {
+    "unit_id": 11315,
+    "win_times": 1626,
+    "lose_times": 1506,
+    "draw_times": 6,
+    "win_rate": 0.51816446,
+    "lose_rate": 0.47992352
+  },
+  "11317": {
+    "unit_id": 11317,
+    "win_times": 3,
+    "lose_times": 3,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "11318": {
+    "unit_id": 11318,
+    "win_times": 42,
+    "lose_times": 77,
+    "draw_times": 1,
+    "win_rate": 0.35,
+    "lose_rate": 0.64166665
+  },
+  "11313": {
+    "unit_id": 11313,
+    "win_times": 556,
+    "lose_times": 483,
+    "draw_times": 8,
+    "win_rate": 0.5310411,
+    "lose_rate": 0.46131805
+  },
+  "11311": {
+    "unit_id": 11311,
+    "win_times": 169,
+    "lose_times": 147,
+    "draw_times": 3,
+    "win_rate": 0.52978057,
+    "lose_rate": 0.46081504
+  },
+  "11302": {
+    "unit_id": 11302,
+    "win_times": 162,
+    "lose_times": 226,
+    "draw_times": 1,
+    "win_rate": 0.41645244,
+    "lose_rate": 0.58097684
+  },
+  "11304": {
+    "unit_id": 11304,
+    "win_times": 425,
+    "lose_times": 438,
+    "draw_times": 1,
+    "win_rate": 0.49189815,
+    "lose_rate": 0.5069444
+  },
+  "11308": {
+    "unit_id": 11308,
+    "win_times": 2278,
+    "lose_times": 2002,
+    "draw_times": 14,
+    "win_rate": 0.5305077,
+    "lose_rate": 0.46623194
+  },
+  "11297": {
+    "unit_id": 11297,
+    "win_times": 74,
+    "lose_times": 86,
+    "draw_times": 0,
+    "win_rate": 0.4625,
+    "lose_rate": 0.5375
+  },
+  "11301": {
+    "unit_id": 11301,
+    "win_times": 458,
+    "lose_times": 512,
+    "draw_times": 5,
+    "win_rate": 0.46974358,
+    "lose_rate": 0.5251282
+  },
+  "11294": {
+    "unit_id": 11294,
+    "win_times": 73,
+    "lose_times": 122,
+    "draw_times": 1,
+    "win_rate": 0.37244898,
+    "lose_rate": 0.622449
+  },
+  "11290": {
+    "unit_id": 11290,
+    "win_times": 203,
+    "lose_times": 205,
+    "draw_times": 1,
+    "win_rate": 0.49633253,
+    "lose_rate": 0.5012225
+  },
+  "11283": {
+    "unit_id": 11283,
+    "win_times": 1,
+    "lose_times": 4,
+    "draw_times": 0,
+    "win_rate": 0.2,
+    "lose_rate": 0.8
+  },
+  "11286": {
+    "unit_id": 11286,
+    "win_times": 811,
+    "lose_times": 943,
+    "draw_times": 7,
+    "win_rate": 0.4605338,
+    "lose_rate": 0.53549117
+  },
+  "11282": {
+    "unit_id": 11282,
+    "win_times": 5,
+    "lose_times": 8,
+    "draw_times": 0,
+    "win_rate": 0.3846154,
+    "lose_rate": 0.61538464
+  },
+  "11284": {
+    "unit_id": 11284,
+    "win_times": 478,
+    "lose_times": 504,
+    "draw_times": 2,
+    "win_rate": 0.48577237,
+    "lose_rate": 0.5121951
+  },
+  "11275": {
+    "unit_id": 11275,
+    "win_times": 138,
+    "lose_times": 169,
+    "draw_times": 0,
+    "win_rate": 0.4495114,
+    "lose_rate": 0.5504886
+  },
+  "11279": {
+    "unit_id": 11279,
+    "win_times": 781,
+    "lose_times": 865,
+    "draw_times": 5,
+    "win_rate": 0.47304663,
+    "lose_rate": 0.5239249
+  },
+  "11273": {
+    "unit_id": 11273,
+    "win_times": 2,
+    "lose_times": 14,
+    "draw_times": 0,
+    "win_rate": 0.125,
+    "lose_rate": 0.875
+  },
+  "11277": {
+    "unit_id": 11277,
+    "win_times": 221,
+    "lose_times": 263,
+    "draw_times": 1,
+    "win_rate": 0.4556701,
+    "lose_rate": 0.54226804
+  },
+  "11268": {
+    "unit_id": 11268,
+    "win_times": 227,
+    "lose_times": 261,
+    "draw_times": 3,
+    "win_rate": 0.4623218,
+    "lose_rate": 0.5315682
+  },
+  "11271": {
+    "unit_id": 11271,
+    "win_times": 43,
+    "lose_times": 58,
+    "draw_times": 0,
+    "win_rate": 0.42574257,
+    "lose_rate": 0.57425743
+  },
+  "11269": {
+    "unit_id": 11269,
+    "win_times": 256,
+    "lose_times": 271,
+    "draw_times": 1,
+    "win_rate": 0.4848485,
+    "lose_rate": 0.51325756
+  },
+  "11267": {
+    "unit_id": 11267,
+    "win_times": 102,
+    "lose_times": 142,
+    "draw_times": 2,
+    "win_rate": 0.41463414,
+    "lose_rate": 0.57723576
+  },
+  "11265": {
+    "unit_id": 11265,
+    "win_times": 58,
+    "lose_times": 57,
+    "draw_times": 1,
+    "win_rate": 0.5,
+    "lose_rate": 0.49137932
+  },
+  "11263": {
+    "unit_id": 11263,
+    "win_times": 1078,
+    "lose_times": 1146,
+    "draw_times": 5,
+    "win_rate": 0.48362494,
+    "lose_rate": 0.5141319
+  },
+  "11259": {
+    "unit_id": 11259,
+    "win_times": 1000,
+    "lose_times": 815,
+    "draw_times": 5,
+    "win_rate": 0.5494506,
+    "lose_rate": 0.4478022
+  },
+  "11261": {
+    "unit_id": 11261,
+    "win_times": 147,
+    "lose_times": 174,
+    "draw_times": 6,
+    "win_rate": 0.44954127,
+    "lose_rate": 0.5321101
+  },
+  "11257": {
+    "unit_id": 11257,
+    "win_times": 23,
+    "lose_times": 27,
+    "draw_times": 0,
+    "win_rate": 0.46,
+    "lose_rate": 0.54
+  },
+  "11254": {
+    "unit_id": 11254,
+    "win_times": 590,
+    "lose_times": 440,
+    "draw_times": 4,
+    "win_rate": 0.5705996,
+    "lose_rate": 0.42553192
+  },
+  "11256": {
+    "unit_id": 11256,
+    "win_times": 90,
+    "lose_times": 109,
+    "draw_times": 3,
+    "win_rate": 0.44554454,
+    "lose_rate": 0.53960395
+  },
+  "11252": {
+    "unit_id": 11252,
+    "win_times": 68,
+    "lose_times": 92,
+    "draw_times": 0,
+    "win_rate": 0.425,
+    "lose_rate": 0.575
+  },
+  "11250": {
+    "unit_id": 11250,
+    "win_times": 32,
+    "lose_times": 65,
+    "draw_times": 1,
+    "win_rate": 0.3265306,
+    "lose_rate": 0.6632653
+  },
+  "11248": {
+    "unit_id": 11248,
+    "win_times": 282,
+    "lose_times": 303,
+    "draw_times": 4,
+    "win_rate": 0.4787776,
+    "lose_rate": 0.51443124
+  },
+  "11246": {
+    "unit_id": 11246,
+    "win_times": 375,
+    "lose_times": 386,
+    "draw_times": 10,
+    "win_rate": 0.48638132,
+    "lose_rate": 0.5006485
+  },
+  "11244": {
+    "unit_id": 11244,
+    "win_times": 27,
+    "lose_times": 36,
+    "draw_times": 0,
+    "win_rate": 0.42857143,
+    "lose_rate": 0.5714286
+  },
+  "11240": {
+    "unit_id": 11240,
+    "win_times": 640,
+    "lose_times": 620,
+    "draw_times": 1,
+    "win_rate": 0.5075337,
+    "lose_rate": 0.49167326
+  },
+  "11242": {
+    "unit_id": 11242,
+    "win_times": 48,
+    "lose_times": 97,
+    "draw_times": 1,
+    "win_rate": 0.32876712,
+    "lose_rate": 0.6643836
+  },
+  "11238": {
+    "unit_id": 11238,
+    "win_times": 18,
+    "lose_times": 44,
+    "draw_times": 1,
+    "win_rate": 0.2857143,
+    "lose_rate": 0.6984127
+  },
+  "11236": {
+    "unit_id": 11236,
+    "win_times": 456,
+    "lose_times": 846,
+    "draw_times": 6,
+    "win_rate": 0.34862384,
+    "lose_rate": 0.646789
+  },
+  "11232": {
+    "unit_id": 11232,
+    "win_times": 130,
+    "lose_times": 133,
+    "draw_times": 1,
+    "win_rate": 0.49242425,
+    "lose_rate": 0.5037879
+  },
+  "11097": {
+    "unit_id": 11097,
+    "win_times": 38,
+    "lose_times": 25,
+    "draw_times": 0,
+    "win_rate": 0.6031746,
+    "lose_rate": 0.3968254
+  },
+  "11099": {
+    "unit_id": 11099,
+    "win_times": 12,
+    "lose_times": 19,
+    "draw_times": 0,
+    "win_rate": 0.38709676,
+    "lose_rate": 0.61290324
+  },
+  "11100": {
+    "unit_id": 11100,
+    "win_times": 424,
+    "lose_times": 321,
+    "draw_times": 3,
+    "win_rate": 0.56684494,
+    "lose_rate": 0.42914438
+  },
+  "11095": {
+    "unit_id": 11095,
+    "win_times": 83,
+    "lose_times": 116,
+    "draw_times": 2,
+    "win_rate": 0.41293532,
+    "lose_rate": 0.5771144
+  },
+  "11092": {
+    "unit_id": 11092,
+    "win_times": 17,
+    "lose_times": 22,
+    "draw_times": 0,
+    "win_rate": 0.43589744,
+    "lose_rate": 0.5641026
+  },
+  "11094": {
+    "unit_id": 11094,
+    "win_times": 80,
+    "lose_times": 103,
+    "draw_times": 1,
+    "win_rate": 0.4347826,
+    "lose_rate": 0.5597826
+  },
+  "11093": {
+    "unit_id": 11093,
+    "win_times": 7,
+    "lose_times": 3,
+    "draw_times": 0,
+    "win_rate": 0.7,
+    "lose_rate": 0.3
+  },
+  "11091": {
+    "unit_id": 11091,
+    "win_times": 36,
+    "lose_times": 43,
+    "draw_times": 0,
+    "win_rate": 0.4556962,
+    "lose_rate": 0.5443038
+  },
+  "11090": {
+    "unit_id": 11090,
+    "win_times": 19,
+    "lose_times": 25,
+    "draw_times": 1,
+    "win_rate": 0.42222223,
+    "lose_rate": 0.5555556
+  },
+  "11087": {
+    "unit_id": 11087,
+    "win_times": 71,
+    "lose_times": 63,
+    "draw_times": 1,
+    "win_rate": 0.52592593,
+    "lose_rate": 0.46666667
+  },
+  "11086": {
+    "unit_id": 11086,
+    "win_times": 254,
+    "lose_times": 247,
+    "draw_times": 3,
+    "win_rate": 0.50396824,
+    "lose_rate": 0.49007937
+  },
+  "11085": {
+    "unit_id": 11085,
+    "win_times": 475,
+    "lose_times": 406,
+    "draw_times": 3,
+    "win_rate": 0.5373303,
+    "lose_rate": 0.45927602
+  },
+  "11083": {
+    "unit_id": 11083,
+    "win_times": 203,
+    "lose_times": 224,
+    "draw_times": 1,
+    "win_rate": 0.47429907,
+    "lose_rate": 0.5233645
+  },
+  "11084": {
+    "unit_id": 11084,
+    "win_times": 623,
+    "lose_times": 713,
+    "draw_times": 3,
+    "win_rate": 0.4652726,
+    "lose_rate": 0.5324869
+  },
+  "11081": {
+    "unit_id": 11081,
+    "win_times": 5,
+    "lose_times": 2,
+    "draw_times": 0,
+    "win_rate": 0.71428573,
+    "lose_rate": 0.2857143
+  },
+  "11078": {
+    "unit_id": 11078,
+    "win_times": 534,
+    "lose_times": 319,
+    "draw_times": 4,
+    "win_rate": 0.62310386,
+    "lose_rate": 0.3722287
+  },
+  "11079": {
+    "unit_id": 11079,
+    "win_times": 55,
+    "lose_times": 55,
+    "draw_times": 1,
+    "win_rate": 0.4954955,
+    "lose_rate": 0.4954955
+  },
+  "11077": {
+    "unit_id": 11077,
+    "win_times": 110,
+    "lose_times": 118,
+    "draw_times": 2,
+    "win_rate": 0.47826087,
+    "lose_rate": 0.51304346
+  },
+  "11082": {
+    "unit_id": 11082,
+    "win_times": 9,
+    "lose_times": 15,
+    "draw_times": 0,
+    "win_rate": 0.375,
+    "lose_rate": 0.625
+  },
+  "11076": {
+    "unit_id": 11076,
+    "win_times": 194,
+    "lose_times": 169,
+    "draw_times": 0,
+    "win_rate": 0.5344353,
+    "lose_rate": 0.46556473
+  },
+  "11075": {
+    "unit_id": 11075,
+    "win_times": 22,
+    "lose_times": 26,
+    "draw_times": 0,
+    "win_rate": 0.45833334,
+    "lose_rate": 0.5416667
+  },
+  "11074": {
+    "unit_id": 11074,
+    "win_times": 66,
+    "lose_times": 60,
+    "draw_times": 1,
+    "win_rate": 0.51968503,
+    "lose_rate": 0.47244096
+  },
+  "11071": {
+    "unit_id": 11071,
+    "win_times": 29,
+    "lose_times": 40,
+    "draw_times": 1,
+    "win_rate": 0.41428572,
+    "lose_rate": 0.5714286
+  },
+  "11069": {
+    "unit_id": 11069,
+    "win_times": 581,
+    "lose_times": 571,
+    "draw_times": 3,
+    "win_rate": 0.5030303,
+    "lose_rate": 0.4943723
+  },
+  "11072": {
+    "unit_id": 11072,
+    "win_times": 189,
+    "lose_times": 261,
+    "draw_times": 4,
+    "win_rate": 0.41629955,
+    "lose_rate": 0.57488984
+  },
+  "11067": {
+    "unit_id": 11067,
+    "win_times": 536,
+    "lose_times": 388,
+    "draw_times": 3,
+    "win_rate": 0.5782093,
+    "lose_rate": 0.41855448
+  },
+  "11066": {
+    "unit_id": 11066,
+    "win_times": 11,
+    "lose_times": 12,
+    "draw_times": 0,
+    "win_rate": 0.47826087,
+    "lose_rate": 0.5217391
+  },
+  "11063": {
+    "unit_id": 11063,
+    "win_times": 235,
+    "lose_times": 315,
+    "draw_times": 1,
+    "win_rate": 0.42649728,
+    "lose_rate": 0.5716878
+  },
+  "11061": {
+    "unit_id": 11061,
+    "win_times": 522,
+    "lose_times": 398,
+    "draw_times": 2,
+    "win_rate": 0.5661605,
+    "lose_rate": 0.43167028
+  },
+  "11062": {
+    "unit_id": 11062,
+    "win_times": 2,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0.6666667,
+    "lose_rate": 0.33333334
+  },
+  "11060": {
+    "unit_id": 11060,
+    "win_times": 25,
+    "lose_times": 28,
+    "draw_times": 0,
+    "win_rate": 0.4716981,
+    "lose_rate": 0.5283019
+  },
+  "11059": {
+    "unit_id": 11059,
+    "win_times": 206,
+    "lose_times": 204,
+    "draw_times": 1,
+    "win_rate": 0.50121653,
+    "lose_rate": 0.49635038
+  },
+  "11058": {
+    "unit_id": 11058,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "11055": {
+    "unit_id": 11055,
+    "win_times": 524,
+    "lose_times": 553,
+    "draw_times": 4,
+    "win_rate": 0.48473635,
+    "lose_rate": 0.51156336
+  },
+  "11054": {
+    "unit_id": 11054,
+    "win_times": 327,
+    "lose_times": 335,
+    "draw_times": 1,
+    "win_rate": 0.49321267,
+    "lose_rate": 0.50527906
+  },
+  "11052": {
+    "unit_id": 11052,
+    "win_times": 123,
+    "lose_times": 105,
+    "draw_times": 0,
+    "win_rate": 0.5394737,
+    "lose_rate": 0.46052632
+  },
+  "11051": {
+    "unit_id": 11051,
+    "win_times": 5,
+    "lose_times": 13,
+    "draw_times": 0,
+    "win_rate": 0.2777778,
+    "lose_rate": 0.7222222
+  },
+  "11053": {
+    "unit_id": 11053,
+    "win_times": 77,
+    "lose_times": 57,
+    "draw_times": 0,
+    "win_rate": 0.57462686,
+    "lose_rate": 0.42537314
+  },
+  "11050": {
+    "unit_id": 11050,
+    "win_times": 18,
+    "lose_times": 19,
+    "draw_times": 1,
+    "win_rate": 0.47368422,
+    "lose_rate": 0.5
+  },
+  "11049": {
+    "unit_id": 11049,
+    "win_times": 232,
+    "lose_times": 279,
+    "draw_times": 0,
+    "win_rate": 0.45401174,
+    "lose_rate": 0.54598826
+  },
+  "11048": {
+    "unit_id": 11048,
+    "win_times": 369,
+    "lose_times": 321,
+    "draw_times": 4,
+    "win_rate": 0.5317003,
+    "lose_rate": 0.46253604
+  },
+  "11047": {
+    "unit_id": 11047,
+    "win_times": 174,
+    "lose_times": 210,
+    "draw_times": 0,
+    "win_rate": 0.453125,
+    "lose_rate": 0.546875
+  },
+  "11046": {
+    "unit_id": 11046,
+    "win_times": 19,
+    "lose_times": 25,
+    "draw_times": 1,
+    "win_rate": 0.42222223,
+    "lose_rate": 0.5555556
+  },
+  "11043": {
+    "unit_id": 11043,
+    "win_times": 227,
+    "lose_times": 242,
+    "draw_times": 1,
+    "win_rate": 0.48297873,
+    "lose_rate": 0.5148936
+  },
+  "11044": {
+    "unit_id": 11044,
+    "win_times": 43,
+    "lose_times": 58,
+    "draw_times": 0,
+    "win_rate": 0.42574257,
+    "lose_rate": 0.57425743
+  },
+  "11041": {
+    "unit_id": 11041,
+    "win_times": 64,
+    "lose_times": 87,
+    "draw_times": 0,
+    "win_rate": 0.42384106,
+    "lose_rate": 0.57615894
+  },
+  "11040": {
+    "unit_id": 11040,
+    "win_times": 26,
+    "lose_times": 27,
+    "draw_times": 0,
+    "win_rate": 0.49056605,
+    "lose_rate": 0.509434
+  },
+  "11039": {
+    "unit_id": 11039,
+    "win_times": 488,
+    "lose_times": 453,
+    "draw_times": 4,
+    "win_rate": 0.5164021,
+    "lose_rate": 0.47936508
+  },
+  "11038": {
+    "unit_id": 11038,
+    "win_times": 65,
+    "lose_times": 61,
+    "draw_times": 0,
+    "win_rate": 0.515873,
+    "lose_rate": 0.48412699
+  },
+  "11036": {
+    "unit_id": 11036,
+    "win_times": 12,
+    "lose_times": 18,
+    "draw_times": 1,
+    "win_rate": 0.38709676,
+    "lose_rate": 0.58064514
+  },
+  "11037": {
+    "unit_id": 11037,
+    "win_times": 6,
+    "lose_times": 8,
+    "draw_times": 0,
+    "win_rate": 0.42857143,
+    "lose_rate": 0.5714286
+  },
+  "11035": {
+    "unit_id": 11035,
+    "win_times": 89,
+    "lose_times": 73,
+    "draw_times": 0,
+    "win_rate": 0.5493827,
+    "lose_rate": 0.45061728
+  },
+  "11034": {
+    "unit_id": 11034,
+    "win_times": 0,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "11033": {
+    "unit_id": 11033,
+    "win_times": 23,
+    "lose_times": 35,
+    "draw_times": 0,
+    "win_rate": 0.39655173,
+    "lose_rate": 0.6034483
+  },
+  "11032": {
+    "unit_id": 11032,
+    "win_times": 7,
+    "lose_times": 9,
+    "draw_times": 0,
+    "win_rate": 0.4375,
+    "lose_rate": 0.5625
+  },
+  "11031": {
+    "unit_id": 11031,
+    "win_times": 1,
+    "lose_times": 3,
+    "draw_times": 0,
+    "win_rate": 0.25,
+    "lose_rate": 0.75
+  },
+  "11030": {
+    "unit_id": 11030,
+    "win_times": 136,
+    "lose_times": 176,
+    "draw_times": 2,
+    "win_rate": 0.43312103,
+    "lose_rate": 0.56050956
+  },
+  "11027": {
+    "unit_id": 11027,
+    "win_times": 35,
+    "lose_times": 39,
+    "draw_times": 0,
+    "win_rate": 0.47297296,
+    "lose_rate": 0.527027
+  },
+  "11028": {
+    "unit_id": 11028,
+    "win_times": 115,
+    "lose_times": 143,
+    "draw_times": 3,
+    "win_rate": 0.44061303,
+    "lose_rate": 0.54789275
+  },
+  "11026": {
+    "unit_id": 11026,
+    "win_times": 7,
+    "lose_times": 5,
+    "draw_times": 0,
+    "win_rate": 0.5833333,
+    "lose_rate": 0.41666666
+  },
+  "11025": {
+    "unit_id": 11025,
+    "win_times": 11,
+    "lose_times": 22,
+    "draw_times": 2,
+    "win_rate": 0.31428573,
+    "lose_rate": 0.62857145
+  },
+  "11024": {
+    "unit_id": 11024,
+    "win_times": 19,
+    "lose_times": 14,
+    "draw_times": 2,
+    "win_rate": 0.54285717,
+    "lose_rate": 0.4
+  },
+  "11023": {
+    "unit_id": 11023,
+    "win_times": 45,
+    "lose_times": 63,
+    "draw_times": 1,
+    "win_rate": 0.41284403,
+    "lose_rate": 0.57798165
+  },
+  "11022": {
+    "unit_id": 11022,
+    "win_times": 0,
+    "lose_times": 2,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "11020": {
+    "unit_id": 11020,
+    "win_times": 187,
+    "lose_times": 137,
+    "draw_times": 3,
+    "win_rate": 0.57186544,
+    "lose_rate": 0.41896024
+  },
+  "11019": {
+    "unit_id": 11019,
+    "win_times": 69,
+    "lose_times": 65,
+    "draw_times": 1,
+    "win_rate": 0.51111114,
+    "lose_rate": 0.4814815
+  },
+  "11021": {
+    "unit_id": 11021,
+    "win_times": 94,
+    "lose_times": 88,
+    "draw_times": 0,
+    "win_rate": 0.51648355,
+    "lose_rate": 0.48351648
+  },
+  "11018": {
+    "unit_id": 11018,
+    "win_times": 157,
+    "lose_times": 148,
+    "draw_times": 1,
+    "win_rate": 0.5130719,
+    "lose_rate": 0.48366013
+  },
+  "11017": {
+    "unit_id": 11017,
+    "win_times": 32,
+    "lose_times": 33,
+    "draw_times": 0,
+    "win_rate": 0.4923077,
+    "lose_rate": 0.50769234
+  },
+  "11015": {
+    "unit_id": 11015,
+    "win_times": 75,
+    "lose_times": 66,
+    "draw_times": 1,
+    "win_rate": 0.52816904,
+    "lose_rate": 0.46478873
+  },
+  "11016": {
+    "unit_id": 11016,
+    "win_times": 87,
+    "lose_times": 74,
+    "draw_times": 0,
+    "win_rate": 0.54037267,
+    "lose_rate": 0.45962733
+  },
+  "11014": {
+    "unit_id": 11014,
+    "win_times": 2,
+    "lose_times": 2,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "11013": {
+    "unit_id": 11013,
+    "win_times": 31,
+    "lose_times": 27,
+    "draw_times": 2,
+    "win_rate": 0.51666665,
+    "lose_rate": 0.45
+  },
+  "11012": {
+    "unit_id": 11012,
+    "win_times": 7,
+    "lose_times": 7,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "11011": {
+    "unit_id": 11011,
+    "win_times": 3,
+    "lose_times": 5,
+    "draw_times": 0,
+    "win_rate": 0.375,
+    "lose_rate": 0.625
+  },
+  "11010": {
+    "unit_id": 11010,
+    "win_times": 6,
+    "lose_times": 5,
+    "draw_times": 0,
+    "win_rate": 0.54545456,
+    "lose_rate": 0.45454547
+  },
+  "11009": {
+    "unit_id": 11009,
+    "win_times": 329,
+    "lose_times": 332,
+    "draw_times": 1,
+    "win_rate": 0.49697885,
+    "lose_rate": 0.50151056
+  },
+  "11008": {
+    "unit_id": 11008,
+    "win_times": 19,
+    "lose_times": 33,
+    "draw_times": 0,
+    "win_rate": 0.3653846,
+    "lose_rate": 0.63461536
+  },
+  "11007": {
+    "unit_id": 11007,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "11006": {
+    "unit_id": 11006,
+    "win_times": 119,
+    "lose_times": 135,
+    "draw_times": 3,
+    "win_rate": 0.46303502,
+    "lose_rate": 0.5252918
+  },
+  "11004": {
+    "unit_id": 11004,
+    "win_times": 0,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "11003": {
+    "unit_id": 11003,
+    "win_times": 14,
+    "lose_times": 27,
+    "draw_times": 0,
+    "win_rate": 0.34146342,
+    "lose_rate": 0.6585366
+  },
+  "11002": {
+    "unit_id": 11002,
+    "win_times": 1243,
+    "lose_times": 933,
+    "draw_times": 14,
+    "win_rate": 0.5675799,
+    "lose_rate": 0.4260274
+  },
+  "10300": {
+    "unit_id": 10300,
+    "win_times": 800,
+    "lose_times": 824,
+    "draw_times": 1,
+    "win_rate": 0.4923077,
+    "lose_rate": 0.5070769
+  },
+  "11001": {
+    "unit_id": 11001,
+    "win_times": 2,
+    "lose_times": 3,
+    "draw_times": 0,
+    "win_rate": 0.4,
+    "lose_rate": 0.6
+  },
+  "10256": {
+    "unit_id": 10256,
+    "win_times": 654,
+    "lose_times": 600,
+    "draw_times": 5,
+    "win_rate": 0.5194599,
+    "lose_rate": 0.4765687
+  },
+  "10255": {
+    "unit_id": 10255,
+    "win_times": 52,
+    "lose_times": 35,
+    "draw_times": 0,
+    "win_rate": 0.59770113,
+    "lose_rate": 0.40229884
+  },
+  "10254": {
+    "unit_id": 10254,
+    "win_times": 22,
+    "lose_times": 25,
+    "draw_times": 0,
+    "win_rate": 0.4680851,
+    "lose_rate": 0.5319149
+  },
+  "10252": {
+    "unit_id": 10252,
+    "win_times": 136,
+    "lose_times": 194,
+    "draw_times": 3,
+    "win_rate": 0.4084084,
+    "lose_rate": 0.5825826
+  },
+  "10251": {
+    "unit_id": 10251,
+    "win_times": 13,
+    "lose_times": 13,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "10249": {
+    "unit_id": 10249,
+    "win_times": 76,
+    "lose_times": 61,
+    "draw_times": 0,
+    "win_rate": 0.55474454,
+    "lose_rate": 0.4452555
+  },
+  "10238": {
+    "unit_id": 10238,
+    "win_times": 1883,
+    "lose_times": 1368,
+    "draw_times": 24,
+    "win_rate": 0.57496184,
+    "lose_rate": 0.41770992
+  },
+  "10236": {
+    "unit_id": 10236,
+    "win_times": 392,
+    "lose_times": 270,
+    "draw_times": 1,
+    "win_rate": 0.5912519,
+    "lose_rate": 0.40723982
+  },
+  "10233": {
+    "unit_id": 10233,
+    "win_times": 179,
+    "lose_times": 195,
+    "draw_times": 0,
+    "win_rate": 0.47860962,
+    "lose_rate": 0.5213904
+  },
+  "10235": {
+    "unit_id": 10235,
+    "win_times": 50,
+    "lose_times": 47,
+    "draw_times": 1,
+    "win_rate": 0.5102041,
+    "lose_rate": 0.47959185
+  },
+  "10231": {
+    "unit_id": 10231,
+    "win_times": 150,
+    "lose_times": 133,
+    "draw_times": 0,
+    "win_rate": 0.5300353,
+    "lose_rate": 0.46996465
+  },
+  "10229": {
+    "unit_id": 10229,
+    "win_times": 164,
+    "lose_times": 215,
+    "draw_times": 1,
+    "win_rate": 0.43157893,
+    "lose_rate": 0.56578946
+  },
+  "10227": {
+    "unit_id": 10227,
+    "win_times": 12,
+    "lose_times": 21,
+    "draw_times": 0,
+    "win_rate": 0.36363637,
+    "lose_rate": 0.6363636
+  },
+  "10225": {
+    "unit_id": 10225,
+    "win_times": 542,
+    "lose_times": 564,
+    "draw_times": 6,
+    "win_rate": 0.48741007,
+    "lose_rate": 0.5071942
+  },
+  "10221": {
+    "unit_id": 10221,
+    "win_times": 52,
+    "lose_times": 72,
+    "draw_times": 1,
+    "win_rate": 0.416,
+    "lose_rate": 0.576
+  },
+  "10210": {
+    "unit_id": 10210,
+    "win_times": 86,
+    "lose_times": 73,
+    "draw_times": 0,
+    "win_rate": 0.5408805,
+    "lose_rate": 0.4591195
+  },
+  "10219": {
+    "unit_id": 10219,
+    "win_times": 254,
+    "lose_times": 164,
+    "draw_times": 1,
+    "win_rate": 0.6062052,
+    "lose_rate": 0.39140812
+  },
+  "10212": {
+    "unit_id": 10212,
+    "win_times": 272,
+    "lose_times": 264,
+    "draw_times": 1,
+    "win_rate": 0.5065177,
+    "lose_rate": 0.49162012
+  },
+  "10218": {
+    "unit_id": 10218,
+    "win_times": 16,
+    "lose_times": 13,
+    "draw_times": 0,
+    "win_rate": 0.55172414,
+    "lose_rate": 0.44827586
+  },
+  "10208": {
+    "unit_id": 10208,
+    "win_times": 183,
+    "lose_times": 169,
+    "draw_times": 0,
+    "win_rate": 0.5198864,
+    "lose_rate": 0.48011363
+  },
+  "10203": {
+    "unit_id": 10203,
+    "win_times": 5,
+    "lose_times": 6,
+    "draw_times": 0,
+    "win_rate": 0.45454547,
+    "lose_rate": 0.54545456
+  },
+  "10204": {
+    "unit_id": 10204,
+    "win_times": 23,
+    "lose_times": 23,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "10202": {
+    "unit_id": 10202,
+    "win_times": 158,
+    "lose_times": 172,
+    "draw_times": 1,
+    "win_rate": 0.47734138,
+    "lose_rate": 0.51963747
+  },
+  "10135": {
+    "unit_id": 10135,
+    "win_times": 54,
+    "lose_times": 74,
+    "draw_times": 2,
+    "win_rate": 0.41538462,
+    "lose_rate": 0.5692308
+  },
+  "10200": {
+    "unit_id": 10200,
+    "win_times": 39,
+    "lose_times": 54,
+    "draw_times": 0,
+    "win_rate": 0.41935483,
+    "lose_rate": 0.58064514
+  },
+  "10140": {
+    "unit_id": 10140,
+    "win_times": 137,
+    "lose_times": 156,
+    "draw_times": 1,
+    "win_rate": 0.4659864,
+    "lose_rate": 0.53061223
+  },
+  "10132": {
+    "unit_id": 10132,
+    "win_times": 80,
+    "lose_times": 80,
+    "draw_times": 1,
+    "win_rate": 0.49689442,
+    "lose_rate": 0.49689442
+  },
+  "10128": {
+    "unit_id": 10128,
+    "win_times": 163,
+    "lose_times": 152,
+    "draw_times": 0,
+    "win_rate": 0.51746035,
+    "lose_rate": 0.48253968
+  },
+  "10130": {
+    "unit_id": 10130,
+    "win_times": 136,
+    "lose_times": 151,
+    "draw_times": 1,
+    "win_rate": 0.4722222,
+    "lose_rate": 0.5243056
+  },
+  "10125": {
+    "unit_id": 10125,
+    "win_times": 77,
+    "lose_times": 114,
+    "draw_times": 3,
+    "win_rate": 0.3969072,
+    "lose_rate": 0.58762884
+  },
+  "10126": {
+    "unit_id": 10126,
+    "win_times": 129,
+    "lose_times": 124,
+    "draw_times": 2,
+    "win_rate": 0.5058824,
+    "lose_rate": 0.4862745
+  },
+  "10121": {
+    "unit_id": 10121,
+    "win_times": 366,
+    "lose_times": 396,
+    "draw_times": 1,
+    "win_rate": 0.47968546,
+    "lose_rate": 0.5190039
+  },
+  "10123": {
+    "unit_id": 10123,
+    "win_times": 16,
+    "lose_times": 21,
+    "draw_times": 0,
+    "win_rate": 0.43243244,
+    "lose_rate": 0.5675676
+  },
+  "10122": {
+    "unit_id": 10122,
+    "win_times": 51,
+    "lose_times": 75,
+    "draw_times": 2,
+    "win_rate": 0.3984375,
+    "lose_rate": 0.5859375
+  },
+  "10119": {
+    "unit_id": 10119,
+    "win_times": 35,
+    "lose_times": 55,
+    "draw_times": 0,
+    "win_rate": 0.3888889,
+    "lose_rate": 0.6111111
+  },
+  "10118": {
+    "unit_id": 10118,
+    "win_times": 334,
+    "lose_times": 256,
+    "draw_times": 1,
+    "win_rate": 0.5651438,
+    "lose_rate": 0.43316412
+  },
+  "10114": {
+    "unit_id": 10114,
+    "win_times": 269,
+    "lose_times": 379,
+    "draw_times": 5,
+    "win_rate": 0.41194487,
+    "lose_rate": 0.58039814
+  },
+  "10112": {
+    "unit_id": 10112,
+    "win_times": 295,
+    "lose_times": 225,
+    "draw_times": 2,
+    "win_rate": 0.5651341,
+    "lose_rate": 0.43103448
+  },
+  "10113": {
+    "unit_id": 10113,
+    "win_times": 93,
+    "lose_times": 102,
+    "draw_times": 0,
+    "win_rate": 0.47692308,
+    "lose_rate": 0.52307695
+  },
+  "10110": {
+    "unit_id": 10110,
+    "win_times": 190,
+    "lose_times": 239,
+    "draw_times": 1,
+    "win_rate": 0.44186047,
+    "lose_rate": 0.55581397
+  },
+  "10116": {
+    "unit_id": 10116,
+    "win_times": 52,
+    "lose_times": 39,
+    "draw_times": 0,
+    "win_rate": 0.5714286,
+    "lose_rate": 0.42857143
+  },
+  "10109": {
+    "unit_id": 10109,
+    "win_times": 137,
+    "lose_times": 115,
+    "draw_times": 0,
+    "win_rate": 0.5436508,
+    "lose_rate": 0.4563492
+  },
+  "10108": {
+    "unit_id": 10108,
+    "win_times": 107,
+    "lose_times": 113,
+    "draw_times": 1,
+    "win_rate": 0.4841629,
+    "lose_rate": 0.51131225
+  },
+  "10104": {
+    "unit_id": 10104,
+    "win_times": 122,
+    "lose_times": 143,
+    "draw_times": 1,
+    "win_rate": 0.45864663,
+    "lose_rate": 0.53759396
+  },
+  "10106": {
+    "unit_id": 10106,
+    "win_times": 1266,
+    "lose_times": 1063,
+    "draw_times": 9,
+    "win_rate": 0.54148847,
+    "lose_rate": 0.4546621
+  },
+  "10103": {
+    "unit_id": 10103,
+    "win_times": 166,
+    "lose_times": 219,
+    "draw_times": 1,
+    "win_rate": 0.4300518,
+    "lose_rate": 0.56735754
+  },
+  "10100": {
+    "unit_id": 10100,
+    "win_times": 79,
+    "lose_times": 100,
+    "draw_times": 0,
+    "win_rate": 0.44134077,
+    "lose_rate": 0.5586592
+  },
+  "10101": {
+    "unit_id": 10101,
+    "win_times": 70,
+    "lose_times": 34,
+    "draw_times": 1,
+    "win_rate": 0.6666667,
+    "lose_rate": 0.32380953
+  },
+  "10099": {
+    "unit_id": 10099,
+    "win_times": 97,
+    "lose_times": 91,
+    "draw_times": 0,
+    "win_rate": 0.5159575,
+    "lose_rate": 0.48404256
+  },
+  "10098": {
+    "unit_id": 10098,
+    "win_times": 226,
+    "lose_times": 169,
+    "draw_times": 2,
+    "win_rate": 0.56926954,
+    "lose_rate": 0.4256927
+  },
+  "10095": {
+    "unit_id": 10095,
+    "win_times": 35,
+    "lose_times": 42,
+    "draw_times": 0,
+    "win_rate": 0.45454547,
+    "lose_rate": 0.54545456
+  },
+  "10093": {
+    "unit_id": 10093,
+    "win_times": 549,
+    "lose_times": 464,
+    "draw_times": 5,
+    "win_rate": 0.53929275,
+    "lose_rate": 0.45579568
+  },
+  "10096": {
+    "unit_id": 10096,
+    "win_times": 518,
+    "lose_times": 357,
+    "draw_times": 5,
+    "win_rate": 0.58863634,
+    "lose_rate": 0.40568182
+  },
+  "10092": {
+    "unit_id": 10092,
+    "win_times": 83,
+    "lose_times": 71,
+    "draw_times": 1,
+    "win_rate": 0.5354839,
+    "lose_rate": 0.45806453
+  },
+  "10091": {
+    "unit_id": 10091,
+    "win_times": 2,
+    "lose_times": 9,
+    "draw_times": 0,
+    "win_rate": 0.18181819,
+    "lose_rate": 0.8181818
+  },
+  "10090": {
+    "unit_id": 10090,
+    "win_times": 15,
+    "lose_times": 23,
+    "draw_times": 0,
+    "win_rate": 0.39473686,
+    "lose_rate": 0.6052632
+  },
+  "10089": {
+    "unit_id": 10089,
+    "win_times": 19,
+    "lose_times": 22,
+    "draw_times": 0,
+    "win_rate": 0.46341464,
+    "lose_rate": 0.5365854
+  },
+  "10087": {
+    "unit_id": 10087,
+    "win_times": 156,
+    "lose_times": 184,
+    "draw_times": 2,
+    "win_rate": 0.45614034,
+    "lose_rate": 0.53801167
+  },
+  "10086": {
+    "unit_id": 10086,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "10085": {
+    "unit_id": 10085,
+    "win_times": 3,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 1,
+    "lose_rate": 0
+  },
+  "10084": {
+    "unit_id": 10084,
+    "win_times": 27,
+    "lose_times": 54,
+    "draw_times": 0,
+    "win_rate": 0.33333334,
+    "lose_rate": 0.6666667
+  },
+  "10082": {
+    "unit_id": 10082,
+    "win_times": 150,
+    "lose_times": 154,
+    "draw_times": 1,
+    "win_rate": 0.4918033,
+    "lose_rate": 0.50491804
+  },
+  "10081": {
+    "unit_id": 10081,
+    "win_times": 166,
+    "lose_times": 184,
+    "draw_times": 2,
+    "win_rate": 0.4715909,
+    "lose_rate": 0.52272725
+  },
+  "10079": {
+    "unit_id": 10079,
+    "win_times": 190,
+    "lose_times": 210,
+    "draw_times": 0,
+    "win_rate": 0.475,
+    "lose_rate": 0.525
+  },
+  "10244": {
+    "unit_id": 10244,
+    "win_times": 192,
+    "lose_times": 152,
+    "draw_times": 1,
+    "win_rate": 0.5565217,
+    "lose_rate": 0.4405797
+  },
+  "10078": {
+    "unit_id": 10078,
+    "win_times": 1,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "10076": {
+    "unit_id": 10076,
+    "win_times": 6,
+    "lose_times": 9,
+    "draw_times": 0,
+    "win_rate": 0.4,
+    "lose_rate": 0.6
+  },
+  "10075": {
+    "unit_id": 10075,
+    "win_times": 234,
+    "lose_times": 248,
+    "draw_times": 2,
+    "win_rate": 0.48347107,
+    "lose_rate": 0.5123967
+  },
+  "10072": {
+    "unit_id": 10072,
+    "win_times": 691,
+    "lose_times": 841,
+    "draw_times": 3,
+    "win_rate": 0.45016286,
+    "lose_rate": 0.54788274
+  },
+  "10073": {
+    "unit_id": 10073,
+    "win_times": 1000,
+    "lose_times": 1066,
+    "draw_times": 5,
+    "win_rate": 0.4828585,
+    "lose_rate": 0.5147272
+  },
+  "10071": {
+    "unit_id": 10071,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "10070": {
+    "unit_id": 10070,
+    "win_times": 27,
+    "lose_times": 46,
+    "draw_times": 0,
+    "win_rate": 0.369863,
+    "lose_rate": 0.63013697
+  },
+  "10067": {
+    "unit_id": 10067,
+    "win_times": 96,
+    "lose_times": 105,
+    "draw_times": 0,
+    "win_rate": 0.47761193,
+    "lose_rate": 0.52238804
+  },
+  "10066": {
+    "unit_id": 10066,
+    "win_times": 967,
+    "lose_times": 682,
+    "draw_times": 7,
+    "win_rate": 0.5839372,
+    "lose_rate": 0.41183576
+  },
+  "10063": {
+    "unit_id": 10063,
+    "win_times": 94,
+    "lose_times": 123,
+    "draw_times": 0,
+    "win_rate": 0.43317974,
+    "lose_rate": 0.56682026
+  },
+  "10062": {
+    "unit_id": 10062,
+    "win_times": 322,
+    "lose_times": 250,
+    "draw_times": 1,
+    "win_rate": 0.5619546,
+    "lose_rate": 0.4363002
+  },
+  "10061": {
+    "unit_id": 10061,
+    "win_times": 265,
+    "lose_times": 301,
+    "draw_times": 1,
+    "win_rate": 0.46737212,
+    "lose_rate": 0.5308642
+  },
+  "10065": {
+    "unit_id": 10065,
+    "win_times": 471,
+    "lose_times": 319,
+    "draw_times": 1,
+    "win_rate": 0.5954488,
+    "lose_rate": 0.40328696
+  },
+  "10060": {
+    "unit_id": 10060,
+    "win_times": 413,
+    "lose_times": 516,
+    "draw_times": 2,
+    "win_rate": 0.44360903,
+    "lose_rate": 0.55424273
+  },
+  "10059": {
+    "unit_id": 10059,
+    "win_times": 116,
+    "lose_times": 104,
+    "draw_times": 1,
+    "win_rate": 0.5248869,
+    "lose_rate": 0.47058824
+  },
+  "10057": {
+    "unit_id": 10057,
+    "win_times": 111,
+    "lose_times": 123,
+    "draw_times": 0,
+    "win_rate": 0.47435898,
+    "lose_rate": 0.525641
+  },
+  "10056": {
+    "unit_id": 10056,
+    "win_times": 84,
+    "lose_times": 110,
+    "draw_times": 1,
+    "win_rate": 0.43076923,
+    "lose_rate": 0.5641026
+  },
+  "10053": {
+    "unit_id": 10053,
+    "win_times": 7,
+    "lose_times": 5,
+    "draw_times": 0,
+    "win_rate": 0.5833333,
+    "lose_rate": 0.41666666
+  },
+  "10052": {
+    "unit_id": 10052,
+    "win_times": 48,
+    "lose_times": 30,
+    "draw_times": 1,
+    "win_rate": 0.6075949,
+    "lose_rate": 0.37974682
+  },
+  "10049": {
+    "unit_id": 10049,
+    "win_times": 1127,
+    "lose_times": 1338,
+    "draw_times": 13,
+    "win_rate": 0.45480227,
+    "lose_rate": 0.53995156
+  },
+  "10055": {
+    "unit_id": 10055,
+    "win_times": 199,
+    "lose_times": 298,
+    "draw_times": 4,
+    "win_rate": 0.3972056,
+    "lose_rate": 0.59481037
+  },
+  "10048": {
+    "unit_id": 10048,
+    "win_times": 569,
+    "lose_times": 718,
+    "draw_times": 4,
+    "win_rate": 0.4407436,
+    "lose_rate": 0.556158
+  },
+  "10047": {
+    "unit_id": 10047,
+    "win_times": 48,
+    "lose_times": 50,
+    "draw_times": 1,
+    "win_rate": 0.4848485,
+    "lose_rate": 0.5050505
+  },
+  "10046": {
+    "unit_id": 10046,
+    "win_times": 19,
+    "lose_times": 35,
+    "draw_times": 0,
+    "win_rate": 0.35185185,
+    "lose_rate": 0.6481481
+  },
+  "10044": {
+    "unit_id": 10044,
+    "win_times": 18,
+    "lose_times": 54,
+    "draw_times": 1,
+    "win_rate": 0.24657534,
+    "lose_rate": 0.739726
+  },
+  "10042": {
+    "unit_id": 10042,
+    "win_times": 216,
+    "lose_times": 211,
+    "draw_times": 5,
+    "win_rate": 0.5,
+    "lose_rate": 0.48842594
+  },
+  "10041": {
+    "unit_id": 10041,
+    "win_times": 0,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "10040": {
+    "unit_id": 10040,
+    "win_times": 2,
+    "lose_times": 4,
+    "draw_times": 0,
+    "win_rate": 0.33333334,
+    "lose_rate": 0.6666667
+  },
+  "10038": {
+    "unit_id": 10038,
+    "win_times": 1,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0.5,
+    "lose_rate": 0.5
+  },
+  "10039": {
+    "unit_id": 10039,
+    "win_times": 400,
+    "lose_times": 455,
+    "draw_times": 5,
+    "win_rate": 0.4651163,
+    "lose_rate": 0.5290698
+  },
+  "10037": {
+    "unit_id": 10037,
+    "win_times": 8,
+    "lose_times": 18,
+    "draw_times": 0,
+    "win_rate": 0.30769232,
+    "lose_rate": 0.6923077
+  },
+  "10036": {
+    "unit_id": 10036,
+    "win_times": 61,
+    "lose_times": 84,
+    "draw_times": 0,
+    "win_rate": 0.42068964,
+    "lose_rate": 0.57931036
+  },
+  "10032": {
+    "unit_id": 10032,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "10033": {
+    "unit_id": 10033,
+    "win_times": 0,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "10035": {
+    "unit_id": 10035,
+    "win_times": 27,
+    "lose_times": 37,
+    "draw_times": 1,
+    "win_rate": 0.41538462,
+    "lose_rate": 0.5692308
+  },
+  "10034": {
+    "unit_id": 10034,
+    "win_times": 104,
+    "lose_times": 103,
+    "draw_times": 3,
+    "win_rate": 0.4952381,
+    "lose_rate": 0.4904762
+  },
+  "10031": {
+    "unit_id": 10031,
+    "win_times": 6,
+    "lose_times": 4,
+    "draw_times": 0,
+    "win_rate": 0.6,
+    "lose_rate": 0.4
+  },
+  "10030": {
+    "unit_id": 10030,
+    "win_times": 2,
+    "lose_times": 11,
+    "draw_times": 0,
+    "win_rate": 0.15384616,
+    "lose_rate": 0.84615386
+  },
+  "10027": {
+    "unit_id": 10027,
+    "win_times": 19,
+    "lose_times": 37,
+    "draw_times": 0,
+    "win_rate": 0.3392857,
+    "lose_rate": 0.66071427
+  },
+  "10024": {
+    "unit_id": 10024,
+    "win_times": 47,
+    "lose_times": 70,
+    "draw_times": 3,
+    "win_rate": 0.39166668,
+    "lose_rate": 0.5833333
+  },
+  "10026": {
+    "unit_id": 10026,
+    "win_times": 688,
+    "lose_times": 539,
+    "draw_times": 7,
+    "win_rate": 0.5575365,
+    "lose_rate": 0.4367909
+  },
+  "10025": {
+    "unit_id": 10025,
+    "win_times": 380,
+    "lose_times": 441,
+    "draw_times": 0,
+    "win_rate": 0.46285018,
+    "lose_rate": 0.53714985
+  },
+  "10023": {
+    "unit_id": 10023,
+    "win_times": 5,
+    "lose_times": 11,
+    "draw_times": 0,
+    "win_rate": 0.3125,
+    "lose_rate": 0.6875
+  },
+  "10029": {
+    "unit_id": 10029,
+    "win_times": 4,
+    "lose_times": 9,
+    "draw_times": 0,
+    "win_rate": 0.30769232,
+    "lose_rate": 0.6923077
+  },
+  "10022": {
+    "unit_id": 10022,
+    "win_times": 0,
+    "lose_times": 1,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "10021": {
+    "unit_id": 10021,
+    "win_times": 432,
+    "lose_times": 432,
+    "draw_times": 9,
+    "win_rate": 0.49484536,
+    "lose_rate": 0.49484536
+  },
+  "10020": {
+    "unit_id": 10020,
+    "win_times": 762,
+    "lose_times": 652,
+    "draw_times": 1,
+    "win_rate": 0.5385159,
+    "lose_rate": 0.46077737
+  },
+  "10019": {
+    "unit_id": 10019,
+    "win_times": 4,
+    "lose_times": 12,
+    "draw_times": 0,
+    "win_rate": 0.25,
+    "lose_rate": 0.75
+  },
+  "10018": {
+    "unit_id": 10018,
+    "win_times": 162,
+    "lose_times": 168,
+    "draw_times": 9,
+    "win_rate": 0.4778761,
+    "lose_rate": 0.49557522
+  },
+  "10017": {
+    "unit_id": 10017,
+    "win_times": 2,
+    "lose_times": 8,
+    "draw_times": 0,
+    "win_rate": 0.2,
+    "lose_rate": 0.8
+  },
+  "10015": {
+    "unit_id": 10015,
+    "win_times": 194,
+    "lose_times": 279,
+    "draw_times": 0,
+    "win_rate": 0.410148,
+    "lose_rate": 0.58985204
+  },
+  "10016": {
+    "unit_id": 10016,
+    "win_times": 46,
+    "lose_times": 39,
+    "draw_times": 1,
+    "win_rate": 0.53488374,
+    "lose_rate": 0.45348838
+  },
+  "10014": {
+    "unit_id": 10014,
+    "win_times": 7,
+    "lose_times": 10,
+    "draw_times": 0,
+    "win_rate": 0.4117647,
+    "lose_rate": 0.5882353
+  },
+  "10013": {
+    "unit_id": 10013,
+    "win_times": 228,
+    "lose_times": 204,
+    "draw_times": 4,
+    "win_rate": 0.5229358,
+    "lose_rate": 0.4678899
+  },
+  "10012": {
+    "unit_id": 10012,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "10011": {
+    "unit_id": 10011,
+    "win_times": 27,
+    "lose_times": 9,
+    "draw_times": 1,
+    "win_rate": 0.7297297,
+    "lose_rate": 0.24324325
+  },
+  "10010": {
+    "unit_id": 10010,
+    "win_times": 0,
+    "lose_times": 0,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 0
+  },
+  "10008": {
+    "unit_id": 10008,
+    "win_times": 105,
+    "lose_times": 83,
+    "draw_times": 2,
+    "win_rate": 0.55263156,
+    "lose_rate": 0.4368421
+  },
+  "10007": {
+    "unit_id": 10007,
+    "win_times": 36,
+    "lose_times": 32,
+    "draw_times": 0,
+    "win_rate": 0.5294118,
+    "lose_rate": 0.47058824
+  },
+  "10009": {
+    "unit_id": 10009,
+    "win_times": 5,
+    "lose_times": 15,
+    "draw_times": 0,
+    "win_rate": 0.25,
+    "lose_rate": 0.75
+  },
+  "10006": {
+    "unit_id": 10006,
+    "win_times": 1336,
+    "lose_times": 1185,
+    "draw_times": 7,
+    "win_rate": 0.528481,
+    "lose_rate": 0.46875
+  },
+  "10005": {
+    "unit_id": 10005,
+    "win_times": 0,
+    "lose_times": 3,
+    "draw_times": 0,
+    "win_rate": 0,
+    "lose_rate": 1
+  },
+  "10003": {
+    "unit_id": 10003,
+    "win_times": 37,
+    "lose_times": 43,
+    "draw_times": 0,
+    "win_rate": 0.4625,
+    "lose_rate": 0.5375
+  },
+  "10004": {
+    "unit_id": 10004,
+    "win_times": 76,
+    "lose_times": 102,
+    "draw_times": 2,
+    "win_rate": 0.42222223,
+    "lose_rate": 0.56666666
+  },
+  "10002": {
+    "unit_id": 10002,
+    "win_times": 143,
+    "lose_times": 136,
+    "draw_times": 3,
+    "win_rate": 0.5070922,
+    "lose_rate": 0.4822695
+  },
+  "10001": {
+    "unit_id": 10001,
+    "win_times": 21,
+    "lose_times": 37,
+    "draw_times": 0,
+    "win_rate": 0.36206895,
+    "lose_rate": 0.63793105
+  }
+}
