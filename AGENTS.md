@@ -20,6 +20,8 @@ python .\fetch_sdganda_units.py --sample 3
 
 Runs a small smoke test by fetching only the first three units.
 
+On Windows, confirm that `python` is a real interpreter before relying on it. In this workspace, `python.exe` may resolve to the Microsoft Store alias and exit without useful output; if that happens, use the Codex bundled Python executable from the workspace dependency runtime instead.
+
 ```powershell
 python .\fetch_sdganda_units.py --date 20260620 --days 14
 ```
@@ -27,6 +29,14 @@ python .\fetch_sdganda_units.py --date 20260620 --days 14
 Writes outputs to `20260620/` using a 14-day win-rate window.
 
 The script depends on `openpyxl` for Excel output. If it is missing, install it in your active Python environment before running the export.
+
+Running the full export needs network access to `https://dbapi.sdganda.com/api`. If the first run fails with a connection-refused or sandbox/network error, retry with approved network access rather than changing script logic.
+
+## Win-Rate Analysis Notes
+
+For rank-bucket statistics, group units by the numeric `Rank` field instead of parsing the displayed `品阶` string. Use `Rank=4` for S-level units, `Rank=3` for A-level units, `Rank=2` for B-level units, and `Rank=0` or `Rank=1` for C-level units. This covers suffix variants such as `SS`, `SR`, `SU`, `AS`, `AR`, `AU`, `BS`, `BR`, and `BU` without fragile string matching.
+
+When comparing dated exports, match units by `ID`, filter on the requested sample threshold such as `win_times > 50`, rank each date with the same grouping and sorting rules, then label July entries as `新进入`, `上升 N 名`, `下降 N 名`, or `持平` relative to the June rank.
 
 ## Coding Style & Naming Conventions
 
@@ -52,4 +62,4 @@ Pull requests should include a short purpose summary, commands run, generated ou
 
 ## Security & Configuration Tips
 
-Do not commit credentials or private API tokens. This script currently uses public SDGanda API endpoints and a configurable `--api-base-url`; document any endpoint changes in `README.md`.
+This is an open source project, so assume all committed content may become public. Do not commit credentials, private API tokens, personal account details, private endpoint URLs, cookies, local machine paths with sensitive usernames, or unpublished data. This script currently uses public SDGanda API endpoints and a configurable `--api-base-url`; document any endpoint changes in `README.md`.
